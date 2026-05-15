@@ -6,9 +6,15 @@ This code and data can be used to replicate the results from the project "Tiny A
 
 Install the requirements from "requirements.txt".
 
-## Data
+## Participant Data
 
 The data collected in the main study (exp1) can be found in 'resources/playerdata/data', and the validation experiment (exp2) can be found in 'resources/playerdata_validation'
+
+## Additional Data
+
+The two regression data files can be found at xyz. Copy them into empowermentexploration/data/regression/
+
+The files for the costumgametree can be found at xyz. Copy them into empowermentexploration/resources/customgametree/data/
 
 ## Usage
 
