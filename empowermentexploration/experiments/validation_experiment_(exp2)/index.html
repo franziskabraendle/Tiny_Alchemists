@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Tiny Alchemy validation">
+    <meta name="author" content="Eric Schulz & Franziska Brändle & Silja Keßler">
+    <meta charset="utf-8">
+    <title>Piccoli Alchimisti</title>
+    <script src='https://cdn.firebase.com/js/client/1.1.1/firebase.js'></script>
+    <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script type="text/javascript" src="df_prediction.json"></script>
+    <script type="text/javascript" src="df_empowerment.json"></script>
+
+  </head>
+
+  <div class="container" >
+
+    <div class="container" >
+    <!--First page contains Welcome-->
+     <div id="page1" style="display:block">
+       <h3><font FACE="bookman" color="#1c81bb"><b>Piccoli Alchimisti</b></font></h3>
+       <p> Questo studio è condotto dal laboratorio iSearch di Berlino, diretto da Azzurra Ruggeri. </p>
+       <fieldset>
+        ID del partecipante:</b><br>
+         <input type="text" id="mturk" maxlength="20"><br>
+         <br><br>
+       <button type="button" class="btn btn-sm nohover" name="button"; onclick="clickStart('page1','page3')"; >Avanti</button>
+     </div>
+
+
+        <!--Third page contains description on how so play the game-->
+    <div id="page3" style="display:none">
+       <br>
+        <p><b>Esplora un universo di elementi!</b></p>
+         <ul>
+            <li>Questo gioco si chiama "Piccoli Alchimisti".</li>
+            <li>Puoi creare nuovi elementi combinando altri due elementi.</li>
+            <li>All'inizio hai a disposizione nel tuo inventario 4 elementi di base, "acqua", "terra", "fuoco" and "aria."</li>
+            <li>Prova a combinare i due elementi evidenziati in rosso e guarda cosa creano. Puoi cliccare sugli elementi per selezionarli, e quando sono entrambi selezionati, clicca su "Vediamo che succede!".</li>
+            <li>Se la combinazione non crea un nuovo elemento, vedrai una croce rossa. Se la combinazione crea un nuovo elemento, questo elemento si aggiunge al tuo inventario e può essere usato in altre combinazioni.</li>
+            <li>Giocherai per 10 turni per capire come funziona il gioco.</li>
+            <li>Dopo questi 10 turni, ti mostreremo alcune nuove combinazioni e ti faremo alcune domande su cosa pensi che producano o meno.</li>
+         </ul>
+      <br>
+      <button type="button" class="btn btn-sm nohover" name="button"; onclick="clickStart('page3','page4')"; >Comincia!</button>
+    </div>
+
+    <!--Fourth page contains game-->
+     <div id="page4" style="display:none">
+       <h3><font FACE="bookman" color="#1c81bb"><b>Combinazione:</b></font></h3>
+       <div id="exp" style="display:block"></div>
+       <br>
+       <div id="assess" style="display:block">
+       <div id="inst">Prova a creare un nuovo elemento.</div>
+       <button type="button" class="btn btn-sm nohover" onclick="experiment()"; >Vediamo che succede!</button>
+       </div>
+       <div id="outcome" style="display:none">
+       <div id="outtext"></div>
+       &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+       <button type="button" class="btn btn-sm nohover" onclick="next()"; >Continua</button>
+       </div>
+       <h3><font FACE="bookman" color="#1c81bb"><b>Inventario:</b></font></h3>
+       <div id="elements" style="display:block"></div><br><br><br>
+       <!--div align="right"><button type="button" class="btn btn-sm btn-outline-danger" onclick="clickStart('page4','page5')"; >I give up</button></div-->
+       <div align="right" id="counter"> Turni restanti: 10 </div>
+       </div>
+
+    <!--Transition page-->
+    <div id="page5a" style="display:none">
+      <br>
+       <p><b>Che succederà?</b></p>
+           <p>Adesso vedrai delle combinazioni di due elementi, e ti faremo alcune domande su cosa pensi che producano o meno.</p>
+     <br>
+     <button type="button" class="btn btn-sm nohover" name="button"; onclick="clickStart('page5a','page5')"; >Continua</button>
+   </div>
+    
+    <!--Fifth page contains prediction questions-->
+    <div id="page5" style="display:none">
+      <h3><font FACE="bookman" color="#1c81bb"><b>Che succederà?</b></font></h3>
+      <div id="linkexp" style="display:block"></div>
+        <br>
+        <div id = "linkpredparagraph">
+        <div id="linkquestion">Pensi che questa combianzione crei un nuovo elemento o no?</div>
+        <br>
+        <div id="linkpred">
+          <div class="radio-buttons" style="display: flex; flex-wrap: wrap; margin-right: 100px;">
+            <div class="radio-button" style="margin-right: 20px;">
+              <input type="radio" name="prediction" value="1" id="option1">
+              <div class="label-text">1</div>
+            </div>
+            <div class="radio-button"style="margin-right: 20px;">
+              <input type="radio" name="prediction" value="2" id="option2">
+              <div class="label-text">2</div>
+            </div>
+            <div class="radio-button"style="margin-right: 20px;">
+              <input type="radio" name="prediction" value="3" id="option3">
+              <div class="label-text">3</div>
+            </div>
+            <div class="radio-button"style="margin-right: 20px;">
+              <input type="radio" name="prediction" value="4" id="option4">
+              <div class="label-text">4</div>
+            </div>
+            <div class="radio-button"style="margin-right: 20px;">
+              <input type="radio" name="prediction" value="5" id="option5">
+              <div class="label-text">5</div>
+            </div>
+            <div class="radio-button"style="margin-right: 20px;">
+              <input type="radio" name="prediction" value="6" id="option6">
+              <div class="label-text">6</div>
+            </div>
+            <div class="radio-button"style="margin-right: 20px;">
+              <input type="radio" name="prediction" value="7" id="option7">
+              <div class="label-text">7</div>
+            </div>
+          </div>
+        </div>
+        <br>
+        1: Assolutamente no! - 7: Certamente si!
+        <br><br>
+        <button type="button" id="submitlinkpred" class="btn btn-sm nohover" style="width: 20mm;" onclick="linksubmit()"; >Invia</button>
+      </div>
+    </div>
+
+    <!--Transition page-->
+        <div id="page6a" style="display:none">
+          <br>
+           <p><b>Che succederà?</b></p>
+               <p>Un elemento è <b>utile</b> se può creare molti altri elementi. Più elementi può creare combinandosi con altri elementi, più un elemento è utile.</p>
+               <p>Adesso ti presentiamo con una combinazione, e ci devi dire quanto pensi che sia utile l'elemento prodotto da questa combinazione.</p>
+         <br>
+         <button type="button" class="btn btn-sm nohover" name="button"; onclick="clickStart('page6a','page6')"; >Continua</button>
+       </div>
+
+    <!--Sixth page contains empowerment questions-->
+    <div id="page6" style="display:none">
+      <h3><font FACE="bookman" color="#1c81bb"><b>Che succederà?</b></font></h3>
+      <div id="empexp" style="display:block"></div>
+      <br>
+      <div id="empquestion">Un elemento è <b>utile</b> se può creare molti altri elementi.
+        <br>
+        Quanto pensi sia utile l'elemento prodotto da questa combinazione?
+      </div>
+      <br>
+      <div id="emppred">
+        <div class="radio-buttons" style="display: flex; flex-wrap: wrap; margin-right: 100px;">
+          <div class="radio-button" style="margin-right: 20px;">
+            <input type="radio" name="prediction" value="1" id="option1">
+            <div class="label-text">1</div>
+          </div>
+          <div class="radio-button"style="margin-right: 20px;">
+            <input type="radio" name="prediction" value="2" id="option2">
+            <div class="label-text">2</div>
+          </div>
+          <div class="radio-button"style="margin-right: 20px;">
+            <input type="radio" name="prediction" value="3" id="option3">
+            <div class="label-text">3</div>
+          </div>
+          <div class="radio-button"style="margin-right: 20px;">
+            <input type="radio" name="prediction" value="4" id="option4">
+            <div class="label-text">4</div>
+          </div>
+          <div class="radio-button"style="margin-right: 20px;">
+            <input type="radio" name="prediction" value="5" id="option5">
+            <div class="label-text">5</div>
+          </div>
+          <div class="radio-button"style="margin-right: 20px;">
+            <input type="radio" name="prediction" value="6" id="option6">
+            <div class="label-text">6</div>
+          </div>
+          <div class="radio-button"style="margin-right: 20px;">
+            <input type="radio" name="prediction" value="7" id="option7">
+            <div class="label-text">7</div>
+          </div>
+        </div>
+      </div>
+      <br>
+      1: Per niente utile - 7: Utilissimo
+      <br><br>
+      <button type="button" id="submitemp" class="btn btn-sm nohover" style="width: 20mm;" onclick="submitemp()"; >Invia</button>
+      </div><br><br><br>
+
+    </div>
+
+   <!--Transition page-->
+        <div id="page7a" style="display:none">
+          <br>
+           <p><b>Decidi tu!</b></p>
+               <p>In questa ultima parte, ti presentiamo con due combinazioni di elementi alla volta.</p>
+               <p>Devi scegliere la combinazione che sei piu interessato a provare.</p>
+         <br>
+         <button type="button" class="btn btn-sm nohover" name="button"; onclick="clickStart('page7a','page7')"; >Continua</button>
+       </div>
+
+    <!--Seventh page contains interest questions-->
+    <div id="page7" style="display:none">
+      <h3><font FACE="bookman" color="#1c81bb"><b>Decidi tu!</b></font></h3>
+      <div id="intquestion">Quale combinazione preferisci provare?
+        <br>
+        <div style="display: flex;">
+          <div id="intexp1" style="display: inline-block; margin-right: 80px;"></div>
+          <div id="intexp2" style="display: inline-block;"></div>
+        </div>
+        <br>
+        <div id="buttons" style="display: flex; gap: 228px;">
+          <div>
+            <input type="radio" id="combination1" name="combination" value="Combination 1" checked="false">
+            <label for="combination1">Combinazione 1</label>
+          </div>
+          <div>
+            <input type="radio" id="combination2" name="combination" value="Combination 2" checked="false">
+            <label for="combination2">Combinazione 2</label>
+          </div>
+        </div>
+      <br>
+      <button type="button" id="submitint" class="btn btn-sm nohover" style="width: 20mm;" onclick="submitint()"; >Invia</button>
+      </div><br><br><br>
+    </div>
+
+    <div id="page8" style="display:none">
+      <button type="button" class="btn btn-sm btn-outline-dark" name="button" onclick="mysubmit()">Inviare dati</button>
+    </div>
+
+    <div id="page9" style="display:none">
+       <h1><font size="4">Grazie!</font></h1>
+    </div>
+
+   <body oncontextmenu="return false">
+    <script src="main.js" charset="utf-8"></script>
+    </body>
+</html>

@@ -1,0 +1,26 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment (if you use one)
+venv/
+.env/
+
+# Ignore admin files, e.g., ethics
+admin/
+
+# Ignore R history files
+.Rhistory
+**/.Rhistory
+.Rproj.user
+
+.DS_Store
+.vscode/
+
+#Ignore large Data files
+empowermentexploration/data/regression/
+empowermentexploration/resources/customgametree/data/

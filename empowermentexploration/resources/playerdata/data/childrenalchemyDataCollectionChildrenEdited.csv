@@ -1,0 +1,121 @@
+ID,gender,data nascita,data esecuzione,punti,tester,age,commenti,translation,trials
+LA_B001,M,2012-08-21,2022-07-01,15,Francesca Rita,9,,,40
+LA_B002,F,2009-07-25,2022-07-06,34,Francesca Rita,12,,,136
+LA_B003,M,2011-08-17,2022-07-06,17,Francesca Rita,10,,,100
+LA_B004,M,2011-05-19,2022-07-06,17,Francesca Rita,11,,,66
+LA_B005,F,2013-01-31,2022-07-06,21,Francesca Rita,9,,,200
+LA_B006,F,2015-03-28,2022-07-06,15,Francesca Rita,7,,,42
+LA_B007,M,2012-08-12,2022-07-06,13,Francesca Rita,9,,,23
+LA_B008,M,2014-03-02,2022-07-06,11,Francesca Rita,8,,,19
+LA_B009,M,2012-09-30,2022-07-06,17,Francesca Rita,9,,,69
+LA_B010,M,2013-07-10,2022-07-06,11,Francesca Rita,8,,,19
+LA_B011,F,2015-04-02,2022-07-06,15,Francesca Rita,7,,,53
+LA_B012,F,2014-09-10,2022-07-06,15,Francesca Rita,7,,,23
+LA_B013,F,2011-01-15,2022-07-06,10,Francesca Rita,11,,,36
+LA_B014,F,2011-01-29,2022-07-06,16,Francesca Rita,11,,,58
+LA_B015,M,2013-12-11,2022-07-07,13,Francesca Rita,8,"Ritardo cognitivo (104), l'ho supportato nell'uso del computer, ma ha deciso le combinazioni in modo autonomo","Cognitive retardation; got help, but decided independently",29
+LA_B016,M,2011-10-14,2022-07-07,19,Marianna,10,,,59
+LA_B017,M,2013-07-09,2022-07-07,13,Francesca Rita,8,,,36
+LA_B018,M,2016-07-06,2022-07-07,16,Marianna,6,,,88
+LA_B019,M,2012-08-18,2022-07-07,21,Francesca Rita,9,,,163
+LA_B020,F,2014-08-02,2022-07-07,14,Francesca Rita,7,,,28
+LA_B021,F,2012-04-13,2022-07-07,21,Francesca Rita,10,,,133
+LA_B022,F,2013-01-06,2022-07-07,25,Marianna,9,,,139
+LA_B023,M,2012-04-04,2022-07-07,5,Francesca Rita,10,"Ritardo cognitivo (104), ha voluto smettere subito",Cognitive retardation; wanted to stop immediatley,1
+LA_B024,M,2012-05-30,2022-07-07,19,Francesca Rita ,10,,,46
+LA_B025,F,2012-06-23,2022-07-07,35,Marianna,10,,,252
+LA_B026,M,2012-03-13,2022-07-07,21,Francesca Rita,10,,,153
+LA_B027,F,2015-05-15,2022-07-08,29,Francesca Rita,7,,,207
+LA_B028,F,2015-05-25,2022-07-08,26,Francesca Rita,7,,,128
+LA_B029,M,2015-11-20,2022-07-08,31,Francesca Rita ,6,,,219
+LA_B030,F,2014-06-25,2022-07-08,13,Francesca Rita,8,,,39
+LA_B031,F,2009-05-19,2022-07-19,22,Francesca Rita,13,,,208
+LA_B032,M,2013-09-30,2022-07-19,20,Francesca Rita,8,,,151
+LA_B033,M,2016-09-03,2022-07-19,11,Francesca Rita,5,,,26
+LA_B034,M,2015-04-24,2022-07-19,16,Francesca Rita,7,,,76
+LA_B035,M,2013-09-13,2022-07-19,32,Francesca Rita,8,,,281
+LA_B036,M,2015-05-25,2022-07-19,25,Francesca Rita,7,,,127
+LA_B037,F,2014-10-07,2022-07-19,24,Francesca Rita,7,,,118
+LA_B038,M,2015-12-18,2022-07-21,17,Francesca Rita,6,,,46
+LA_B039,M,2015-11-11,2022-07-21,23,Francesca Rita,6,,,90
+LA_B040,F,2014-05-18,2022-07-21,18,Francesca Rita,8,,,45
+LA_B041,M,2012-01-14,2022-07-21,62,Francesca Rita,10,,,288
+LA_B042,M,2015-12-17,2022-07-21,11,Francesca Rita,6,,,13
+LA_B043,M,2011-11-12,2022-07-22,16,Francesca Rita,10,,,67
+LA_B044,M,2015-05-03,2022-07-22,13,Francesca Rita,7,,,23
+LA_B045,M,2014-05-20,2022-07-22,26,Francesca Rita,8,,,105
+LA_B046,F,2012-03-09,2022-07-22,24,Francesca Rita,10,,,139
+LA_B047,M,2014-12-18,2022-07-22,21,Francesca Rita,7,ADHD certificata,ADHD certified,58
+LA_B048,M,2014-11-09,2022-07-22,41,Francesca Rita,7,,,405
+LA_B049,M,2014-10-24,2022-07-22,17,Francesca Rita,7,,,64
+LA_B050,M,2012-05-21,2022-07-22,27,Francesca Rita,10,,,132
+LA_B051,M,2016-11-01,2022-08-09,13,Francesca Rita,5,,,40
+LA_B052,F,2011-09-20,2022-08-09,21,Francesca Rita,10,,,60
+LA_B053,M,2015-12-23,2022-08-09,21,Francesca Rita,6,"la mamma ha scritto nel questionario che ha altre case di proprietà, ma non ne ha altre oltre a quella in cui abita","The mother wrote in the questionnaire that she owns other houses, but does not own any other than the one she lives in",134
+LA_B054,M,2013-07-13,2022-08-09,10,Francesca Rita,9,,,28
+LA_B055,F,2010-03-23,2022-08-09,28,Francesca Rita,12,,,132
+LA_B056,F,2013-10-19,2022-08-09,16,Francesca Rita,8,,,40
+LA_B057,F,2013-11-29,2022-08-09,14,Francesca Rita,8,,,36
+LA_B058,F,2015-03-17,2022-08-09,14,Francesca Rita,7,,,28
+LA_B059,F,2013-02-21,2022-08-09,17,Francesca Rita,9,,,54
+LA_B060,M,2010-02-20,2022-08-09,19,Francesca Rita,12,,,62
+LA_B061,F,2015-03-26,2022-08-09,10,Francesca Rita,7,,,10
+LA_B062,F,2015-10-05,2022-08-09,16,Francesca Rita,6,,,66
+LA_B063,M,2016-10-13,2022-08-10,17,Francesca Rita,5,"Alla fine la mamma gli ha suggerito di combinare gli ultimi elementi trovati, ma non mi è sembrato che il bambino abbia seguito il consiglio","In the end, his mother suggested that he combine the last found elements, but it did not seem to me that the child followed the advice",65
+LA_B064,M,2016-01-26,2022-08-10,8,Francesca Rita,6,Probabile ritardo cognitivo,Probable cognitive retardation,17
+LA_B065,M,2015-10-18,2022-08-10,20,Francesca Rita,6,"Nonostante i ripetuti richiami, la mamma ha continuato a suggerire","Despite repeated reminders, the mother continued to suggest",93
+LA_B066,M,2014-07-23,2022-08-10,13,Francesca Rita,8,Il bambino mi ha detto che è dislessico,The child told me he is dyslexic,18
+LA_B067,F,2014-11-29,2022-08-10,12,Francesca Rita,7,,,21
+LA_B068,M,2010-11-28,2022-08-10,34,Francesca Rita,11,,,129
+LA_B069,M,2011-03-09,2022-08-10,20,Francesca Rita,11,,,152
+LA_B070,F,2015-02-19,2022-08-10,10,Francesca Rita,7,,,18
+LA_B071,M,2012-01-06,2022-08-10,22,Francesca Rita,10,,,97
+LA_B072,M,2016-11-10,2022-08-11,10,Francesca Rita,5,,,11
+LA_B073,M,2016-03-18,2022-08-11,13,Francesca Rita,6,,,20
+LA_B074,M,2011-11-28,2022-08-16,22,Francesca Rita,10,,,112
+LA_B075,M,2010-03-06,2022-08-16,20,Francesca Rita,12,,,61
+LA_B076,F,2012-08-19,2022-08-16,15,Francesca Rita,9,,,49
+LA_B077,M,2014-10-15,2022-08-16,20,Francesca Rita,7,,,62
+LA_B078,F,2014-10-15,2022-08-16,13,Francesca Rita,7,,,27
+LA_B079,F,2012-01-10,2022-08-16,19,Francesca Rita,10,,,48
+LA_B080,M,2012-08-06,2022-08-16,30,Francesca Rita,10,,,185
+LA_B081,M,2013-11-08,2022-08-16,20,Francesca Rita,8,,,107
+LA_B082,F,2013-07-04,2022-08-17,20,Francesca Rita,9,,,100
+LA_B083,F,2012-02-09,2022-08-17,32,Francesca Rita,10,,,238
+LA_B084,M,2012-07-10,2022-08-17,17,Francesca Rita,10,,,76
+LA_B085,M,2013-12-16,2022-08-17,30,Francesca Rita,8,Si è allontanato due minuti per andare in bagno,He left for two minutes to go to the toilet,190
+LA_B086,M,2016-05-05,2022-08-18,15,Francesca Rita,6,,,36
+LA_B087,M,2016-09-21,2022-08-18,12,Francesca Rita,5,,,16
+LA_B088,M,2016-01-29,2022-08-18,10,Francesca Rita,6,,,24
+LA_B089,M,2016-04-15,2022-08-18,13,Francesca Rita,6,,,28
+LA_B090,F,2016-09-23,2022-08-18,24,Francesca Rita,5,,,100
+LA_B091,F,2016-11-11,2022-08-18,9,Francesca Rita,5,,,16
+LA_B092,M,2010-04-19,2022-08-18,15,Francesca Rita,12,,,42
+LA_B093,M,2013-03-06,2022-08-18,36,Francesca Rita,9,,,254
+LA_B094,F,2011-01-18,2022-08-18,23,Francesca Rita,11,,,93
+LA_B095,F,2011-06-25,2022-08-18,34,Francesca Rita,11,,,147
+LA_B096,F,2014-09-12,2022-08-18,28,Francesca Rita,7,,,116
+LA_B097,F,2014-05-20,2022-08-18,21,Francesca Rita,8,Alla fine del gioco ho dimenticato di inserire il sesso,At the end of the game I forgot to enter the gender,85
+LA_B098,F,2011-10-17,2022-08-19,17,Francesca Rita,10,,,77
+LA_B099,F,2013-11-15,2022-08-19,29,Francesca Rita,8,,,177
+LA_B100,F,2012-07-26,2022-08-19,13,Francesca Rita,10,,,38
+LA_B101,M,2014-10-11,2022-08-19,21,Francesca Rita,7,,,63
+LA_B102,M,2014-08-04,2022-08-19,12,Francesca Rita,8,,,41
+LA_B103,M,2014-08-04,2022-08-19,34,Francesca Rita,8,Ha interrotto il gioco due minuti per andare in bagno,He interrupted the game two minutes to go to the toilet,279
+LA_B104,M,2014-07-19,2022-08-19,15,Francesca Rita,8,,,32
+LA_B105,F,2013-09-21,2022-08-19,19,Francesca Rita,8,,,74
+LA_B106,F,2012-07-18,2022-08-19,24,Francesca Rita,10,,,141
+LA_B107,F,2013-09-11,2022-08-19,18,Francesca Rita,8,,,58
+LA_B108,F,2014-07-02,2022-08-19,21,Francesca Rita,8,,,46
+LA_B109,F,2014-11-08,2022-08-19,9,Francesca Rita,7,"Le ho fatto leggere le regole del gioco, ma ha avuto bisogno del mio aiuto poichè leggendo non aveva capito cosa fare. Mi è sembrata molto sbrigativa perchè voleva solo vincere il premio e andarsene. ","I made her read the rules of the game, but she needed my help because when she read, she did not understand what to do. She seemed very hasty because she just wanted to win the prize and leave. ",14
+LA_B110,M,2012-11-08,2022-08-19,24,Francesca Rita,9,,,223
+LA_B111,F,2012-05-14,2022-08-19,20,Francesca Rita,10,,,160
+LA_B112,M,2013-01-25,2022-08-19,18,Francesca Rita,9,,,147
+LA_B113,M,2014-04-04,2022-08-19,18,Francesca Rita,8,,,89
+LA_B114,M,2014-03-05,2022-08-22,23,Francesca Rita ,8,,,183
+LA_B115,F,2013-03-27,2022-08-22,23,Francesca Rita,9,Ha interrotto il gioco due minuti per andare in bagno,He interrupted the game two minutes to go to the toilet,106
+LA_B116,M,2013-11-16,2022-08-22,15,Francesca Rita,8,,,24
+LA_B117,F,2014-06-06,2022-08-22,26,Francesca Rita,8,,,164
+LA_B118,M,2015-04-08,2022-08-22,13,Francesca Rita,7,,,40
+LA_B119,M,2015-02-14,2022-08-22,16,Francesca Rita,7,,,61
+LA_B120,F,2014-07-04,2022-08-22,16,Francesca Rita,8,,,35

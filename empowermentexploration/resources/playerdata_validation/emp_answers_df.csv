@@ -1,0 +1,1564 @@
+,ID,Category,Age,Group,Combination,Rating,Resulting Element,Resulting Empowerment,Empowerment Category
+2318,155,equal,10,children,"['water', 'lava', 1]",7,obsidian,0.0,1.0
+885,60,equal,8,children,"['electricity', 'metal', 1]",1,wire,5.0,3.0
+881,59,equal,9,children,"['stone', 'fire', 1]",4,metal,24.0,7.0
+879,59,equal,9,children,"['cloud', 'air', 1]",2,sky,15.0,5.0
+1763,118,equal,23,adults,"['water', 'plant', 1]",7,algae,1.0,2.0
+878,59,equal,9,children,"['metal', 'electricity', 1]",6,wire,5.0,3.0
+1768,118,equal,23,adults,"['pressure', 'lava', 1]",2,granite,0.0,1.0
+867,58,equal,7,children,"['mountain', 'fire', 1]",1,volcano,2.0,2.0
+2781,186,equal,7,children,"['plant', 'water', 1]",7,algae,1.0,2.0
+2497,167,equal,6,children,"['stone', 'fire', 1]",2,metal,24.0,7.0
+891,60,equal,8,children,"['water', 'lava', 1]",6,obsidian,0.0,1.0
+910,61,equal,38,adults,"['mountain', 'fire', 1]",7,volcano,2.0,2.0
+2499,167,equal,6,children,"['air', 'cloud', 1]",4,sky,15.0,5.0
+2772,185,equal,43,adults,"['cloud', 'air', 1]",7,sky,15.0,5.0
+903,61,equal,38,adults,"['cloud', 'earth', 1]",7,fog,2.0,2.0
+900,61,equal,38,adults,"['fire', 'stone', 1]",7,metal,24.0,7.0
+2777,186,equal,7,children,"['plant', 'earth', 1]",3,grass,8.0,4.0
+1759,118,equal,23,adults,"['plant', 'earth', 1]",7,grass,8.0,4.0
+1772,119,equal,48,adults,"['air', 'cloud', 1]",3,sky,15.0,5.0
+1773,119,equal,48,adults,"['metal', 'electricity', 1]",6,wire,5.0,3.0
+862,58,equal,7,children,"['plant', 'water', 1]",7,algae,1.0,2.0
+836,56,equal,11,children,"['metal', 'electricity', 1]",5,wire,5.0,3.0
+1790,120,equal,36,adults,"['earth', 'plant', 1]",7,grass,8.0,4.0
+1791,120,equal,36,adults,"['air', 'cloud', 1]",1,sky,15.0,5.0
+1793,120,equal,36,adults,"['metal', 'electricity', 1]",7,wire,5.0,3.0
+831,56,equal,11,children,"['fire', 'sand', 1]",6,glass,10.0,4.0
+2798,187,equal,51,adults,"['sand', 'fire', 1]",7,glass,10.0,4.0
+828,56,equal,11,children,"['cloud', 'earth', 1]",2,fog,2.0,2.0
+825,56,equal,11,children,"['plant', 'water', 1]",6,algae,1.0,2.0
+823,55,equal,9,children,"['water', 'plant', 1]",6,algae,1.0,2.0
+839,56,equal,11,children,"['stone', 'fire', 1]",5,metal,24.0,7.0
+1783,119,equal,48,adults,"['fire', 'sand', 1]",4,glass,10.0,4.0
+2792,187,equal,51,adults,"['cloud', 'air', 1]",5,sky,15.0,5.0
+1776,119,equal,48,adults,"['plant', 'earth', 1]",7,grass,8.0,4.0
+855,58,equal,7,children,"['metal', 'electricity', 1]",7,wire,5.0,3.0
+1780,119,equal,48,adults,"['fire', 'stone', 1]",4,metal,24.0,7.0
+852,57,equal,12,children,"['fire', 'mountain', 1]",1,volcano,2.0,2.0
+2795,187,equal,51,adults,"['stone', 'fire', 1]",5,metal,24.0,7.0
+845,57,equal,12,children,"['earth', 'plant', 1]",7,grass,8.0,4.0
+912,61,equal,38,adults,"['pressure', 'lava', 1]",1,granite,0.0,1.0
+986,66,equal,8,children,"['cloud', 'earth', 1]",1,fog,2.0,2.0
+2517,168,equal,8,children,"['sand', 'fire', 1]",2,glass,10.0,4.0
+2745,184,equal,49,adults,"['stone', 'fire', 1]",5,metal,24.0,7.0
+2516,168,equal,8,children,"['plant', 'earth', 1]",5,grass,8.0,4.0
+2747,184,equal,49,adults,"['earth', 'plant', 1]",7,grass,8.0,4.0
+976,66,equal,8,children,"['air', 'cloud', 1]",1,sky,15.0,5.0
+991,67,equal,10,children,"['electricity', 'metal', 1]",4,wire,5.0,3.0
+1692,113,equal,39,adults,"['plant', 'earth', 1]",7,grass,8.0,4.0
+1693,113,equal,39,adults,"['earth', 'cloud', 1]",3,fog,2.0,2.0
+1698,114,equal,6,children,"['fire', 'mountain', 1]",7,volcano,2.0,2.0
+2737,183,equal,33,adults,"['lava', 'pressure', 1]",1,granite,0.0,1.0
+996,67,equal,10,children,"['earth', 'plant', 1]",7,grass,8.0,4.0
+970,65,equal,11,children,"['plant', 'earth', 1]",7,grass,8.0,4.0
+1716,115,equal,8,children,"['water', 'lava', 1]",4,obsidian,0.0,1.0
+2762,185,equal,43,adults,"['fire', 'sand', 1]",1,glass,10.0,4.0
+932,63,equal,11,children,"['electricity', 'metal', 1]",4,wire,5.0,3.0
+1741,117,equal,9,children,"['fire', 'stone', 1]",4,metal,24.0,7.0
+927,62,equal,8,children,"['metal', 'electricity', 1]",7,wire,5.0,3.0
+926,62,equal,8,children,"['plant', 'earth', 1]",4,grass,8.0,4.0
+923,62,equal,8,children,"['stone', 'fire', 1]",3,metal,24.0,7.0
+919,62,equal,8,children,"['mountain', 'fire', 1]",4,volcano,2.0,2.0
+2769,185,equal,43,adults,"['fire', 'mountain', 1]",4,volcano,2.0,2.0
+2500,167,equal,6,children,"['plant', 'earth', 1]",3,grass,8.0,4.0
+2761,185,equal,43,adults,"['water', 'lava', 1]",4,obsidian,0.0,1.0
+1751,117,equal,9,children,"['lava', 'water', 1]",2,obsidian,0.0,1.0
+936,63,equal,11,children,"['plant', 'earth', 1]",6,grass,8.0,4.0
+964,65,equal,11,children,"['fire', 'sand', 1]",7,glass,10.0,4.0
+962,65,equal,11,children,"['cloud', 'earth', 1]",6,fog,2.0,2.0
+958,64,equal,35,adults,"['fire', 'mountain', 1]",1,volcano,2.0,2.0
+2509,168,equal,8,children,"['plant', 'water', 1]",6,algae,1.0,2.0
+1729,116,equal,21,adults,"['lava', 'pressure', 1]",6,granite,0.0,1.0
+946,64,equal,35,adults,"['earth', 'cloud', 1]",1,fog,2.0,2.0
+940,63,equal,11,children,"['cloud', 'earth', 1]",4,fog,2.0,2.0
+1802,121,equal,7,children,"['earth', 'plant', 1]",7,grass,8.0,4.0
+815,55,equal,9,children,"['air', 'cloud', 1]",7,sky,15.0,5.0
+1895,127,equal,13,children,"['mountain', 'fire', 1]",1,volcano,2.0,2.0
+1896,127,equal,13,children,"['cloud', 'air', 1]",2,sky,15.0,5.0
+672,45,equal,30,adults,"['pressure', 'lava', 1]",1,granite,0.0,1.0
+669,45,equal,30,adults,"['sand', 'fire', 1]",6,glass,10.0,4.0
+1901,127,equal,13,children,"['electricity', 'metal', 1]",5,wire,5.0,3.0
+675,46,equal,25,adults,"['air', 'cloud', 1]",5,sky,15.0,5.0
+1902,127,equal,13,children,"['sand', 'fire', 1]",5,glass,10.0,4.0
+2861,191,equal,12,children,"['water', 'plant', 1]",7,algae,1.0,2.0
+1908,128,equal,21,adults,"['cloud', 'earth', 1]",3,fog,2.0,2.0
+1909,128,equal,21,adults,"['plant', 'earth', 1]",7,grass,8.0,4.0
+2866,192,equal,10,children,"['water', 'lava', 1]",1,obsidian,0.0,1.0
+677,46,equal,25,adults,"['sand', 'fire', 1]",1,glass,10.0,4.0
+678,46,equal,25,adults,"['lava', 'pressure', 1]",5,granite,0.0,1.0
+2852,191,equal,12,children,"['fire', 'stone', 1]",1,metal,24.0,7.0
+692,47,equal,25,adults,"['electricity', 'metal', 1]",7,wire,5.0,3.0
+1885,126,equal,11,children,"['cloud', 'earth', 1]",3,fog,2.0,2.0
+1886,126,equal,11,children,"['plant', 'earth', 1]",7,grass,8.0,4.0
+2855,191,equal,12,children,"['cloud', 'air', 1]",3,sky,15.0,5.0
+688,46,equal,25,adults,"['water', 'lava', 1]",4,obsidian,0.0,1.0
+2457,164,equal,10,children,"['water', 'plant', 1]",7,algae,1.0,2.0
+1912,128,equal,21,adults,"['water', 'plant', 1]",7,algae,1.0,2.0
+1914,128,equal,21,adults,"['fire', 'stone', 1]",4,metal,24.0,7.0
+652,44,equal,38,adults,"['water', 'lava', 1]",7,obsidian,0.0,1.0
+1931,129,equal,10,children,"['earth', 'plant', 1]",4,grass,8.0,4.0
+621,42,equal,7,children,"['lava', 'pressure', 1]",1,granite,0.0,1.0
+620,42,equal,7,children,"['electricity', 'metal', 1]",1,wire,5.0,3.0
+2879,192,equal,10,children,"['air', 'cloud', 1]",7,sky,15.0,5.0
+2880,193,equal,10,children,"['fire', 'stone', 1]",6,metal,24.0,7.0
+1934,129,equal,10,children,"['mountain', 'fire', 1]",2,volcano,2.0,2.0
+615,42,equal,7,children,"['fire', 'stone', 1]",1,metal,24.0,7.0
+611,41,equal,26,adults,"['plant', 'water', 1]",4,algae,1.0,2.0
+610,41,equal,26,adults,"['stone', 'fire', 1]",4,metal,24.0,7.0
+1938,130,equal,33,adults,"['pressure', 'lava', 1]",2,granite,0.0,1.0
+607,41,equal,26,adults,"['plant', 'earth', 1]",6,grass,8.0,4.0
+606,41,equal,26,adults,"['air', 'cloud', 1]",2,sky,15.0,5.0
+2877,192,equal,10,children,"['metal', 'electricity', 1]",3,wire,5.0,3.0
+1918,128,equal,21,adults,"['water', 'lava', 1]",3,obsidian,0.0,1.0
+2870,192,equal,10,children,"['earth', 'cloud', 1]",1,fog,2.0,2.0
+1924,129,equal,10,children,"['earth', 'cloud', 1]",4,fog,2.0,2.0
+639,43,equal,19,adults,"['cloud', 'air', 1]",7,sky,15.0,5.0
+637,43,equal,19,adults,"['pressure', 'lava', 1]",6,granite,0.0,1.0
+636,43,equal,19,adults,"['fire', 'sand', 1]",2,glass,10.0,4.0
+1928,129,equal,10,children,"['fire', 'stone', 1]",3,metal,24.0,7.0
+2874,192,equal,10,children,"['fire', 'mountain', 1]",2,volcano,2.0,2.0
+628,42,equal,7,children,"['earth', 'plant', 1]",7,grass,8.0,4.0
+787,53,equal,24,adults,"['fire', 'stone', 1]",7,metal,24.0,7.0
+2480,166,equal,10,children,"['stone', 'fire', 1]",1,metal,24.0,7.0
+1821,122,equal,12,children,"['plant', 'earth', 1]",5,grass,8.0,4.0
+1824,122,equal,12,children,"['lava', 'water', 1]",4,obsidian,0.0,1.0
+780,53,equal,24,adults,"['lava', 'pressure', 1]",1,granite,0.0,1.0
+778,52,equal,40,adults,"['fire', 'mountain', 1]",3,volcano,2.0,2.0
+1830,123,equal,39,adults,"['electricity', 'metal', 1]",4,wire,5.0,3.0
+1831,123,equal,39,adults,"['pressure', 'lava', 1]",7,granite,0.0,1.0
+2819,188,equal,7,children,"['earth', 'plant', 1]",7,grass,8.0,4.0
+764,51,equal,6,children,"['fire', 'stone', 1]",7,metal,24.0,7.0
+1806,121,equal,7,children,"['water', 'plant', 1]",7,algae,1.0,2.0
+801,54,equal,46,adults,"['fire', 'mountain', 1]",4,volcano,2.0,2.0
+1811,121,equal,7,children,"['sand', 'fire', 1]",2,glass,10.0,4.0
+799,54,equal,46,adults,"['lava', 'pressure', 1]",7,granite,0.0,1.0
+2808,188,equal,7,children,"['cloud', 'earth', 1]",4,fog,2.0,2.0
+2809,188,equal,7,children,"['water', 'lava', 1]",1,obsidian,0.0,1.0
+727,49,equal,35,adults,"['water', 'lava', 1]",5,obsidian,0.0,1.0
+2836,190,equal,9,children,"['water', 'plant', 1]",2,algae,1.0,2.0
+1869,125,equal,12,children,"['earth', 'cloud', 1]",5,fog,2.0,2.0
+2841,190,equal,9,children,"['earth', 'cloud', 1]",3,fog,2.0,2.0
+2844,190,equal,9,children,"['stone', 'fire', 1]",3,metal,24.0,7.0
+2463,165,equal,11,children,"['air', 'cloud', 1]",1,sky,15.0,5.0
+728,49,equal,35,adults,"['cloud', 'air', 1]",3,sky,15.0,5.0
+759,51,equal,6,children,"['lava', 'water', 1]",1,obsidian,0.0,1.0
+729,49,equal,35,adults,"['stone', 'fire', 1]",6,metal,24.0,7.0
+1860,125,equal,12,children,"['lava', 'water', 1]",2,obsidian,0.0,1.0
+750,51,equal,6,children,"['pressure', 'lava', 1]",1,granite,0.0,1.0
+2471,165,equal,11,children,"['fire', 'stone', 1]",1,metal,24.0,7.0
+1850,124,equal,11,children,"['earth', 'cloud', 1]",1,fog,2.0,2.0
+745,50,equal,31,adults,"['pressure', 'lava', 1]",4,granite,0.0,1.0
+2829,189,equal,9,children,"['earth', 'cloud', 1]",1,fog,2.0,2.0
+2468,165,equal,11,children,"['fire', 'sand', 1]",5,glass,10.0,4.0
+736,50,equal,31,adults,"['stone', 'fire', 1]",1,metal,24.0,7.0
+1861,125,equal,12,children,"['sand', 'fire', 1]",7,glass,10.0,4.0
+2644,177,equal,7,children,"['sand', 'fire', 1]",1,glass,10.0,4.0
+1288,86,equal,7,children,"['pressure', 'lava', 1]",1,granite,0.0,1.0
+2646,177,equal,7,children,"['fire', 'mountain', 1]",4,volcano,2.0,2.0
+1526,102,equal,11,children,"['electricity', 'metal', 1]",4,wire,5.0,3.0
+1279,86,equal,7,children,"['stone', 'fire', 1]",7,metal,24.0,7.0
+1527,102,equal,11,children,"['cloud', 'air', 1]",1,sky,15.0,5.0
+2642,177,equal,7,children,"['electricity', 'metal', 1]",7,wire,5.0,3.0
+2640,177,equal,7,children,"['plant', 'water', 1]",1,algae,1.0,2.0
+1509,101,equal,6,children,"['water', 'plant', 1]",7,algae,1.0,2.0
+1491,100,equal,21,adults,"['cloud', 'earth', 1]",1,fog,2.0,2.0
+1326,89,equal,10,children,"['stone', 'fire', 1]",6,metal,24.0,7.0
+1322,89,equal,10,children,"['plant', 'earth', 1]",7,grass,8.0,4.0
+1314,88,equal,9,children,"['mountain', 'fire', 1]",2,volcano,2.0,2.0
+1501,101,equal,6,children,"['lava', 'pressure', 1]",2,granite,0.0,1.0
+1312,88,equal,9,children,"['sand', 'fire', 1]",7,glass,10.0,4.0
+2582,173,equal,51,adults,"['air', 'cloud', 1]",6,sky,15.0,5.0
+1529,102,equal,11,children,"['fire', 'mountain', 1]",7,volcano,2.0,2.0
+2663,178,equal,8,children,"['air', 'cloud', 1]",1,sky,15.0,5.0
+2664,178,equal,8,children,"['stone', 'fire', 1]",5,metal,24.0,7.0
+1240,83,equal,21,adults,"['earth', 'cloud', 1]",1,fog,2.0,2.0
+1548,104,equal,10,children,"['electricity', 'metal', 1]",1,wire,5.0,3.0
+1551,104,equal,10,children,"['mountain', 'fire', 1]",4,volcano,2.0,2.0
+1235,83,equal,21,adults,"['pressure', 'lava', 1]",6,granite,0.0,1.0
+1232,83,equal,21,adults,"['water', 'lava', 1]",6,obsidian,0.0,1.0
+2566,172,equal,53,adults,"['pressure', 'lava', 1]",1,granite,0.0,1.0
+1226,82,equal,22,adults,"['earth', 'cloud', 1]",5,fog,2.0,2.0
+1245,84,equal,34,adults,"['stone', 'fire', 1]",1,metal,24.0,7.0
+2632,176,equal,13,children,"['stone', 'fire', 1]",4,metal,24.0,7.0
+2662,178,equal,8,children,"['water', 'plant', 1]",1,algae,1.0,2.0
+2571,172,equal,53,adults,"['plant', 'water', 1]",7,algae,1.0,2.0
+1535,103,equal,6,children,"['fire', 'mountain', 1]",1,volcano,2.0,2.0
+1265,85,equal,9,children,"['water', 'lava', 1]",6,obsidian,0.0,1.0
+1260,85,equal,9,children,"['fire', 'mountain', 1]",3,volcano,2.0,2.0
+1259,84,equal,34,adults,"['cloud', 'air', 1]",6,sky,15.0,5.0
+1543,103,equal,6,children,"['electricity', 'metal', 1]",1,wire,5.0,3.0
+2660,178,equal,8,children,"['fire', 'sand', 1]",5,glass,10.0,4.0
+1545,104,equal,10,children,"['earth', 'cloud', 1]",1,fog,2.0,2.0
+2661,178,equal,8,children,"['water', 'lava', 1]",1,obsidian,0.0,1.0
+1249,84,equal,34,adults,"['plant', 'earth', 1]",4,grass,8.0,4.0
+1247,84,equal,34,adults,"['sand', 'fire', 1]",1,glass,10.0,4.0
+2599,174,equal,11,children,"['lava', 'pressure', 1]",4,granite,0.0,1.0
+1398,94,equal,10,children,"['earth', 'plant', 1]",7,grass,8.0,4.0
+1451,97,equal,13,children,"['mountain', 'fire', 1]",7,volcano,2.0,2.0
+1393,93,equal,9,children,"['electricity', 'metal', 1]",5,wire,5.0,3.0
+1454,97,equal,13,children,"['fire', 'sand', 1]",5,glass,10.0,4.0
+1391,93,equal,9,children,"['lava', 'water', 1]",7,obsidian,0.0,1.0
+2611,175,equal,18,adults,"['air', 'cloud', 1]",2,sky,15.0,5.0
+1446,97,equal,13,children,"['cloud', 'earth', 1]",4,fog,2.0,2.0
+2608,174,equal,11,children,"['air', 'cloud', 1]",1,sky,15.0,5.0
+1424,95,equal,11,children,"['pressure', 'lava', 1]",5,granite,0.0,1.0
+1423,95,equal,11,children,"['fire', 'sand', 1]",6,glass,10.0,4.0
+1438,96,equal,10,children,"['plant', 'water', 1]",7,algae,1.0,2.0
+1418,95,equal,11,children,"['earth', 'plant', 1]",7,grass,8.0,4.0
+1413,95,equal,11,children,"['metal', 'electricity', 1]",2,wire,5.0,3.0
+2596,174,equal,11,children,"['water', 'lava', 1]",2,obsidian,0.0,1.0
+1384,93,equal,9,children,"['sand', 'fire', 1]",2,glass,10.0,4.0
+2594,173,equal,51,adults,"['sand', 'fire', 1]",7,glass,10.0,4.0
+1382,93,equal,9,children,"['plant', 'earth', 1]",7,grass,8.0,4.0
+1474,99,equal,9,children,"['earth', 'cloud', 1]",4,fog,2.0,2.0
+2588,173,equal,51,adults,"['stone', 'fire', 1]",2,metal,24.0,7.0
+2624,175,equal,18,adults,"['stone', 'fire', 1]",5,metal,24.0,7.0
+2627,176,equal,13,children,"['metal', 'electricity', 1]",5,wire,5.0,3.0
+1341,90,equal,12,children,"['electricity', 'metal', 1]",3,wire,5.0,3.0
+1486,100,equal,21,adults,"['water', 'lava', 1]",2,obsidian,0.0,1.0
+1338,90,equal,12,children,"['sand', 'fire', 1]",5,glass,10.0,4.0
+1337,90,equal,12,children,"['plant', 'water', 1]",6,algae,1.0,2.0
+1333,89,equal,10,children,"['mountain', 'fire', 1]",5,volcano,2.0,2.0
+1360,91,equal,7,children,"['plant', 'water', 1]",1,algae,1.0,2.0
+1331,89,equal,10,children,"['pressure', 'lava', 1]",1,granite,0.0,1.0
+1361,91,equal,7,children,"['fire', 'stone', 1]",4,metal,24.0,7.0
+1469,98,equal,13,children,"['plant', 'earth', 1]",6,grass,8.0,4.0
+1380,93,equal,9,children,"['mountain', 'fire', 1]",4,volcano,2.0,2.0
+1379,92,equal,7,children,"['earth', 'cloud', 1]",1,fog,2.0,2.0
+2617,175,equal,18,adults,"['plant', 'water', 1]",5,algae,1.0,2.0
+2618,175,equal,18,adults,"['earth', 'plant', 1]",5,grass,8.0,4.0
+1369,92,equal,7,children,"['plant', 'water', 1]",6,algae,1.0,2.0
+1367,92,equal,7,children,"['earth', 'plant', 1]",7,grass,8.0,4.0
+1366,92,equal,7,children,"['pressure', 'lava', 1]",2,granite,0.0,1.0
+1557,104,equal,10,children,"['pressure', 'lava', 1]",1,granite,0.0,1.0
+2563,171,equal,10,children,"['sand', 'fire', 1]",1,glass,10.0,4.0
+2533,169,equal,11,children,"['earth', 'plant', 1]",7,grass,8.0,4.0
+2708,181,equal,10,children,"['electricity', 'metal', 1]",7,wire,5.0,3.0
+1643,110,equal,6,children,"['lava', 'pressure', 1]",6,granite,0.0,1.0
+1087,73,equal,9,children,"['cloud', 'air', 1]",1,sky,15.0,5.0
+1086,73,equal,9,children,"['earth', 'plant', 1]",1,grass,8.0,4.0
+1094,73,equal,9,children,"['plant', 'water', 1]",1,algae,1.0,2.0
+1084,73,equal,9,children,"['stone', 'fire', 1]",1,metal,24.0,7.0
+1646,110,equal,6,children,"['earth', 'plant', 1]",7,grass,8.0,4.0
+1080,73,equal,9,children,"['electricity', 'metal', 1]",3,wire,5.0,3.0
+2711,181,equal,10,children,"['earth', 'cloud', 1]",1,fog,2.0,2.0
+1648,110,equal,6,children,"['electricity', 'metal', 1]",6,wire,5.0,3.0
+1096,74,equal,42,adults,"['cloud', 'air', 1]",1,sky,15.0,5.0
+1637,110,equal,6,children,"['sand', 'fire', 1]",5,glass,10.0,4.0
+1630,109,equal,9,children,"['water', 'lava', 1]",1,obsidian,0.0,1.0
+2702,181,equal,10,children,"['water', 'lava', 1]",5,obsidian,0.0,1.0
+1633,109,equal,9,children,"['plant', 'water', 1]",2,algae,1.0,2.0
+2703,181,equal,10,children,"['stone', 'fire', 1]",4,metal,24.0,7.0
+1075,72,equal,9,children,"['fire', 'sand', 1]",7,glass,10.0,4.0
+1672,112,equal,23,adults,"['cloud', 'air', 1]",7,sky,15.0,5.0
+1673,112,equal,23,adults,"['water', 'lava', 1]",5,obsidian,0.0,1.0
+1674,112,equal,23,adults,"['fire', 'sand', 1]",5,glass,10.0,4.0
+1033,69,equal,61,adults,"['fire', 'stone', 1]",7,metal,24.0,7.0
+1029,69,equal,61,adults,"['lava', 'pressure', 1]",5,granite,0.0,1.0
+1026,69,equal,61,adults,"['cloud', 'air', 1]",7,sky,15.0,5.0
+1683,113,equal,39,adults,"['mountain', 'fire', 1]",3,volcano,2.0,2.0
+2723,182,equal,8,children,"['electricity', 'metal', 1]",4,wire,5.0,3.0
+1669,112,equal,23,adults,"['stone', 'fire', 1]",4,metal,24.0,7.0
+1047,70,equal,37,adults,"['fire', 'mountain', 1]",1,volcano,2.0,2.0
+1653,111,equal,6,children,"['water', 'lava', 1]",2,obsidian,0.0,1.0
+1059,71,equal,43,adults,"['pressure', 'lava', 1]",5,granite,0.0,1.0
+1058,71,equal,43,adults,"['fire', 'sand', 1]",4,glass,10.0,4.0
+2719,182,equal,8,children,"['cloud', 'earth', 1]",1,fog,2.0,2.0
+1664,111,equal,6,children,"['earth', 'plant', 1]",2,grass,8.0,4.0
+1050,71,equal,43,adults,"['lava', 'water', 1]",4,obsidian,0.0,1.0
+1118,75,equal,11,children,"['lava', 'pressure', 1]",2,granite,0.0,1.0
+1624,109,equal,9,children,"['metal', 'electricity', 1]",1,wire,5.0,3.0
+1623,109,equal,9,children,"['cloud', 'earth', 1]",1,fog,2.0,2.0
+1192,80,equal,10,children,"['metal', 'electricity', 1]",5,wire,5.0,3.0
+1191,80,equal,10,children,"['water', 'plant', 1]",7,algae,1.0,2.0
+2554,171,equal,10,children,"['mountain', 'fire', 1]",2,volcano,2.0,2.0
+1187,80,equal,10,children,"['cloud', 'air', 1]",7,sky,15.0,5.0
+1585,106,equal,8,children,"['stone', 'fire', 1]",7,metal,24.0,7.0
+1176,79,equal,5,children,"['stone', 'fire', 1]",7,metal,24.0,7.0
+1174,79,equal,5,children,"['electricity', 'metal', 1]",3,wire,5.0,3.0
+2682,179,equal,7,children,"['cloud', 'air', 1]",1,sky,15.0,5.0
+1593,107,equal,11,children,"['cloud', 'air', 1]",2,sky,15.0,5.0
+1171,79,equal,5,children,"['sand', 'fire', 1]",5,glass,10.0,4.0
+1576,106,equal,8,children,"['air', 'cloud', 1]",7,sky,15.0,5.0
+1218,82,equal,22,adults,"['plant', 'earth', 1]",7,grass,8.0,4.0
+1214,81,equal,9,children,"['pressure', 'lava', 1]",5,granite,0.0,1.0
+1213,81,equal,9,children,"['electricity', 'metal', 1]",1,wire,5.0,3.0
+1565,105,equal,24,adults,"['water', 'plant', 1]",7,algae,1.0,2.0
+1206,81,equal,9,children,"['water', 'lava', 1]",4,obsidian,0.0,1.0
+1204,81,equal,9,children,"['fire', 'mountain', 1]",2,volcano,2.0,2.0
+2559,171,equal,10,children,"['air', 'cloud', 1]",7,sky,15.0,5.0
+1570,105,equal,24,adults,"['fire', 'mountain', 1]",2,volcano,2.0,2.0
+1575,106,equal,8,children,"['water', 'plant', 1]",7,algae,1.0,2.0
+2520,169,equal,11,children,"['fire', 'mountain', 1]",2,volcano,2.0,2.0
+2683,179,equal,7,children,"['metal', 'electricity', 1]",1,wire,5.0,3.0
+1141,77,equal,20,adults,"['fire', 'mountain', 1]",2,volcano,2.0,2.0
+1608,108,equal,9,children,"['cloud', 'earth', 1]",1,fog,2.0,2.0
+1609,108,equal,9,children,"['metal', 'electricity', 1]",1,wire,5.0,3.0
+1138,76,equal,57,adults,"['stone', 'fire', 1]",4,metal,24.0,7.0
+2542,170,equal,35,adults,"['plant', 'water', 1]",7,algae,1.0,2.0
+1615,108,equal,9,children,"['water', 'lava', 1]",1,obsidian,0.0,1.0
+1132,76,equal,57,adults,"['fire', 'sand', 1]",1,glass,10.0,4.0
+1618,108,equal,9,children,"['plant', 'water', 1]",2,algae,1.0,2.0
+2540,170,equal,35,adults,"['electricity', 'metal', 1]",7,wire,5.0,3.0
+1123,75,equal,11,children,"['electricity', 'metal', 1]",6,wire,5.0,3.0
+1142,77,equal,20,adults,"['cloud', 'air', 1]",4,sky,15.0,5.0
+2691,180,equal,9,children,"['pressure', 'lava', 1]",7,granite,0.0,1.0
+1145,77,equal,20,adults,"['metal', 'electricity', 1]",6,wire,5.0,3.0
+2684,179,equal,7,children,"['fire', 'stone', 1]",1,metal,24.0,7.0
+1599,107,equal,11,children,"['water', 'plant', 1]",6,algae,1.0,2.0
+2548,170,equal,35,adults,"['lava', 'pressure', 1]",7,granite,0.0,1.0
+1160,78,equal,24,adults,"['fire', 'sand', 1]",7,glass,10.0,4.0
+1159,78,equal,24,adults,"['fire', 'stone', 1]",6,metal,24.0,7.0
+2315,155,equal,10,children,"['lava', 'pressure', 1]",6,granite,0.0,1.0
+1156,78,equal,24,adults,"['plant', 'water', 1]",7,algae,1.0,2.0
+2687,180,equal,9,children,"['sand', 'fire', 1]",3,glass,10.0,4.0
+1146,77,equal,20,adults,"['plant', 'earth', 1]",6,grass,8.0,4.0
+1870,125,equal,12,children,"['air', 'cloud', 1]",5,sky,15.0,5.0
+298,20,equal,9,children,"['plant', 'earth', 1]",5,grass,8.0,4.0
+2971,199,equal,25,adults,"['earth', 'plant', 1]",7,grass,8.0,4.0
+126,9,equal,7,children,"['earth', 'plant', 1]",7,grass,8.0,4.0
+335,23,equal,9,children,"['water', 'plant', 1]",7,algae,1.0,2.0
+2236,150,equal,6,children,"['cloud', 'air', 1]",7,sky,15.0,5.0
+337,23,equal,9,children,"['cloud', 'air', 1]",2,sky,15.0,5.0
+123,9,equal,7,children,"['water', 'plant', 1]",7,algae,1.0,2.0
+338,23,equal,9,children,"['earth', 'cloud', 1]",2,fog,2.0,2.0
+2114,141,equal,6,children,"['stone', 'fire', 1]",2,metal,24.0,7.0
+342,23,equal,9,children,"['sand', 'fire', 1]",2,glass,10.0,4.0
+2386,160,equal,9,children,"['cloud', 'air', 1]",7,sky,15.0,5.0
+346,24,equal,9,children,"['fire', 'sand', 1]",6,glass,10.0,4.0
+115,8,equal,11,children,"['earth', 'cloud', 1]",1,fog,2.0,2.0
+2387,160,equal,9,children,"['fire', 'mountain', 1]",7,volcano,2.0,2.0
+350,24,equal,9,children,"['fire', 'stone', 1]",3,metal,24.0,7.0
+2388,160,equal,9,children,"['stone', 'fire', 1]",1,metal,24.0,7.0
+2105,141,equal,6,children,"['plant', 'earth', 1]",7,grass,8.0,4.0
+134,9,equal,7,children,"['lava', 'water', 1]",4,obsidian,0.0,1.0
+2129,142,equal,9,children,"['stone', 'fire', 1]",1,metal,24.0,7.0
+2980,199,equal,25,adults,"['plant', 'water', 1]",7,algae,1.0,2.0
+3044,203,equal,6,children,"['air', 'cloud', 1]",7,sky,15.0,5.0
+2979,199,equal,25,adults,"['lava', 'water', 1]",7,obsidian,0.0,1.0
+313,21,equal,8,children,"['earth', 'plant', 1]",5,grass,8.0,4.0
+132,9,equal,7,children,"['lava', 'pressure', 1]",1,granite,0.0,1.0
+316,22,equal,20,adults,"['cloud', 'air', 1]",5,sky,15.0,5.0
+317,22,equal,20,adults,"['fire', 'stone', 1]",5,metal,24.0,7.0
+318,22,equal,20,adults,"['lava', 'water', 1]",4,obsidian,0.0,1.0
+2125,142,equal,9,children,"['plant', 'water', 1]",6,algae,1.0,2.0
+2124,142,equal,9,children,"['sand', 'fire', 1]",4,glass,10.0,4.0
+2976,199,equal,25,adults,"['mountain', 'fire', 1]",1,volcano,2.0,2.0
+326,22,equal,20,adults,"['plant', 'water', 1]",7,algae,1.0,2.0
+2234,149,equal,27,adults,"['metal', 'electricity', 1]",7,wire,5.0,3.0
+329,22,equal,20,adults,"['fire', 'sand', 1]",4,glass,10.0,4.0
+2973,199,equal,25,adults,"['metal', 'electricity', 1]",1,wire,5.0,3.0
+2103,141,equal,6,children,"['electricity', 'metal', 1]",1,wire,5.0,3.0
+2962,198,equal,10,children,"['air', 'cloud', 1]",3,sky,15.0,5.0
+391,27,equal,8,children,"['electricity', 'metal', 1]",1,wire,5.0,3.0
+98,7,equal,21,adults,"['pressure', 'lava', 1]",5,granite,0.0,1.0
+2950,197,equal,39,adults,"['plant', 'earth', 1]",7,grass,8.0,4.0
+399,27,equal,8,children,"['water', 'plant', 1]",7,algae,1.0,2.0
+2253,151,equal,25,adults,"['water', 'plant', 1]",4,algae,1.0,2.0
+2399,160,equal,9,children,"['water', 'plant', 1]",7,algae,1.0,2.0
+413,28,equal,60,adults,"['pressure', 'lava', 1]",7,granite,0.0,1.0
+2065,138,equal,10,children,"['fire', 'sand', 1]",3,glass,10.0,4.0
+2943,197,equal,39,adults,"['water', 'plant', 1]",7,algae,1.0,2.0
+390,27,equal,8,children,"['fire', 'sand', 1]",1,glass,10.0,4.0
+3053,204,equal,7,children,"['fire', 'sand', 1]",1,glass,10.0,4.0
+2961,198,equal,10,children,"['plant', 'earth', 1]",2,grass,8.0,4.0
+2241,150,equal,6,children,"['sand', 'fire', 1]",7,glass,10.0,4.0
+3051,204,equal,7,children,"['cloud', 'earth', 1]",1,fog,2.0,2.0
+2958,198,equal,10,children,"['fire', 'mountain', 1]",4,volcano,2.0,2.0
+107,8,equal,11,children,"['earth', 'plant', 1]",7,grass,8.0,4.0
+106,8,equal,11,children,"['metal', 'electricity', 1]",1,wire,5.0,3.0
+368,25,equal,10,children,"['fire', 'mountain', 1]",2,volcano,2.0,2.0
+369,25,equal,10,children,"['lava', 'water', 1]",5,obsidian,0.0,1.0
+370,25,equal,10,children,"['pressure', 'lava', 1]",6,granite,0.0,1.0
+103,7,equal,21,adults,"['plant', 'earth', 1]",7,grass,8.0,4.0
+2088,140,equal,7,children,"['plant', 'water', 1]",7,algae,1.0,2.0
+378,26,equal,9,children,"['metal', 'electricity', 1]",1,wire,5.0,3.0
+380,26,equal,9,children,"['lava', 'pressure', 1]",5,granite,0.0,1.0
+381,26,equal,9,children,"['lava', 'water', 1]",4,obsidian,0.0,1.0
+2394,160,equal,9,children,"['lava', 'pressure', 1]",4,granite,0.0,1.0
+2248,150,equal,6,children,"['lava', 'pressure', 1]",7,granite,0.0,1.0
+304,21,equal,8,children,"['pressure', 'lava', 1]",1,granite,0.0,1.0
+302,21,equal,8,children,"['stone', 'fire', 1]",6,metal,24.0,7.0
+223,15,equal,9,children,"['plant', 'earth', 1]",7,grass,8.0,4.0
+2350,157,equal,5,children,"['plant', 'earth', 1]",7,grass,8.0,4.0
+2170,145,equal,21,adults,"['sand', 'fire', 1]",4,glass,10.0,4.0
+232,16,equal,6,children,"['fire', 'sand', 1]",7,glass,10.0,4.0
+3008,201,equal,9,children,"['fire', 'mountain', 1]",6,volcano,2.0,2.0
+234,16,equal,6,children,"['air', 'cloud', 1]",1,sky,15.0,5.0
+169,12,equal,8,children,"['stone', 'fire', 1]",7,metal,24.0,7.0
+239,16,equal,6,children,"['mountain', 'fire', 1]",5,volcano,2.0,2.0
+241,17,equal,28,adults,"['mountain', 'fire', 1]",4,volcano,2.0,2.0
+2366,158,equal,11,children,"['stone', 'fire', 1]",4,metal,24.0,7.0
+2176,146,equal,12,children,"['cloud', 'earth', 1]",7,fog,2.0,2.0
+165,12,equal,8,children,"['water', 'lava', 1]",6,obsidian,0.0,1.0
+2355,158,equal,11,children,"['fire', 'sand', 1]",4,glass,10.0,4.0
+191,13,equal,22,adults,"['water', 'plant', 1]",7,algae,1.0,2.0
+3024,202,equal,9,children,"['cloud', 'air', 1]",3,sky,15.0,5.0
+182,13,equal,22,adults,"['lava', 'water', 1]",6,obsidian,0.0,1.0
+2200,147,equal,24,adults,"['water', 'lava', 1]",5,obsidian,0.0,1.0
+210,15,equal,9,children,"['mountain', 'fire', 1]",1,volcano,2.0,2.0
+2204,147,equal,24,adults,"['fire', 'mountain', 1]",1,volcano,2.0,2.0
+3015,202,equal,9,children,"['water', 'plant', 1]",4,algae,1.0,2.0
+245,17,equal,28,adults,"['fire', 'sand', 1]",4,glass,10.0,4.0
+151,11,equal,8,children,"['cloud', 'earth', 1]",1,fog,2.0,2.0
+2373,159,equal,8,children,"['fire', 'stone', 1]",5,metal,24.0,7.0
+2374,159,equal,8,children,"['fire', 'mountain', 1]",1,volcano,2.0,2.0
+285,20,equal,9,children,"['electricity', 'metal', 1]",5,wire,5.0,3.0
+2142,143,equal,7,children,"['water', 'lava', 1]",6,obsidian,0.0,1.0
+287,20,equal,9,children,"['stone', 'fire', 1]",5,metal,24.0,7.0
+2224,149,equal,27,adults,"['water', 'plant', 1]",7,algae,1.0,2.0
+145,10,equal,6,children,"['earth', 'cloud', 1]",1,fog,2.0,2.0
+144,10,equal,6,children,"['pressure', 'lava', 1]",7,granite,0.0,1.0
+291,20,equal,9,children,"['fire', 'mountain', 1]",1,volcano,2.0,2.0
+2225,149,equal,27,adults,"['cloud', 'earth', 1]",1,fog,2.0,2.0
+141,10,equal,6,children,"['fire', 'mountain', 1]",1,volcano,2.0,2.0
+2375,159,equal,8,children,"['sand', 'fire', 1]",2,glass,10.0,4.0
+294,20,equal,9,children,"['earth', 'cloud', 1]",1,fog,2.0,2.0
+3041,203,equal,6,children,"['fire', 'sand', 1]",1,glass,10.0,4.0
+2376,159,equal,8,children,"['cloud', 'earth', 1]",2,fog,2.0,2.0
+2987,200,equal,26,adults,"['metal', 'electricity', 1]",7,wire,5.0,3.0
+152,11,equal,8,children,"['fire', 'stone', 1]",5,metal,24.0,7.0
+3038,203,equal,6,children,"['metal', 'electricity', 1]",1,wire,5.0,3.0
+2368,158,equal,11,children,"['pressure', 'lava', 1]",3,granite,0.0,1.0
+2158,144,equal,8,children,"['fire', 'mountain', 1]",5,volcano,2.0,2.0
+2157,144,equal,8,children,"['pressure', 'lava', 1]",3,granite,0.0,1.0
+259,18,equal,8,children,"['water', 'lava', 1]",5,obsidian,0.0,1.0
+2369,158,equal,11,children,"['water', 'plant', 1]",7,algae,1.0,2.0
+2217,148,equal,21,adults,"['sand', 'fire', 1]",4,glass,10.0,4.0
+422,29,equal,10,children,"['lava', 'water', 1]",4,obsidian,0.0,1.0
+2153,144,equal,8,children,"['electricity', 'metal', 1]",7,wire,5.0,3.0
+2150,144,equal,8,children,"['fire', 'stone', 1]",5,metal,24.0,7.0
+2219,148,equal,21,adults,"['cloud', 'air', 1]",2,sky,15.0,5.0
+396,27,equal,8,children,"['lava', 'water', 1]",1,obsidian,0.0,1.0
+2002,134,equal,11,children,"['fire', 'mountain', 1]",3,volcano,2.0,2.0
+2917,195,equal,25,adults,"['water', 'plant', 1]",7,algae,1.0,2.0
+2292,153,equal,11,children,"['pressure', 'lava', 1]",3,granite,0.0,1.0
+2294,153,equal,11,children,"['fire', 'sand', 1]",2,glass,10.0,4.0
+523,35,equal,8,children,"['fire', 'mountain', 1]",1,volcano,2.0,2.0
+524,35,equal,8,children,"['cloud', 'air', 1]",4,sky,15.0,5.0
+2297,154,equal,26,adults,"['fire', 'sand', 1]",7,glass,10.0,4.0
+525,36,equal,8,children,"['pressure', 'lava', 1]",5,granite,0.0,1.0
+2289,153,equal,11,children,"['water', 'plant', 1]",7,algae,1.0,2.0
+32,3,equal,8,children,"['earth', 'plant', 1]",7,grass,8.0,4.0
+2425,162,equal,8,children,"['earth', 'cloud', 1]",3,fog,2.0,2.0
+31,3,equal,8,children,"['water', 'lava', 1]",7,obsidian,0.0,1.0
+534,36,equal,8,children,"['electricity', 'metal', 1]",6,wire,5.0,3.0
+2299,154,equal,26,adults,"['cloud', 'air', 1]",7,sky,15.0,5.0
+1986,133,equal,50,adults,"['plant', 'water', 1]",7,algae,1.0,2.0
+1985,133,equal,50,adults,"['earth', 'plant', 1]",7,grass,8.0,4.0
+541,37,equal,9,children,"['cloud', 'air', 1]",7,sky,15.0,5.0
+2424,162,equal,8,children,"['metal', 'electricity', 1]",3,wire,5.0,3.0
+2419,162,equal,8,children,"['fire', 'mountain', 1]",1,volcano,2.0,2.0
+491,33,equal,5,children,"['water', 'lava', 1]",1,obsidian,0.0,1.0
+58,4,equal,9,children,"['metal', 'electricity', 1]",5,wire,5.0,3.0
+494,33,equal,5,children,"['cloud', 'air', 1]",1,sky,15.0,5.0
+2327,156,equal,12,children,"['pressure', 'lava', 1]",4,granite,0.0,1.0
+2019,135,equal,11,children,"['earth', 'cloud', 1]",1,fog,2.0,2.0
+499,34,equal,9,children,"['earth', 'plant', 1]",7,grass,8.0,4.0
+3070,205,equal,7,children,"['plant', 'water', 1]",6,algae,1.0,2.0
+3071,205,equal,7,children,"['earth', 'cloud', 1]",3,fog,2.0,2.0
+424,29,equal,10,children,"['sand', 'fire', 1]",7,glass,10.0,4.0
+511,35,equal,8,children,"['electricity', 'metal', 1]",4,wire,5.0,3.0
+47,4,equal,9,children,"['sand', 'fire', 1]",5,glass,10.0,4.0
+1984,133,equal,50,adults,"['fire', 'sand', 1]",1,glass,10.0,4.0
+2438,163,equal,11,children,"['water', 'lava', 1]",6,obsidian,0.0,1.0
+8,1,equal,11,children,"['water', 'plant', 1]",4,algae,1.0,2.0
+2893,193,equal,10,children,"['earth', 'cloud', 1]",6,fog,2.0,2.0
+587,40,equal,7,children,"['metal', 'electricity', 1]",6,wire,5.0,3.0
+1950,131,equal,12,children,"['earth', 'cloud', 1]",1,fog,2.0,2.0
+3085,206,equal,9,children,"['water', 'lava', 1]",4,obsidian,0.0,1.0
+6,1,equal,11,children,"['fire', 'stone', 1]",1,metal,24.0,7.0
+591,40,equal,7,children,"['plant', 'earth', 1]",3,grass,8.0,4.0
+1948,130,equal,33,adults,"['fire', 'sand', 1]",7,glass,10.0,4.0
+2441,163,equal,11,children,"['plant', 'water', 1]",3,algae,1.0,2.0
+1946,130,equal,33,adults,"['metal', 'electricity', 1]",7,wire,5.0,3.0
+598,40,equal,7,children,"['mountain', 'fire', 1]",1,volcano,2.0,2.0
+599,40,equal,7,children,"['pressure', 'lava', 1]",7,granite,0.0,1.0
+2314,155,equal,10,children,"['plant', 'water', 1]",5,algae,1.0,2.0
+576,39,equal,24,adults,"['water', 'plant', 1]",6,algae,1.0,2.0
+572,39,equal,24,adults,"['earth', 'plant', 1]",1,grass,8.0,4.0
+3078,206,equal,9,children,"['pressure', 'lava', 1]",4,granite,0.0,1.0
+2906,194,equal,42,adults,"['water', 'lava', 1]",2,obsidian,0.0,1.0
+3080,206,equal,9,children,"['cloud', 'earth', 1]",5,fog,2.0,2.0
+551,37,equal,9,children,"['lava', 'water', 1]",7,obsidian,0.0,1.0
+554,37,equal,9,children,"['fire', 'stone', 1]",1,metal,24.0,7.0
+555,38,equal,34,adults,"['cloud', 'earth', 1]",5,fog,2.0,2.0
+2305,154,equal,26,adults,"['earth', 'plant', 1]",1,grass,8.0,4.0
+1973,132,equal,10,children,"['cloud', 'earth', 1]",1,fog,2.0,2.0
+1971,132,equal,10,children,"['earth', 'plant', 1]",6,grass,8.0,4.0
+2901,194,equal,42,adults,"['pressure', 'lava', 1]",1,granite,0.0,1.0
+3083,206,equal,9,children,"['air', 'cloud', 1]",7,sky,15.0,5.0
+1965,132,equal,10,children,"['fire', 'stone', 1]",2,metal,24.0,7.0
+16,2,equal,42,adults,"['water', 'plant', 1]",7,algae,1.0,2.0
+567,38,equal,34,adults,"['lava', 'pressure', 1]",5,granite,0.0,1.0
+568,38,equal,34,adults,"['plant', 'earth', 1]",6,grass,8.0,4.0
+3084,206,equal,9,children,"['fire', 'stone', 1]",6,metal,24.0,7.0
+12,1,equal,11,children,"['sand', 'fire', 1]",2,glass,10.0,4.0
+60,5,equal,10,children,"['pressure', 'lava', 1]",6,granite,0.0,1.0
+2009,134,equal,11,children,"['lava', 'pressure', 1]",5,granite,0.0,1.0
+2040,137,equal,10,children,"['mountain', 'fire', 1]",1,volcano,2.0,2.0
+457,31,equal,8,children,"['cloud', 'air', 1]",3,sky,15.0,5.0
+462,31,equal,8,children,"['lava', 'pressure', 1]",3,granite,0.0,1.0
+2270,152,equal,7,children,"['earth', 'plant', 1]",2,grass,8.0,4.0
+466,32,equal,48,adults,"['earth', 'plant', 1]",7,grass,8.0,4.0
+2272,152,equal,7,children,"['cloud', 'earth', 1]",2,fog,2.0,2.0
+70,5,equal,10,children,"['fire', 'sand', 1]",2,glass,10.0,4.0
+69,5,equal,10,children,"['air', 'cloud', 1]",6,sky,15.0,5.0
+451,31,equal,8,children,"['fire', 'mountain', 1]",5,volcano,2.0,2.0
+449,30,equal,9,children,"['stone', 'fire', 1]",2,metal,24.0,7.0
+427,29,equal,10,children,"['earth', 'cloud', 1]",1,fog,2.0,2.0
+2057,138,equal,10,children,"['cloud', 'earth', 1]",5,fog,2.0,2.0
+3060,205,equal,7,children,"['air', 'cloud', 1]",5,sky,15.0,5.0
+433,29,equal,10,children,"['fire', 'stone', 1]",4,metal,24.0,7.0
+435,30,equal,9,children,"['electricity', 'metal', 1]",6,wire,5.0,3.0
+2408,161,equal,9,children,"['cloud', 'air', 1]",5,sky,15.0,5.0
+2050,137,equal,10,children,"['plant', 'earth', 1]",7,grass,8.0,4.0
+2264,151,equal,25,adults,"['stone', 'fire', 1]",3,metal,24.0,7.0
+3062,205,equal,7,children,"['stone', 'fire', 1]",6,metal,24.0,7.0
+2042,137,equal,10,children,"['cloud', 'air', 1]",2,sky,15.0,5.0
+448,30,equal,9,children,"['cloud', 'air', 1]",1,sky,15.0,5.0
+2030,136,equal,13,children,"['water', 'lava', 1]",5,obsidian,0.0,1.0
+2027,136,equal,13,children,"['fire', 'sand', 1]",6,glass,10.0,4.0
+475,32,equal,48,adults,"['stone', 'fire', 1]",5,metal,24.0,7.0
+474,32,equal,48,adults,"['cloud', 'air', 1]",6,sky,15.0,5.0
+486,33,equal,5,children,"['earth', 'plant', 1]",7,grass,8.0,4.0
+1541,103,more used by adults,6,children,"['lava', 'air', 1]",1,stone,13.0,5.0
+2589,173,more used by adults,51,adults,"['fire', 'ocean', 1]",1,salt,1.0,2.0
+2320,155,more used by adults,10,children,"['water', 'garden', 1]",5,pond,4.0,3.0
+1583,106,more used by adults,8,children,"['air', 'lava', 1]",1,stone,13.0,5.0
+2590,173,more used by adults,51,adults,"['water', 'garden', 1]",7,pond,4.0,3.0
+1444,97,more used by adults,13,children,"['rain', 'earth', 1]",5,plant,19.0,6.0
+1442,97,more used by adults,13,children,"['water', 'grass', 1]",7,dew,0.0,1.0
+1484,99,more used by adults,9,children,"['earth', 'steam', 1]",4,geyser,0.0,1.0
+1520,102,more used by adults,11,children,"['sky', 'fire', 1]",1,sun,19.0,6.0
+2307,154,more used by adults,26,adults,"['steam', 'earth', 1]",1,geyser,0.0,1.0
+1496,100,more used by adults,21,adults,"['fire', 'plant', 1]",1,tobacco,0.0,1.0
+1518,102,more used by adults,11,children,"['water', 'garden', 1]",6,pond,4.0,3.0
+1513,101,more used by adults,6,children,"['rain', 'earth', 1]",7,plant,19.0,6.0
+1483,99,more used by adults,9,children,"['water', 'grass', 1]",7,dew,0.0,1.0
+2278,152,more used by adults,7,children,"['fire', 'ocean', 1]",1,salt,1.0,2.0
+1477,99,more used by adults,9,children,"['water', 'garden', 1]",7,pond,4.0,3.0
+2196,147,more used by adults,24,adults,"['grass', 'water', 1]",6,dew,0.0,1.0
+2256,151,more used by adults,25,adults,"['water', 'grass', 1]",7,dew,0.0,1.0
+2580,173,more used by adults,51,adults,"['fire', 'sky', 1]",4,sun,19.0,6.0
+2354,157,more used by adults,5,children,"['earth', 'steam', 1]",7,geyser,0.0,1.0
+2255,151,more used by adults,25,adults,"['plant', 'fire', 1]",6,tobacco,0.0,1.0
+1476,99,more used by adults,9,children,"['fire', 'plant', 1]",4,tobacco,0.0,1.0
+1502,101,more used by adults,6,children,"['energy', 'air', 1]",2,wind,7.0,3.0
+1514,101,more used by adults,6,children,"['fire', 'plant', 1]",1,tobacco,0.0,1.0
+1521,102,more used by adults,11,children,"['fire', 'ocean', 1]",5,salt,1.0,2.0
+2328,156,more used by adults,12,children,"['steam', 'earth', 1]",3,geyser,0.0,1.0
+1515,102,more used by adults,11,children,"['grass', 'water', 1]",6,dew,0.0,1.0
+2353,157,more used by adults,5,children,"['air', 'lava', 1]",7,stone,13.0,5.0
+2263,151,more used by adults,25,adults,"['energy', 'air', 1]",5,wind,7.0,3.0
+1512,101,more used by adults,6,children,"['water', 'grass', 1]",6,dew,0.0,1.0
+1511,101,more used by adults,6,children,"['sky', 'earth', 1]",4,horizon,0.0,1.0
+1589,106,more used by adults,8,children,"['earth', 'rain', 1]",7,plant,19.0,6.0
+2337,156,more used by adults,12,children,"['energy', 'air', 1]",5,wind,7.0,3.0
+2249,150,more used by adults,6,children,"['air', 'energy', 1]",4,wind,7.0,3.0
+2306,154,more used by adults,26,adults,"['rain', 'earth', 1]",7,plant,19.0,6.0
+2275,152,more used by adults,7,children,"['plant', 'fire', 1]",1,tobacco,0.0,1.0
+2220,149,more used by adults,27,adults,"['earth', 'rain', 1]",7,plant,19.0,6.0
+2269,152,more used by adults,7,children,"['earth', 'steam', 1]",1,geyser,0.0,1.0
+2343,157,more used by adults,5,children,"['garden', 'water', 1]",7,pond,4.0,3.0
+2567,172,more used by adults,53,adults,"['air', 'lava', 1]",1,stone,13.0,5.0
+2229,149,more used by adults,27,adults,"['fire', 'plant', 1]",7,tobacco,0.0,1.0
+1458,98,more used by adults,13,children,"['grass', 'water', 1]",2,dew,0.0,1.0
+1561,105,more used by adults,24,adults,"['sky', 'fire', 1]",2,sun,19.0,6.0
+2595,174,more used by adults,11,children,"['fire', 'ocean', 1]",1,salt,1.0,2.0
+2222,149,more used by adults,27,adults,"['fire', 'sky', 1]",1,sun,19.0,6.0
+2331,156,more used by adults,12,children,"['water', 'grass', 1]",6,dew,0.0,1.0
+2585,173,more used by adults,51,adults,"['earth', 'sky', 1]",1,horizon,0.0,1.0
+2562,171,more used by adults,10,children,"['air', 'energy', 1]",3,wind,7.0,3.0
+1487,100,more used by adults,21,adults,"['steam', 'earth', 1]",2,geyser,0.0,1.0
+2293,153,more used by adults,11,children,"['earth', 'sky', 1]",4,horizon,0.0,1.0
+2565,172,more used by adults,53,adults,"['sky', 'fire', 1]",1,sun,19.0,6.0
+2228,149,more used by adults,27,adults,"['earth', 'steam', 1]",1,geyser,0.0,1.0
+2296,154,more used by adults,26,adults,"['water', 'garden', 1]",7,pond,4.0,3.0
+2218,148,more used by adults,21,adults,"['sky', 'fire', 1]",2,sun,19.0,6.0
+2277,152,more used by adults,7,children,"['earth', 'rain', 1]",7,plant,19.0,6.0
+1538,103,more used by adults,6,children,"['earth', 'rain', 1]",7,plant,19.0,6.0
+2332,156,more used by adults,12,children,"['plant', 'fire', 1]",2,tobacco,0.0,1.0
+2303,154,more used by adults,26,adults,"['ocean', 'fire', 1]",7,salt,1.0,2.0
+1547,104,more used by adults,10,children,"['rain', 'earth', 1]",5,plant,19.0,6.0
+1468,98,more used by adults,13,children,"['air', 'lava', 1]",4,stone,13.0,5.0
+2285,153,more used by adults,11,children,"['water', 'grass', 1]",7,dew,0.0,1.0
+2340,157,more used by adults,5,children,"['fire', 'ocean', 1]",7,salt,1.0,2.0
+2239,150,more used by adults,6,children,"['garden', 'water', 1]",7,pond,4.0,3.0
+2560,171,more used by adults,10,children,"['earth', 'rain', 1]",3,plant,19.0,6.0
+1492,100,more used by adults,21,adults,"['air', 'energy', 1]",7,wind,7.0,3.0
+1525,102,more used by adults,11,children,"['lava', 'air', 1]",1,stone,13.0,5.0
+2301,154,more used by adults,26,adults,"['water', 'grass', 1]",7,dew,0.0,1.0
+1567,105,more used by adults,24,adults,"['water', 'garden', 1]",4,pond,4.0,3.0
+1536,103,more used by adults,6,children,"['garden', 'water', 1]",7,pond,4.0,3.0
+2195,147,more used by adults,24,adults,"['rain', 'earth', 1]",7,plant,19.0,6.0
+1598,107,more used by adults,11,children,"['fire', 'ocean', 1]",5,salt,1.0,2.0
+1818,122,more used by adults,12,children,"['earth', 'steam', 1]",2,geyser,0.0,1.0
+1820,122,more used by adults,12,children,"['plant', 'fire', 1]",2,tobacco,0.0,1.0
+1825,122,more used by adults,12,children,"['garden', 'water', 1]",5,pond,4.0,3.0
+2028,136,more used by adults,13,children,"['rain', 'earth', 1]",4,plant,19.0,6.0
+1828,122,more used by adults,12,children,"['air', 'energy', 1]",5,wind,7.0,3.0
+1839,123,more used by adults,39,adults,"['fire', 'ocean', 1]",7,salt,1.0,2.0
+2024,135,more used by adults,11,children,"['earth', 'sky', 1]",1,horizon,0.0,1.0
+1844,123,more used by adults,39,adults,"['water', 'grass', 1]",7,dew,0.0,1.0
+1846,124,more used by adults,11,children,"['fire', 'plant', 1]",1,tobacco,0.0,1.0
+2022,135,more used by adults,11,children,"['fire', 'plant', 1]",3,tobacco,0.0,1.0
+1852,124,more used by adults,11,children,"['energy', 'air', 1]",7,wind,7.0,3.0
+2469,165,more used by adults,11,children,"['earth', 'rain', 1]",6,plant,19.0,6.0
+2018,135,more used by adults,11,children,"['fire', 'ocean', 1]",1,salt,1.0,2.0
+1840,123,more used by adults,39,adults,"['steam', 'earth', 1]",4,geyser,0.0,1.0
+1814,121,more used by adults,7,children,"['fire', 'ocean', 1]",4,salt,1.0,2.0
+2071,139,more used by adults,9,children,"['water', 'grass', 1]",5,dew,0.0,1.0
+1775,119,more used by adults,48,adults,"['energy', 'air', 1]",5,wind,7.0,3.0
+2067,138,more used by adults,10,children,"['garden', 'water', 1]",7,pond,4.0,3.0
+2066,138,more used by adults,10,children,"['sky', 'earth', 1]",5,horizon,0.0,1.0
+2492,167,more used by adults,6,children,"['earth', 'steam', 1]",7,geyser,0.0,1.0
+2405,161,more used by adults,9,children,"['air', 'lava', 1]",6,stone,13.0,5.0
+1788,120,more used by adults,36,adults,"['plant', 'fire', 1]",7,tobacco,0.0,1.0
+2486,166,more used by adults,10,children,"['plant', 'fire', 1]",7,tobacco,0.0,1.0
+2043,137,more used by adults,10,children,"['fire', 'ocean', 1]",1,salt,1.0,2.0
+2485,166,more used by adults,10,children,"['earth', 'steam', 1]",2,geyser,0.0,1.0
+2484,166,more used by adults,10,children,"['air', 'energy', 1]",7,wind,7.0,3.0
+1805,121,more used by adults,7,children,"['fire', 'plant', 1]",1,tobacco,0.0,1.0
+2034,136,more used by adults,13,children,"['garden', 'water', 1]",7,pond,4.0,3.0
+1900,127,more used by adults,13,children,"['lava', 'air', 1]",1,stone,13.0,5.0
+1974,132,more used by adults,10,children,"['sky', 'earth', 1]",4,horizon,0.0,1.0
+1972,132,more used by adults,10,children,"['fire', 'plant', 1]",2,tobacco,0.0,1.0
+2450,164,more used by adults,10,children,"['lava', 'air', 1]",1,stone,13.0,5.0
+1970,132,more used by adults,10,children,"['ocean', 'fire', 1]",4,salt,1.0,2.0
+2448,164,more used by adults,10,children,"['sky', 'fire', 1]",1,sun,19.0,6.0
+1916,128,more used by adults,21,adults,"['ocean', 'fire', 1]",1,salt,1.0,2.0
+1967,132,more used by adults,10,children,"['grass', 'water', 1]",6,dew,0.0,1.0
+1966,132,more used by adults,10,children,"['garden', 'water', 1]",6,pond,4.0,3.0
+1919,128,more used by adults,21,adults,"['grass', 'water', 1]",6,dew,0.0,1.0
+1923,129,more used by adults,10,children,"['air', 'lava', 1]",4,stone,13.0,5.0
+2446,164,more used by adults,10,children,"['plant', 'fire', 1]",5,tobacco,0.0,1.0
+2436,163,more used by adults,11,children,"['grass', 'water', 1]",2,dew,0.0,1.0
+1954,131,more used by adults,12,children,"['grass', 'water', 1]",4,dew,0.0,1.0
+1949,130,more used by adults,33,adults,"['plant', 'fire', 1]",6,tobacco,0.0,1.0
+1936,130,more used by adults,33,adults,"['earth', 'steam', 1]",7,geyser,0.0,1.0
+2444,163,more used by adults,11,children,"['air', 'lava', 1]",3,stone,13.0,5.0
+2442,163,more used by adults,11,children,"['earth', 'sky', 1]",2,horizon,0.0,1.0
+2072,139,more used by adults,9,children,"['sky', 'earth', 1]",4,horizon,0.0,1.0
+1980,133,more used by adults,50,adults,"['fire', 'plant', 1]",1,tobacco,0.0,1.0
+2415,162,more used by adults,8,children,"['air', 'energy', 1]",1,wind,7.0,3.0
+1866,125,more used by adults,12,children,"['air', 'lava', 1]",3,stone,13.0,5.0
+2005,134,more used by adults,11,children,"['earth', 'rain', 1]",6,plant,19.0,6.0
+1434,96,more used by adults,10,children,"['air', 'energy', 1]",7,wind,7.0,3.0
+1872,125,more used by adults,12,children,"['earth', 'sky', 1]",5,horizon,0.0,1.0
+1874,125,more used by adults,12,children,"['garden', 'water', 1]",6,pond,4.0,3.0
+1876,126,more used by adults,11,children,"['fire', 'plant', 1]",3,tobacco,0.0,1.0
+1877,126,more used by adults,11,children,"['earth', 'rain', 1]",7,plant,19.0,6.0
+1878,126,more used by adults,11,children,"['lava', 'air', 1]",4,stone,13.0,5.0
+2462,165,more used by adults,11,children,"['ocean', 'fire', 1]",1,salt,1.0,2.0
+1997,134,more used by adults,11,children,"['air', 'energy', 1]",7,wind,7.0,3.0
+2428,162,more used by adults,8,children,"['earth', 'steam', 1]",3,geyser,0.0,1.0
+1988,133,more used by adults,50,adults,"['grass', 'water', 1]",7,dew,0.0,1.0
+1891,127,more used by adults,13,children,"['grass', 'water', 1]",2,dew,0.0,1.0
+2074,139,more used by adults,9,children,"['air', 'energy', 1]",7,wind,7.0,3.0
+1771,119,more used by adults,48,adults,"['air', 'lava', 1]",2,stone,13.0,5.0
+2162,145,more used by adults,21,adults,"['air', 'energy', 1]",6,wind,7.0,3.0
+2532,169,more used by adults,11,children,"['sky', 'fire', 1]",5,sun,19.0,6.0
+2159,144,more used by adults,8,children,"['plant', 'fire', 1]",3,tobacco,0.0,1.0
+1649,110,more used by adults,6,children,"['energy', 'air', 1]",6,wind,7.0,3.0
+1652,111,more used by adults,6,children,"['sky', 'fire', 1]",7,sun,19.0,6.0
+1657,111,more used by adults,6,children,"['fire', 'ocean', 1]",7,salt,1.0,2.0
+1661,111,more used by adults,6,children,"['grass', 'water', 1]",5,dew,0.0,1.0
+1662,111,more used by adults,6,children,"['sky', 'earth', 1]",1,horizon,0.0,1.0
+1663,111,more used by adults,6,children,"['garden', 'water', 1]",7,pond,4.0,3.0
+2372,159,more used by adults,8,children,"['earth', 'sky', 1]",1,horizon,0.0,1.0
+1670,112,more used by adults,23,adults,"['sky', 'fire', 1]",2,sun,19.0,6.0
+1671,112,more used by adults,23,adults,"['lava', 'air', 1]",5,stone,13.0,5.0
+1677,112,more used by adults,23,adults,"['water', 'grass', 1]",5,dew,0.0,1.0
+2141,143,more used by adults,7,children,"['air', 'lava', 1]",5,stone,13.0,5.0
+2524,169,more used by adults,11,children,"['ocean', 'fire', 1]",4,salt,1.0,2.0
+2140,143,more used by adults,7,children,"['sky', 'earth', 1]",1,horizon,0.0,1.0
+2138,143,more used by adults,7,children,"['water', 'garden', 1]",2,pond,4.0,3.0
+1644,110,more used by adults,6,children,"['ocean', 'fire', 1]",6,salt,1.0,2.0
+2189,146,more used by adults,12,children,"['water', 'garden', 1]",1,pond,4.0,3.0
+2547,170,more used by adults,35,adults,"['water', 'grass', 1]",7,dew,0.0,1.0
+2188,146,more used by adults,12,children,"['rain', 'earth', 1]",7,plant,19.0,6.0
+1607,108,more used by adults,9,children,"['earth', 'rain', 1]",7,plant,19.0,6.0
+2357,158,more used by adults,11,children,"['lava', 'air', 1]",6,stone,13.0,5.0
+2183,146,more used by adults,12,children,"['sky', 'fire', 1]",1,sun,19.0,6.0
+1611,108,more used by adults,9,children,"['fire', 'ocean', 1]",1,salt,1.0,2.0
+2180,146,more used by adults,12,children,"['sky', 'earth', 1]",1,horizon,0.0,1.0
+1622,109,more used by adults,9,children,"['earth', 'rain', 1]",7,plant,19.0,6.0
+1626,109,more used by adults,9,children,"['fire', 'ocean', 1]",1,salt,1.0,2.0
+2536,170,more used by adults,35,adults,"['plant', 'fire', 1]",3,tobacco,0.0,1.0
+2365,158,more used by adults,11,children,"['fire', 'ocean', 1]",2,salt,1.0,2.0
+1636,110,more used by adults,6,children,"['earth', 'steam', 1]",4,geyser,0.0,1.0
+1642,110,more used by adults,6,children,"['grass', 'water', 1]",7,dew,0.0,1.0
+1595,107,more used by adults,11,children,"['garden', 'water', 1]",7,pond,4.0,3.0
+1686,113,more used by adults,39,adults,"['steam', 'earth', 1]",7,geyser,0.0,1.0
+2099,140,more used by adults,7,children,"['garden', 'water', 1]",7,pond,4.0,3.0
+1742,117,more used by adults,9,children,"['earth', 'rain', 1]",7,plant,19.0,6.0
+2391,160,more used by adults,9,children,"['fire', 'ocean', 1]",7,salt,1.0,2.0
+2091,140,more used by adults,7,children,"['sky', 'fire', 1]",4,sun,19.0,6.0
+2090,140,more used by adults,7,children,"['steam', 'earth', 1]",4,geyser,0.0,1.0
+1754,117,more used by adults,9,children,"['fire', 'plant', 1]",1,tobacco,0.0,1.0
+2086,140,more used by adults,7,children,"['lava', 'air', 1]",4,stone,13.0,5.0
+2395,160,more used by adults,9,children,"['fire', 'sky', 1]",1,sun,19.0,6.0
+2498,167,more used by adults,6,children,"['fire', 'sky', 1]",1,sun,19.0,6.0
+1762,118,more used by adults,23,adults,"['sky', 'earth', 1]",7,horizon,0.0,1.0
+1765,118,more used by adults,23,adults,"['garden', 'water', 1]",7,pond,4.0,3.0
+2077,139,more used by adults,9,children,"['earth', 'steam', 1]",5,geyser,0.0,1.0
+2075,139,more used by adults,9,children,"['sky', 'fire', 1]",1,sun,19.0,6.0
+2104,141,more used by adults,6,children,"['fire', 'plant', 1]",7,tobacco,0.0,1.0
+1731,116,more used by adults,21,adults,"['ocean', 'fire', 1]",3,salt,1.0,2.0
+2379,159,more used by adults,8,children,"['rain', 'earth', 1]",2,plant,19.0,6.0
+2519,168,more used by adults,8,children,"['air', 'energy', 1]",4,wind,7.0,3.0
+1697,114,more used by adults,6,children,"['earth', 'steam', 1]",5,geyser,0.0,1.0
+2126,142,more used by adults,9,children,"['air', 'lava', 1]",1,stone,13.0,5.0
+2121,142,more used by adults,9,children,"['fire', 'sky', 1]",3,sun,19.0,6.0
+2382,159,more used by adults,8,children,"['water', 'garden', 1]",7,pond,4.0,3.0
+2515,168,more used by adults,8,children,"['fire', 'ocean', 1]",3,salt,1.0,2.0
+1717,115,more used by adults,8,children,"['fire', 'plant', 1]",2,tobacco,0.0,1.0
+1718,115,more used by adults,8,children,"['air', 'lava', 1]",3,stone,13.0,5.0
+2115,142,more used by adults,9,children,"['ocean', 'fire', 1]",1,salt,1.0,2.0
+1719,115,more used by adults,8,children,"['sky', 'earth', 1]",4,horizon,0.0,1.0
+1725,116,more used by adults,21,adults,"['earth', 'sky', 1]",5,horizon,0.0,1.0
+1727,116,more used by adults,21,adults,"['fire', 'sky', 1]",5,sun,19.0,6.0
+1431,96,more used by adults,10,children,"['water', 'garden', 1]",7,pond,4.0,3.0
+544,37,more used by adults,9,children,"['rain', 'earth', 1]",1,plant,19.0,6.0
+543,37,more used by adults,9,children,"['steam', 'earth', 1]",1,geyser,0.0,1.0
+2907,194,more used by adults,42,adults,"['earth', 'rain', 1]",2,plant,19.0,6.0
+532,36,more used by adults,8,children,"['sky', 'fire', 1]",1,sun,19.0,6.0
+2913,195,more used by adults,25,adults,"['fire', 'plant', 1]",2,tobacco,0.0,1.0
+2915,195,more used by adults,25,adults,"['lava', 'air', 1]",2,stone,13.0,5.0
+520,35,more used by adults,8,children,"['steam', 'earth', 1]",4,geyser,0.0,1.0
+516,35,more used by adults,8,children,"['plant', 'fire', 1]",5,tobacco,0.0,1.0
+2918,195,more used by adults,25,adults,"['energy', 'air', 1]",7,wind,7.0,3.0
+547,37,more used by adults,9,children,"['energy', 'air', 1]",1,wind,7.0,3.0
+512,35,more used by adults,8,children,"['air', 'lava', 1]",1,stone,13.0,5.0
+548,37,more used by adults,9,children,"['grass', 'water', 1]",7,dew,0.0,1.0
+2904,194,more used by adults,42,adults,"['air', 'lava', 1]",2,stone,13.0,5.0
+595,40,more used by adults,7,children,"['lava', 'air', 1]",1,stone,13.0,5.0
+588,40,more used by adults,7,children,"['grass', 'water', 1]",2,dew,0.0,1.0
+577,39,more used by adults,24,adults,"['energy', 'air', 1]",3,wind,7.0,3.0
+570,39,more used by adults,24,adults,"['earth', 'sky', 1]",1,horizon,0.0,1.0
+566,38,more used by adults,34,adults,"['water', 'grass', 1]",4,dew,0.0,1.0
+561,38,more used by adults,34,adults,"['earth', 'rain', 1]",2,plant,19.0,6.0
+445,30,more used by adults,9,children,"['fire', 'sky', 1]",1,sun,19.0,6.0
+443,30,more used by adults,9,children,"['grass', 'water', 1]",1,dew,0.0,1.0
+442,30,more used by adults,9,children,"['air', 'energy', 1]",6,wind,7.0,3.0
+2938,196,more used by adults,5,children,"['earth', 'sky', 1]",7,horizon,0.0,1.0
+425,29,more used by adults,10,children,"['sky', 'fire', 1]",2,sun,19.0,6.0
+423,29,more used by adults,10,children,"['lava', 'air', 1]",2,stone,13.0,5.0
+420,29,more used by adults,10,children,"['sky', 'earth', 1]",1,horizon,0.0,1.0
+417,28,more used by adults,60,adults,"['garden', 'water', 1]",7,pond,4.0,3.0
+416,28,more used by adults,60,adults,"['sky', 'earth', 1]",7,horizon,0.0,1.0
+412,28,more used by adults,60,adults,"['grass', 'water', 1]",7,dew,0.0,1.0
+508,34,more used by adults,9,children,"['fire', 'sky', 1]",1,sun,19.0,6.0
+2932,196,more used by adults,5,children,"['rain', 'earth', 1]",3,plant,19.0,6.0
+497,34,more used by adults,9,children,"['fire', 'ocean', 1]",7,salt,1.0,2.0
+496,34,more used by adults,9,children,"['lava', 'air', 1]",7,stone,13.0,5.0
+487,33,more used by adults,5,children,"['air', 'energy', 1]",4,wind,7.0,3.0
+481,33,more used by adults,5,children,"['fire', 'ocean', 1]",4,salt,1.0,2.0
+2926,196,more used by adults,5,children,"['sky', 'fire', 1]",4,sun,19.0,6.0
+477,32,more used by adults,48,adults,"['grass', 'water', 1]",7,dew,0.0,1.0
+2928,196,more used by adults,5,children,"['fire', 'ocean', 1]",4,salt,1.0,2.0
+464,31,more used by adults,8,children,"['fire', 'sky', 1]",3,sun,19.0,6.0
+463,31,more used by adults,8,children,"['earth', 'steam', 1]",4,geyser,0.0,1.0
+2885,193,more used by adults,10,children,"['earth', 'rain', 1]",7,plant,19.0,6.0
+604,41,more used by adults,26,adults,"['fire', 'sky', 1]",5,sun,19.0,6.0
+765,52,more used by adults,40,adults,"['grass', 'water', 1]",5,dew,0.0,1.0
+762,51,more used by adults,6,children,"['energy', 'air', 1]",1,wind,7.0,3.0
+758,51,more used by adults,6,children,"['water', 'garden', 1]",1,pond,4.0,3.0
+751,51,more used by adults,6,children,"['earth', 'sky', 1]",1,horizon,0.0,1.0
+2826,189,more used by adults,9,children,"['lava', 'air', 1]",1,stone,13.0,5.0
+744,50,more used by adults,31,adults,"['water', 'garden', 1]",7,pond,4.0,3.0
+2832,189,more used by adults,9,children,"['garden', 'water', 1]",7,pond,4.0,3.0
+735,50,more used by adults,31,adults,"['earth', 'rain', 1]",7,plant,19.0,6.0
+731,49,more used by adults,35,adults,"['lava', 'air', 1]",2,stone,13.0,5.0
+722,49,more used by adults,35,adults,"['air', 'energy', 1]",2,wind,7.0,3.0
+720,49,more used by adults,35,adults,"['ocean', 'fire', 1]",4,salt,1.0,2.0
+810,55,more used by adults,9,children,"['fire', 'plant', 1]",1,tobacco,0.0,1.0
+805,54,more used by adults,46,adults,"['air', 'energy', 1]",7,wind,7.0,3.0
+800,54,more used by adults,46,adults,"['water', 'garden', 1]",7,pond,4.0,3.0
+2810,188,more used by adults,7,children,"['water', 'grass', 1]",7,dew,0.0,1.0
+2811,188,more used by adults,7,children,"['earth', 'sky', 1]",1,horizon,0.0,1.0
+786,53,more used by adults,24,adults,"['grass', 'water', 1]",7,dew,0.0,1.0
+2815,188,more used by adults,7,children,"['water', 'garden', 1]",7,pond,4.0,3.0
+775,52,more used by adults,40,adults,"['steam', 'earth', 1]",5,geyser,0.0,1.0
+769,52,more used by adults,40,adults,"['fire', 'ocean', 1]",4,salt,1.0,2.0
+712,48,more used by adults,45,adults,"['rain', 'earth', 1]",7,plant,19.0,6.0
+653,44,more used by adults,38,adults,"['fire', 'plant', 1]",7,tobacco,0.0,1.0
+650,44,more used by adults,38,adults,"['lava', 'air', 1]",7,stone,13.0,5.0
+645,44,more used by adults,38,adults,"['sky', 'fire', 1]",7,sun,19.0,6.0
+644,43,more used by adults,19,adults,"['earth', 'sky', 1]",6,horizon,0.0,1.0
+643,43,more used by adults,19,adults,"['steam', 'earth', 1]",6,geyser,0.0,1.0
+638,43,more used by adults,19,adults,"['lava', 'air', 1]",4,stone,13.0,5.0
+2873,192,more used by adults,10,children,"['sky', 'fire', 1]",1,sun,19.0,6.0
+629,42,more used by adults,7,children,"['grass', 'water', 1]",7,dew,0.0,1.0
+617,42,more used by adults,7,children,"['sky', 'fire', 1]",1,sun,19.0,6.0
+616,42,more used by adults,7,children,"['ocean', 'fire', 1]",1,salt,1.0,2.0
+2881,193,more used by adults,10,children,"['plant', 'fire', 1]",1,tobacco,0.0,1.0
+612,41,more used by adults,26,adults,"['fire', 'ocean', 1]",1,salt,1.0,2.0
+2882,193,more used by adults,10,children,"['grass', 'water', 1]",6,dew,0.0,1.0
+656,44,more used by adults,38,adults,"['rain', 'earth', 1]",7,plant,19.0,6.0
+2863,191,more used by adults,12,children,"['fire', 'ocean', 1]",2,salt,1.0,2.0
+1432,96,more used by adults,10,children,"['earth', 'steam', 1]",4,geyser,0.0,1.0
+700,47,more used by adults,25,adults,"['fire', 'sky', 1]",1,sun,19.0,6.0
+2851,191,more used by adults,12,children,"['fire', 'sky', 1]",2,sun,19.0,6.0
+2853,191,more used by adults,12,children,"['garden', 'water', 1]",4,pond,4.0,3.0
+686,46,more used by adults,25,adults,"['earth', 'sky', 1]",4,horizon,0.0,1.0
+679,46,more used by adults,25,adults,"['fire', 'ocean', 1]",5,salt,1.0,2.0
+676,46,more used by adults,25,adults,"['plant', 'fire', 1]",4,tobacco,0.0,1.0
+673,45,more used by adults,30,adults,"['fire', 'sky', 1]",1,sun,19.0,6.0
+2862,191,more used by adults,12,children,"['air', 'lava', 1]",1,stone,13.0,5.0
+680,46,more used by adults,25,adults,"['fire', 'sky', 1]",2,sun,19.0,6.0
+129,9,more used by adults,7,children,"['rain', 'earth', 1]",6,plant,19.0,6.0
+119,8,more used by adults,11,children,"['ocean', 'fire', 1]",1,salt,1.0,2.0
+3048,204,more used by adults,7,children,"['water', 'grass', 1]",1,dew,0.0,1.0
+3049,204,more used by adults,7,children,"['energy', 'air', 1]",1,wind,7.0,3.0
+3050,204,more used by adults,7,children,"['air', 'lava', 1]",1,stone,13.0,5.0
+110,8,more used by adults,11,children,"['fire', 'sky', 1]",1,sun,19.0,6.0
+109,8,more used by adults,11,children,"['grass', 'water', 1]",3,dew,0.0,1.0
+105,8,more used by adults,11,children,"['water', 'garden', 1]",4,pond,4.0,3.0
+104,7,more used by adults,21,adults,"['steam', 'earth', 1]",6,geyser,0.0,1.0
+3054,204,more used by adults,7,children,"['ocean', 'fire', 1]",1,salt,1.0,2.0
+135,10,more used by adults,6,children,"['energy', 'air', 1]",1,wind,7.0,3.0
+3056,204,more used by adults,7,children,"['fire', 'sky', 1]",1,sun,19.0,6.0
+138,10,more used by adults,6,children,"['fire', 'plant', 1]",1,tobacco,0.0,1.0
+180,13,more used by adults,22,adults,"['water', 'garden', 1]",7,pond,4.0,3.0
+175,12,more used by adults,8,children,"['fire', 'plant', 1]",1,tobacco,0.0,1.0
+174,12,more used by adults,8,children,"['fire', 'ocean', 1]",3,salt,1.0,2.0
+166,12,more used by adults,8,children,"['earth', 'rain', 1]",5,plant,19.0,6.0
+159,11,more used by adults,8,children,"['sky', 'fire', 1]",1,sun,19.0,6.0
+156,11,more used by adults,8,children,"['earth', 'rain', 1]",4,plant,19.0,6.0
+3040,203,more used by adults,6,children,"['energy', 'air', 1]",1,wind,7.0,3.0
+146,10,more used by adults,6,children,"['fire', 'sky', 1]",1,sun,19.0,6.0
+139,10,more used by adults,6,children,"['fire', 'ocean', 1]",1,salt,1.0,2.0
+41,3,more used by adults,8,children,"['ocean', 'fire', 1]",4,salt,1.0,2.0
+39,3,more used by adults,8,children,"['garden', 'water', 1]",7,pond,4.0,3.0
+38,3,more used by adults,8,children,"['sky', 'earth', 1]",1,horizon,0.0,1.0
+3077,206,more used by adults,9,children,"['plant', 'fire', 1]",7,tobacco,0.0,1.0
+19,2,more used by adults,42,adults,"['rain', 'earth', 1]",7,plant,19.0,6.0
+14,1,more used by adults,11,children,"['grass', 'water', 1]",3,dew,0.0,1.0
+2,1,more used by adults,11,children,"['energy', 'air', 1]",6,wind,7.0,3.0
+45,4,more used by adults,9,children,"['earth', 'sky', 1]",1,horizon,0.0,1.0
+46,4,more used by adults,9,children,"['air', 'lava', 1]",2,stone,13.0,5.0
+51,4,more used by adults,9,children,"['sky', 'fire', 1]",1,sun,19.0,6.0
+84,6,more used by adults,8,children,"['garden', 'water', 1]",4,pond,4.0,3.0
+83,6,more used by adults,8,children,"['ocean', 'fire', 1]",1,salt,1.0,2.0
+82,6,more used by adults,8,children,"['grass', 'water', 1]",4,dew,0.0,1.0
+3063,205,more used by adults,7,children,"['rain', 'earth', 1]",5,plant,19.0,6.0
+71,5,more used by adults,10,children,"['ocean', 'fire', 1]",2,salt,1.0,2.0
+68,5,more used by adults,10,children,"['fire', 'sky', 1]",2,sun,19.0,6.0
+67,5,more used by adults,10,children,"['plant', 'fire', 1]",2,tobacco,0.0,1.0
+3067,205,more used by adults,7,children,"['grass', 'water', 1]",6,dew,0.0,1.0
+55,4,more used by adults,9,children,"['steam', 'earth', 1]",7,geyser,0.0,1.0
+187,13,more used by adults,22,adults,"['sky', 'fire', 1]",2,sun,19.0,6.0
+343,23,more used by adults,9,children,"['energy', 'air', 1]",6,wind,7.0,3.0
+2969,198,more used by adults,10,children,"['air', 'energy', 1]",3,wind,7.0,3.0
+339,23,more used by adults,9,children,"['steam', 'earth', 1]",2,geyser,0.0,1.0
+331,23,more used by adults,9,children,"['sky', 'fire', 1]",1,sun,19.0,6.0
+2975,199,more used by adults,25,adults,"['air', 'lava', 1]",7,stone,13.0,5.0
+322,22,more used by adults,20,adults,"['earth', 'rain', 1]",5,plant,19.0,6.0
+2977,199,more used by adults,25,adults,"['energy', 'air', 1]",7,wind,7.0,3.0
+320,22,more used by adults,20,adults,"['earth', 'sky', 1]",2,horizon,0.0,1.0
+2978,199,more used by adults,25,adults,"['grass', 'water', 1]",7,dew,0.0,1.0
+315,22,more used by adults,20,adults,"['steam', 'earth', 1]",4,geyser,0.0,1.0
+311,21,more used by adults,8,children,"['plant', 'fire', 1]",1,tobacco,0.0,1.0
+2982,199,more used by adults,25,adults,"['earth', 'steam', 1]",7,geyser,0.0,1.0
+2984,199,more used by adults,25,adults,"['fire', 'plant', 1]",1,tobacco,0.0,1.0
+2986,200,more used by adults,26,adults,"['steam', 'earth', 1]",1,geyser,0.0,1.0
+345,24,more used by adults,9,children,"['water', 'garden', 1]",5,pond,4.0,3.0
+295,20,more used by adults,9,children,"['air', 'energy', 1]",5,wind,7.0,3.0
+2965,198,more used by adults,10,children,"['lava', 'air', 1]",1,stone,13.0,5.0
+393,27,more used by adults,8,children,"['air', 'lava', 1]",1,stone,13.0,5.0
+387,26,more used by adults,9,children,"['earth', 'rain', 1]",7,plant,19.0,6.0
+382,26,more used by adults,9,children,"['fire', 'sky', 1]",1,sun,19.0,6.0
+2953,197,more used by adults,39,adults,"['ocean', 'fire', 1]",4,salt,1.0,2.0
+2954,197,more used by adults,39,adults,"['energy', 'air', 1]",7,wind,7.0,3.0
+373,25,more used by adults,10,children,"['water', 'grass', 1]",6,dew,0.0,1.0
+366,25,more used by adults,10,children,"['lava', 'air', 1]",5,stone,13.0,5.0
+2957,198,more used by adults,10,children,"['earth', 'steam', 1]",3,geyser,0.0,1.0
+293,20,more used by adults,9,children,"['grass', 'water', 1]",1,dew,0.0,1.0
+2988,200,more used by adults,26,adults,"['earth', 'rain', 1]",7,plant,19.0,6.0
+290,20,more used by adults,9,children,"['fire', 'sky', 1]",5,sun,19.0,6.0
+3009,201,more used by adults,9,children,"['earth', 'rain', 1]",7,plant,19.0,6.0
+225,16,more used by adults,6,children,"['air', 'energy', 1]",4,wind,7.0,3.0
+224,15,more used by adults,9,children,"['air', 'energy', 1]",3,wind,7.0,3.0
+222,15,more used by adults,9,children,"['grass', 'water', 1]",6,dew,0.0,1.0
+213,15,more used by adults,9,children,"['earth', 'steam', 1]",4,geyser,0.0,1.0
+204,14,more used by adults,57,adults,"['air', 'lava', 1]",1,stone,13.0,5.0
+196,14,more used by adults,57,adults,"['fire', 'plant', 1]",1,tobacco,0.0,1.0
+3027,202,more used by adults,9,children,"['earth', 'sky', 1]",1,horizon,0.0,1.0
+237,16,more used by adults,6,children,"['fire', 'plant', 1]",7,tobacco,0.0,1.0
+2989,200,more used by adults,26,adults,"['air', 'energy', 1]",7,wind,7.0,3.0
+2990,200,more used by adults,26,adults,"['water', 'grass', 1]",7,dew,0.0,1.0
+284,19,more used by adults,8,children,"['earth', 'steam', 1]",2,geyser,0.0,1.0
+2993,200,more used by adults,26,adults,"['sky', 'earth', 1]",7,horizon,0.0,1.0
+279,19,more used by adults,8,children,"['water', 'garden', 1]",7,pond,4.0,3.0
+277,19,more used by adults,8,children,"['sky', 'earth', 1]",4,horizon,0.0,1.0
+263,18,more used by adults,8,children,"['earth', 'steam', 1]",3,geyser,0.0,1.0
+255,18,more used by adults,8,children,"['sky', 'fire', 1]",6,sun,19.0,6.0
+254,17,more used by adults,28,adults,"['grass', 'water', 1]",5,dew,0.0,1.0
+3004,201,more used by adults,9,children,"['sky', 'fire', 1]",2,sun,19.0,6.0
+248,17,more used by adults,28,adults,"['rain', 'earth', 1]",6,plant,19.0,6.0
+2801,187,more used by adults,51,adults,"['fire', 'plant', 1]",2,tobacco,0.0,1.0
+2678,179,more used by adults,7,children,"['earth', 'steam', 1]",1,geyser,0.0,1.0
+1178,79,more used by adults,5,children,"['plant', 'fire', 1]",3,tobacco,0.0,1.0
+1170,79,more used by adults,5,children,"['water', 'garden', 1]",7,pond,4.0,3.0
+1165,78,more used by adults,24,adults,"['steam', 'earth', 1]",5,geyser,0.0,1.0
+1161,78,more used by adults,24,adults,"['sky', 'earth', 1]",7,horizon,0.0,1.0
+2685,180,more used by adults,9,children,"['garden', 'water', 1]",7,pond,4.0,3.0
+1152,77,more used by adults,20,adults,"['plant', 'fire', 1]",1,tobacco,0.0,1.0
+2688,180,more used by adults,9,children,"['earth', 'rain', 1]",7,plant,19.0,6.0
+1149,77,more used by adults,20,adults,"['fire', 'sky', 1]",1,sun,19.0,6.0
+1188,80,more used by adults,10,children,"['air', 'lava', 1]",7,stone,13.0,5.0
+1194,80,more used by adults,10,children,"['ocean', 'fire', 1]",5,salt,1.0,2.0
+1224,82,more used by adults,22,adults,"['fire', 'plant', 1]",1,tobacco,0.0,1.0
+2668,178,more used by adults,8,children,"['fire', 'sky', 1]",1,sun,19.0,6.0
+1212,81,more used by adults,9,children,"['garden', 'water', 1]",4,pond,4.0,3.0
+2670,179,more used by adults,7,children,"['sky', 'earth', 1]",1,horizon,0.0,1.0
+2671,179,more used by adults,7,children,"['grass', 'water', 1]",3,dew,0.0,1.0
+2674,179,more used by adults,7,children,"['fire', 'sky', 1]",1,sun,19.0,6.0
+1200,81,more used by adults,9,children,"['energy', 'air', 1]",1,wind,7.0,3.0
+2676,179,more used by adults,7,children,"['fire', 'plant', 1]",1,tobacco,0.0,1.0
+2677,179,more used by adults,7,children,"['energy', 'air', 1]",7,wind,7.0,3.0
+1193,80,more used by adults,10,children,"['earth', 'rain', 1]",6,plant,19.0,6.0
+2693,180,more used by adults,9,children,"['grass', 'water', 1]",7,dew,0.0,1.0
+1134,76,more used by adults,57,adults,"['earth', 'sky', 1]",7,horizon,0.0,1.0
+1133,76,more used by adults,57,adults,"['fire', 'plant', 1]",7,tobacco,0.0,1.0
+2713,181,more used by adults,10,children,"['steam', 'earth', 1]",1,geyser,0.0,1.0
+1062,71,more used by adults,43,adults,"['earth', 'sky', 1]",3,horizon,0.0,1.0
+1060,71,more used by adults,43,adults,"['earth', 'rain', 1]",5,plant,19.0,6.0
+1057,71,more used by adults,43,adults,"['garden', 'water', 1]",5,pond,4.0,3.0
+2721,182,more used by adults,8,children,"['rain', 'earth', 1]",7,plant,19.0,6.0
+2722,182,more used by adults,8,children,"['garden', 'water', 1]",1,pond,4.0,3.0
+1045,70,more used by adults,37,adults,"['rain', 'earth', 1]",2,plant,19.0,6.0
+1041,70,more used by adults,37,adults,"['earth', 'sky', 1]",2,horizon,0.0,1.0
+1040,70,more used by adults,37,adults,"['steam', 'earth', 1]",1,geyser,0.0,1.0
+1077,72,more used by adults,9,children,"['sky', 'fire', 1]",1,sun,19.0,6.0
+1091,73,more used by adults,9,children,"['sky', 'fire', 1]",7,sun,19.0,6.0
+1131,76,more used by adults,57,adults,"['fire', 'sky', 1]",7,sun,19.0,6.0
+1125,76,more used by adults,57,adults,"['garden', 'water', 1]",7,pond,4.0,3.0
+1122,75,more used by adults,11,children,"['earth', 'sky', 1]",1,horizon,0.0,1.0
+2696,180,more used by adults,9,children,"['steam', 'earth', 1]",4,geyser,0.0,1.0
+2697,180,more used by adults,9,children,"['ocean', 'fire', 1]",7,salt,1.0,2.0
+1228,82,more used by adults,22,adults,"['grass', 'water', 1]",7,dew,0.0,1.0
+1115,75,more used by adults,11,children,"['air', 'lava', 1]",2,stone,13.0,5.0
+1110,75,more used by adults,11,children,"['ocean', 'fire', 1]",1,salt,1.0,2.0
+1107,74,more used by adults,42,adults,"['garden', 'water', 1]",2,pond,4.0,3.0
+2706,181,more used by adults,10,children,"['sky', 'fire', 1]",1,sun,19.0,6.0
+1097,74,more used by adults,42,adults,"['fire', 'plant', 1]",1,tobacco,0.0,1.0
+1092,73,more used by adults,9,children,"['ocean', 'fire', 1]",1,salt,1.0,2.0
+1229,82,more used by adults,22,adults,"['garden', 'water', 1]",7,pond,4.0,3.0
+1234,83,more used by adults,21,adults,"['air', 'energy', 1]",6,wind,7.0,3.0
+1378,92,more used by adults,7,children,"['earth', 'steam', 1]",2,geyser,0.0,1.0
+2619,175,more used by adults,18,adults,"['earth', 'sky', 1]",4,horizon,0.0,1.0
+1358,91,more used by adults,7,children,"['earth', 'sky', 1]",1,horizon,0.0,1.0
+1356,91,more used by adults,7,children,"['plant', 'fire', 1]",1,tobacco,0.0,1.0
+1354,91,more used by adults,7,children,"['lava', 'air', 1]",1,stone,13.0,5.0
+1348,90,more used by adults,12,children,"['plant', 'fire', 1]",2,tobacco,0.0,1.0
+1347,90,more used by adults,12,children,"['fire', 'ocean', 1]",4,salt,1.0,2.0
+1340,90,more used by adults,12,children,"['sky', 'fire', 1]",2,sun,19.0,6.0
+1385,93,more used by adults,9,children,"['ocean', 'fire', 1]",1,salt,1.0,2.0
+2607,174,more used by adults,11,children,"['steam', 'earth', 1]",3,geyser,0.0,1.0
+1416,95,more used by adults,11,children,"['air', 'energy', 1]",2,wind,7.0,3.0
+1415,95,more used by adults,11,children,"['ocean', 'fire', 1]",1,salt,1.0,2.0
+2609,174,more used by adults,11,children,"['water', 'garden', 1]",2,pond,4.0,3.0
+1410,95,more used by adults,11,children,"['earth', 'sky', 1]",4,horizon,0.0,1.0
+2614,175,more used by adults,18,adults,"['lava', 'air', 1]",6,stone,13.0,5.0
+2615,175,more used by adults,18,adults,"['steam', 'earth', 1]",1,geyser,0.0,1.0
+1396,94,more used by adults,10,children,"['earth', 'steam', 1]",4,geyser,0.0,1.0
+1394,93,more used by adults,9,children,"['water', 'grass', 1]",7,dew,0.0,1.0
+1390,93,more used by adults,9,children,"['air', 'energy', 1]",5,wind,7.0,3.0
+1036,70,more used by adults,37,adults,"['water', 'garden', 1]",7,pond,4.0,3.0
+2629,176,more used by adults,13,children,"['fire', 'ocean', 1]",3,salt,1.0,2.0
+1277,86,more used by adults,7,children,"['grass', 'water', 1]",3,dew,0.0,1.0
+1276,86,more used by adults,7,children,"['plant', 'fire', 1]",1,tobacco,0.0,1.0
+1275,86,more used by adults,7,children,"['rain', 'earth', 1]",1,plant,19.0,6.0
+1274,85,more used by adults,9,children,"['sky', 'earth', 1]",4,horizon,0.0,1.0
+2652,177,more used by adults,7,children,"['earth', 'rain', 1]",7,plant,19.0,6.0
+2654,177,more used by adults,7,children,"['fire', 'plant', 1]",1,tobacco,0.0,1.0
+1263,85,more used by adults,9,children,"['grass', 'water', 1]",6,dew,0.0,1.0
+1258,84,more used by adults,34,adults,"['lava', 'air', 1]",4,stone,13.0,5.0
+2659,178,more used by adults,8,children,"['water', 'garden', 1]",1,pond,4.0,3.0
+1254,84,more used by adults,34,adults,"['steam', 'earth', 1]",7,geyser,0.0,1.0
+1242,83,more used by adults,21,adults,"['grass', 'water', 1]",7,dew,0.0,1.0
+1241,83,more used by adults,21,adults,"['fire', 'sky', 1]",2,sun,19.0,6.0
+1238,83,more used by adults,21,adults,"['fire', 'ocean', 1]",4,salt,1.0,2.0
+2649,177,more used by adults,7,children,"['fire', 'ocean', 1]",1,salt,1.0,2.0
+2635,176,more used by adults,13,children,"['fire', 'plant', 1]",5,tobacco,0.0,1.0
+1321,89,more used by adults,10,children,"['water', 'grass', 1]",7,dew,0.0,1.0
+1320,89,more used by adults,10,children,"['ocean', 'fire', 1]",2,salt,1.0,2.0
+1334,89,more used by adults,10,children,"['sky', 'fire', 1]",5,sun,19.0,6.0
+1309,88,more used by adults,9,children,"['steam', 'earth', 1]",1,geyser,0.0,1.0
+1302,87,more used by adults,13,children,"['fire', 'plant', 1]",2,tobacco,0.0,1.0
+1296,87,more used by adults,13,children,"['rain', 'earth', 1]",4,plant,19.0,6.0
+1294,87,more used by adults,13,children,"['air', 'lava', 1]",6,stone,13.0,5.0
+1291,87,more used by adults,13,children,"['sky', 'fire', 1]",7,sun,19.0,6.0
+1307,88,more used by adults,9,children,"['ocean', 'fire', 1]",3,salt,1.0,2.0
+2725,182,more used by adults,8,children,"['fire', 'sky', 1]",1,sun,19.0,6.0
+1158,78,more used by adults,24,adults,"['air', 'lava', 1]",4,stone,13.0,5.0
+2782,186,more used by adults,7,children,"['fire', 'ocean', 1]",1,salt,1.0,2.0
+959,64,more used by adults,35,adults,"['water', 'grass', 1]",7,dew,0.0,1.0
+963,65,more used by adults,11,children,"['steam', 'earth', 1]",4,geyser,0.0,1.0
+2752,184,more used by adults,49,adults,"['sky', 'fire', 1]",1,sun,19.0,6.0
+884,59,more used by adults,9,children,"['air', 'energy', 1]",2,wind,7.0,3.0
+882,59,more used by adults,9,children,"['earth', 'rain', 1]",7,plant,19.0,6.0
+2784,186,more used by adults,7,children,"['fire', 'plant', 1]",5,tobacco,0.0,1.0
+2786,186,more used by adults,7,children,"['rain', 'earth', 1]",7,plant,19.0,6.0
+974,65,more used by adults,11,children,"['water', 'garden', 1]",7,pond,4.0,3.0
+2790,187,more used by adults,51,adults,"['grass', 'water', 1]",4,dew,0.0,1.0
+2743,183,more used by adults,33,adults,"['air', 'lava', 1]",1,stone,13.0,5.0
+2742,183,more used by adults,33,adults,"['rain', 'earth', 1]",4,plant,19.0,6.0
+857,58,more used by adults,7,children,"['rain', 'earth', 1]",7,plant,19.0,6.0
+971,65,more used by adults,11,children,"['fire', 'ocean', 1]",1,salt,1.0,2.0
+2754,184,more used by adults,49,adults,"['plant', 'fire', 1]",1,tobacco,0.0,1.0
+921,62,more used by adults,8,children,"['earth', 'sky', 1]",6,horizon,0.0,1.0
+922,62,more used by adults,8,children,"['earth', 'steam', 1]",4,geyser,0.0,1.0
+908,61,more used by adults,38,adults,"['grass', 'water', 1]",7,dew,0.0,1.0
+933,63,more used by adults,11,children,"['air', 'energy', 1]",3,wind,7.0,3.0
+2771,185,more used by adults,43,adults,"['plant', 'fire', 1]",2,tobacco,0.0,1.0
+2758,184,more used by adults,49,adults,"['earth', 'steam', 1]",1,geyser,0.0,1.0
+2757,184,more used by adults,49,adults,"['air', 'energy', 1]",1,wind,7.0,3.0
+896,60,more used by adults,8,children,"['grass', 'water', 1]",5,dew,0.0,1.0
+2755,184,more used by adults,49,adults,"['earth', 'sky', 1]",1,horizon,0.0,1.0
+834,56,more used by adults,11,children,"['sky', 'fire', 1]",1,sun,19.0,6.0
+826,56,more used by adults,11,children,"['rain', 'earth', 1]",4,plant,19.0,6.0
+846,57,more used by adults,12,children,"['steam', 'earth', 1]",2,geyser,0.0,1.0
+840,57,more used by adults,12,children,"['ocean', 'fire', 1]",4,salt,1.0,2.0
+1008,68,more used by adults,8,children,"['earth', 'rain', 1]",6,plant,19.0,6.0
+844,57,more used by adults,12,children,"['sky', 'fire', 1]",1,sun,19.0,6.0
+1021,69,more used by adults,61,adults,"['lava', 'air', 1]",1,stone,13.0,5.0
+1013,68,more used by adults,8,children,"['air', 'lava', 1]",3,stone,13.0,5.0
+843,57,more used by adults,12,children,"['energy', 'air', 1]",7,wind,7.0,3.0
+1011,68,more used by adults,8,children,"['ocean', 'fire', 1]",4,salt,1.0,2.0
+827,56,more used by adults,11,children,"['lava', 'air', 1]",3,stone,13.0,5.0
+822,55,more used by adults,9,children,"['fire', 'ocean', 1]",1,salt,1.0,2.0
+2732,183,more used by adults,33,adults,"['steam', 'earth', 1]",5,geyser,0.0,1.0
+1020,69,more used by adults,61,adults,"['air', 'energy', 1]",7,wind,7.0,3.0
+1031,69,more used by adults,61,adults,"['earth', 'steam', 1]",6,geyser,0.0,1.0
+848,57,more used by adults,12,children,"['lava', 'air', 1]",1,stone,13.0,5.0
+1000,67,more used by adults,10,children,"['earth', 'sky', 1]",6,horizon,0.0,1.0
+819,55,more used by adults,9,children,"['steam', 'earth', 1]",4,geyser,0.0,1.0
+2797,187,more used by adults,51,adults,"['rain', 'earth', 1]",7,plant,19.0,6.0
+2728,182,more used by adults,8,children,"['plant', 'fire', 1]",7,tobacco,0.0,1.0
+2727,182,more used by adults,8,children,"['water', 'grass', 1]",1,dew,0.0,1.0
+3074,205,more used by children,7,children,"['dust', 'fire', 1]",5,gunpowder,4.0,3.0
+2838,190,more used by children,9,children,"['fire', 'dust', 1]",5,gunpowder,4.0,3.0
+2487,166,more used by children,10,children,"['mud', 'grass', 1]",4,swamp,5.0,3.0
+2779,186,more used by children,7,children,"['grass', 'mud', 1]",5,swamp,5.0,3.0
+2348,157,more used by children,5,children,"['earthquake', 'earth', 1]",7,mountain,9.0,4.0
+2620,175,more used by children,18,adults,"['cloud', 'water', 1]",3,rain,9.0,4.0
+2645,177,more used by children,7,children,"['plant', 'grass', 1]",4,garden,4.0,3.0
+2502,167,more used by children,6,children,"['water', 'cloud', 1]",6,rain,9.0,4.0
+2768,185,more used by children,43,adults,"['cloud', 'water', 1]",7,rain,9.0,4.0
+3016,202,more used by children,9,children,"['water', 'sea', 1]",2,ocean,19.0,6.0
+2459,164,more used by children,10,children,"['plant', 'grass', 1]",1,garden,4.0,3.0
+2319,155,more used by children,10,children,"['mud', 'grass', 1]",6,swamp,5.0,3.0
+2358,158,more used by children,11,children,"['cloud', 'energy', 1]",4,storm,3.0,2.0
+2850,191,more used by children,12,children,"['dust', 'fire', 1]",3,gunpowder,4.0,3.0
+2849,190,more used by children,9,children,"['water', 'sea', 1]",6,ocean,19.0,6.0
+3030,203,more used by children,6,children,"['sea', 'fire', 1]",1,salt,1.0,2.0
+3026,202,more used by children,9,children,"['earthquake', 'earth', 1]",4,mountain,9.0,4.0
+2800,187,more used by children,51,adults,"['grass', 'mud', 1]",4,swamp,5.0,3.0
+2601,174,more used by children,11,children,"['sea', 'fire', 1]",1,salt,1.0,2.0
+3081,206,more used by children,9,children,"['earth', 'earthquake', 1]",3,mountain,9.0,4.0
+2843,190,more used by children,9,children,"['grass', 'mud', 1]",6,swamp,5.0,3.0
+2576,172,more used by children,53,adults,"['water', 'sea', 1]",1,ocean,19.0,6.0
+2352,157,more used by children,5,children,"['water', 'sea', 1]",7,ocean,19.0,6.0
+3039,203,more used by children,6,children,"['sand', 'water', 1]",7,beach,5.0,3.0
+2610,175,more used by children,18,adults,"['fire', 'sea', 1]",3,salt,1.0,2.0
+2592,173,more used by children,51,adults,"['dust', 'fire', 1]",2,gunpowder,4.0,3.0
+2818,188,more used by children,7,children,"['energy', 'cloud', 1]",6,storm,3.0,2.0
+2472,165,more used by children,11,children,"['energy', 'cloud', 1]",6,storm,3.0,2.0
+2791,187,more used by children,51,adults,"['volcano', 'energy', 1]",6,ash,1.0,2.0
+3058,204,more used by children,7,children,"['earthquake', 'earth', 1]",1,mountain,9.0,4.0
+2623,175,more used by children,18,adults,"['energy', 'cloud', 1]",3,storm,3.0,2.0
+2473,165,more used by children,11,children,"['sea', 'water', 1]",1,ocean,19.0,6.0
+3059,204,more used by children,7,children,"['grass', 'mud', 1]",1,swamp,5.0,3.0
+2334,156,more used by children,12,children,"['earth', 'earthquake', 1]",1,mountain,9.0,4.0
+2820,189,more used by children,9,children,"['sea', 'water', 1]",1,ocean,19.0,6.0
+2465,165,more used by children,11,children,"['grass', 'plant', 1]",6,garden,4.0,3.0
+2789,186,more used by children,7,children,"['grass', 'plant', 1]",7,garden,4.0,3.0
+2360,158,more used by children,11,children,"['energy', 'volcano', 1]",3,ash,1.0,2.0
+2641,177,more used by children,7,children,"['grass', 'mud', 1]",4,swamp,5.0,3.0
+2578,172,more used by children,53,adults,"['cloud', 'water', 1]",7,rain,9.0,4.0
+2612,175,more used by children,18,adults,"['water', 'sea', 1]",7,ocean,19.0,6.0
+2488,166,more used by children,10,children,"['volcano', 'energy', 1]",5,ash,1.0,2.0
+2581,173,more used by children,51,adults,"['earth', 'earthquake', 1]",1,mountain,9.0,4.0
+3042,203,more used by children,6,children,"['dust', 'fire', 1]",1,gunpowder,4.0,3.0
+2489,166,more used by children,10,children,"['cloud', 'energy', 1]",3,storm,3.0,2.0
+2827,189,more used by children,9,children,"['dust', 'fire', 1]",5,gunpowder,4.0,3.0
+2490,167,more used by children,6,children,"['mud', 'grass', 1]",2,swamp,5.0,3.0
+2634,176,more used by children,13,children,"['cloud', 'water', 1]",5,rain,9.0,4.0
+2825,189,more used by children,9,children,"['water', 'sand', 1]",1,beach,5.0,3.0
+2570,172,more used by children,53,adults,"['grass', 'mud', 1]",7,swamp,5.0,3.0
+2735,183,more used by children,33,adults,"['volcano', 'energy', 1]",4,ash,1.0,2.0
+2707,181,more used by children,10,children,"['plant', 'grass', 1]",7,garden,4.0,3.0
+2934,196,more used by children,5,children,"['cloud', 'energy', 1]",6,storm,3.0,2.0
+2935,196,more used by children,5,children,"['sea', 'water', 1]",4,ocean,19.0,6.0
+2410,161,more used by children,9,children,"['grass', 'plant', 1]",7,garden,4.0,3.0
+2736,183,more used by children,33,adults,"['cloud', 'energy', 1]",3,storm,3.0,2.0
+2896,194,more used by children,42,adults,"['water', 'sand', 1]",2,beach,5.0,3.0
+2939,196,more used by children,5,children,"['dust', 'fire', 1]",2,gunpowder,4.0,3.0
+2941,197,more used by children,39,adults,"['cloud', 'water', 1]",7,rain,9.0,4.0
+2895,194,more used by children,42,adults,"['mud', 'grass', 1]",4,swamp,5.0,3.0
+2894,193,more used by children,10,children,"['fire', 'sea', 1]",4,salt,1.0,2.0
+2945,197,more used by children,39,adults,"['sea', 'water', 1]",7,ocean,19.0,6.0
+2435,163,more used by children,11,children,"['grass', 'mud', 1]",3,swamp,5.0,3.0
+2740,183,more used by children,33,adults,"['grass', 'mud', 1]",1,swamp,5.0,3.0
+2891,193,more used by children,10,children,"['grass', 'plant', 1]",7,garden,4.0,3.0
+2802,187,more used by children,51,adults,"['sea', 'water', 1]",2,ocean,19.0,6.0
+2942,197,more used by children,39,adults,"['grass', 'plant', 1]",6,garden,4.0,3.0
+2402,161,more used by children,9,children,"['fire', 'dust', 1]",1,gunpowder,4.0,3.0
+2734,183,more used by children,33,adults,"['sea', 'fire', 1]",3,salt,1.0,2.0
+2911,195,more used by children,25,adults,"['energy', 'volcano', 1]",3,ash,1.0,2.0
+2909,194,more used by children,42,adults,"['cloud', 'energy', 1]",2,storm,3.0,2.0
+2908,194,more used by children,42,adults,"['cloud', 'water', 1]",1,rain,9.0,4.0
+2724,182,more used by children,8,children,"['grass', 'plant', 1]",1,garden,4.0,3.0
+2729,182,more used by children,8,children,"['sand', 'water', 1]",1,beach,5.0,3.0
+2431,163,more used by children,11,children,"['sea', 'water', 1]",4,ocean,19.0,6.0
+2417,162,more used by children,8,children,"['water', 'sea', 1]",1,ocean,19.0,6.0
+2710,181,more used by children,10,children,"['sea', 'water', 1]",7,ocean,19.0,6.0
+2927,196,more used by children,5,children,"['earthquake', 'earth', 1]",5,mountain,9.0,4.0
+2434,163,more used by children,11,children,"['earth', 'earthquake', 1]",3,mountain,9.0,4.0
+2902,194,more used by children,42,adults,"['water', 'sea', 1]",1,ocean,19.0,6.0
+2716,182,more used by children,8,children,"['fire', 'dust', 1]",3,gunpowder,4.0,3.0
+2528,169,more used by children,11,children,"['grass', 'mud', 1]",6,swamp,5.0,3.0
+2433,163,more used by children,11,children,"['water', 'sand', 1]",5,beach,5.0,3.0
+2920,195,more used by children,25,adults,"['dust', 'fire', 1]",7,gunpowder,4.0,3.0
+2527,169,more used by children,11,children,"['fire', 'dust', 1]",4,gunpowder,4.0,3.0
+2530,169,more used by children,11,children,"['cloud', 'water', 1]",7,rain,9.0,4.0
+2658,178,more used by children,8,children,"['energy', 'volcano', 1]",1,ash,1.0,2.0
+2543,170,more used by children,35,adults,"['dust', 'fire', 1]",4,gunpowder,4.0,3.0
+2983,199,more used by children,25,adults,"['earth', 'earthquake', 1]",7,mountain,9.0,4.0
+2377,159,more used by children,8,children,"['volcano', 'energy', 1]",4,ash,1.0,2.0
+2449,164,more used by children,10,children,"['water', 'sea', 1]",2,ocean,19.0,6.0
+2669,178,more used by children,8,children,"['water', 'sand', 1]",2,beach,5.0,3.0
+2506,168,more used by children,8,children,"['plant', 'grass', 1]",5,garden,4.0,3.0
+2995,200,more used by children,26,adults,"['sand', 'water', 1]",7,beach,5.0,3.0
+2997,200,more used by children,26,adults,"['energy', 'volcano', 1]",1,ash,1.0,2.0
+2569,172,more used by children,53,adults,"['energy', 'cloud', 1]",7,storm,3.0,2.0
+2856,191,more used by children,12,children,"['earth', 'earthquake', 1]",4,mountain,9.0,4.0
+2456,164,more used by children,10,children,"['sea', 'fire', 1]",6,salt,1.0,2.0
+2756,184,more used by children,49,adults,"['water', 'sand', 1]",7,beach,5.0,3.0
+2568,172,more used by children,53,adults,"['water', 'sand', 1]",1,beach,5.0,3.0
+2858,191,more used by children,12,children,"['water', 'sand', 1]",5,beach,5.0,3.0
+3000,201,more used by children,9,children,"['sea', 'water', 1]",1,ocean,19.0,6.0
+2665,178,more used by children,8,children,"['sea', 'water', 1]",1,ocean,19.0,6.0
+2398,160,more used by children,9,children,"['water', 'sand', 1]",7,beach,5.0,3.0
+2748,184,more used by children,49,adults,"['volcano', 'energy', 1]",5,ash,1.0,2.0
+2692,180,more used by children,9,children,"['fire', 'dust', 1]",6,gunpowder,4.0,3.0
+2750,184,more used by children,49,adults,"['energy', 'cloud', 1]",1,storm,3.0,2.0
+2690,180,more used by children,9,children,"['sand', 'water', 1]",6,beach,5.0,3.0
+2512,168,more used by children,8,children,"['energy', 'volcano', 1]",1,ash,1.0,2.0
+2878,192,more used by children,10,children,"['fire', 'sea', 1]",1,salt,1.0,2.0
+2390,160,more used by children,9,children,"['earth', 'earthquake', 1]",7,mountain,9.0,4.0
+2389,160,more used by children,9,children,"['fire', 'dust', 1]",1,gunpowder,4.0,3.0
+2871,192,more used by children,10,children,"['energy', 'cloud', 1]",5,storm,3.0,2.0
+2447,164,more used by children,10,children,"['energy', 'volcano', 1]",2,ash,1.0,2.0
+2552,171,more used by children,10,children,"['fire', 'dust', 1]",1,gunpowder,4.0,3.0
+2384,159,more used by children,8,children,"['plant', 'grass', 1]",7,garden,4.0,3.0
+2681,179,more used by children,7,children,"['sea', 'fire', 1]",1,salt,1.0,2.0
+2550,171,more used by children,10,children,"['cloud', 'energy', 1]",1,storm,3.0,2.0
+2967,198,more used by children,10,children,"['cloud', 'energy', 1]",6,storm,3.0,2.0
+2680,179,more used by children,7,children,"['earth', 'earthquake', 1]",1,mountain,9.0,4.0
+2698,180,more used by children,9,children,"['energy', 'cloud', 1]",6,storm,3.0,2.0
+2316,155,more used by children,10,children,"['water', 'sand', 1]",4,beach,5.0,3.0
+740,50,more used by children,31,adults,"['water', 'cloud', 1]",7,rain,9.0,4.0
+737,50,more used by children,31,adults,"['volcano', 'energy', 1]",7,ash,1.0,2.0
+725,49,more used by children,35,adults,"['sea', 'fire', 1]",5,salt,1.0,2.0
+749,50,more used by children,31,adults,"['earthquake', 'earth', 1]",1,mountain,9.0,4.0
+721,49,more used by children,35,adults,"['energy', 'volcano', 1]",2,ash,1.0,2.0
+718,48,more used by children,45,adults,"['water', 'sea', 1]",7,ocean,19.0,6.0
+713,48,more used by children,45,adults,"['grass', 'plant', 1]",7,garden,4.0,3.0
+710,48,more used by children,45,adults,"['dust', 'fire', 1]",1,gunpowder,4.0,3.0
+709,48,more used by children,45,adults,"['water', 'cloud', 1]",7,rain,9.0,4.0
+704,47,more used by children,25,adults,"['grass', 'mud', 1]",7,swamp,5.0,3.0
+753,51,more used by children,6,children,"['dust', 'fire', 1]",1,gunpowder,4.0,3.0
+757,51,more used by children,6,children,"['sand', 'water', 1]",6,beach,5.0,3.0
+808,54,more used by children,46,adults,"['water', 'sea', 1]",5,ocean,19.0,6.0
+807,54,more used by children,46,adults,"['sea', 'fire', 1]",2,salt,1.0,2.0
+802,54,more used by children,46,adults,"['grass', 'plant', 1]",7,garden,4.0,3.0
+798,54,more used by children,46,adults,"['cloud', 'energy', 1]",7,storm,3.0,2.0
+796,54,more used by children,46,adults,"['water', 'cloud', 1]",7,rain,9.0,4.0
+793,53,more used by children,24,adults,"['sea', 'water', 1]",4,ocean,19.0,6.0
+783,53,more used by children,24,adults,"['volcano', 'energy', 1]",2,ash,1.0,2.0
+777,52,more used by children,40,adults,"['earth', 'earthquake', 1]",5,mountain,9.0,4.0
+774,52,more used by children,40,adults,"['water', 'cloud', 1]",6,rain,9.0,4.0
+773,52,more used by children,40,adults,"['grass', 'mud', 1]",3,swamp,5.0,3.0
+768,52,more used by children,40,adults,"['energy', 'volcano', 1]",6,ash,1.0,2.0
+763,51,more used by children,6,children,"['fire', 'sea', 1]",7,salt,1.0,2.0
+817,55,more used by children,9,children,"['dust', 'fire', 1]",1,gunpowder,4.0,3.0
+701,47,more used by children,25,adults,"['earthquake', 'earth', 1]",7,mountain,9.0,4.0
+627,42,more used by children,7,children,"['earthquake', 'earth', 1]",1,mountain,9.0,4.0
+623,42,more used by children,7,children,"['dust', 'fire', 1]",1,gunpowder,4.0,3.0
+619,42,more used by children,7,children,"['cloud', 'water', 1]",6,rain,9.0,4.0
+618,42,more used by children,7,children,"['sea', 'water', 1]",5,ocean,19.0,6.0
+614,41,more used by children,26,adults,"['fire', 'sea', 1]",1,salt,1.0,2.0
+609,41,more used by children,26,adults,"['water', 'sea', 1]",2,ocean,19.0,6.0
+605,41,more used by children,26,adults,"['dust', 'fire', 1]",5,gunpowder,4.0,3.0
+602,41,more used by children,26,adults,"['water', 'sand', 1]",3,beach,5.0,3.0
+597,40,more used by children,7,children,"['sand', 'water', 1]",7,beach,5.0,3.0
+593,40,more used by children,7,children,"['water', 'sea', 1]",1,ocean,19.0,6.0
+585,40,more used by children,7,children,"['fire', 'sea', 1]",1,salt,1.0,2.0
+603,41,more used by children,26,adults,"['energy', 'volcano', 1]",4,ash,1.0,2.0
+646,44,more used by children,38,adults,"['grass', 'plant', 1]",5,garden,4.0,3.0
+693,47,more used by children,25,adults,"['cloud', 'energy', 1]",7,storm,3.0,2.0
+689,46,more used by children,25,adults,"['sea', 'water', 1]",7,ocean,19.0,6.0
+684,46,more used by children,25,adults,"['energy', 'volcano', 1]",7,ash,1.0,2.0
+674,45,more used by children,30,adults,"['earthquake', 'earth', 1]",1,mountain,9.0,4.0
+640,43,more used by children,19,adults,"['fire', 'dust', 1]",7,gunpowder,4.0,3.0
+670,45,more used by children,30,adults,"['dust', 'fire', 1]",3,gunpowder,4.0,3.0
+660,45,more used by children,30,adults,"['sand', 'water', 1]",2,beach,5.0,3.0
+655,44,more used by children,38,adults,"['fire', 'sea', 1]",3,salt,1.0,2.0
+654,44,more used by children,38,adults,"['water', 'sand', 1]",7,beach,5.0,3.0
+1023,69,more used by children,61,adults,"['fire', 'dust', 1]",7,gunpowder,4.0,3.0
+1022,69,more used by children,61,adults,"['grass', 'plant', 1]",1,garden,4.0,3.0
+1001,67,more used by children,10,children,"['dust', 'fire', 1]",4,gunpowder,4.0,3.0
+995,67,more used by children,10,children,"['grass', 'plant', 1]",7,garden,4.0,3.0
+1024,69,more used by children,61,adults,"['water', 'sand', 1]",7,beach,5.0,3.0
+994,67,more used by children,10,children,"['sea', 'water', 1]",1,ocean,19.0,6.0
+990,67,more used by children,10,children,"['water', 'cloud', 1]",7,rain,9.0,4.0
+988,66,more used by children,8,children,"['sea', 'water', 1]",1,ocean,19.0,6.0
+985,66,more used by children,8,children,"['mud', 'grass', 1]",7,swamp,5.0,3.0
+984,66,more used by children,8,children,"['fire', 'dust', 1]",4,gunpowder,4.0,3.0
+980,66,more used by children,8,children,"['fire', 'sea', 1]",2,salt,1.0,2.0
+975,66,more used by children,8,children,"['plant', 'grass', 1]",7,garden,4.0,3.0
+972,65,more used by children,11,children,"['sea', 'water', 1]",4,ocean,19.0,6.0
+1034,69,more used by children,61,adults,"['energy', 'cloud', 1]",7,storm,3.0,2.0
+1098,74,more used by children,42,adults,"['volcano', 'energy', 1]",6,ash,1.0,2.0
+1093,73,more used by children,9,children,"['water', 'cloud', 1]",7,rain,9.0,4.0
+1090,73,more used by children,9,children,"['volcano', 'energy', 1]",2,ash,1.0,2.0
+1088,73,more used by children,9,children,"['water', 'sea', 1]",1,ocean,19.0,6.0
+1079,72,more used by children,9,children,"['mud', 'grass', 1]",2,swamp,5.0,3.0
+1076,72,more used by children,9,children,"['water', 'sea', 1]",2,ocean,19.0,6.0
+1074,72,more used by children,9,children,"['cloud', 'energy', 1]",6,storm,3.0,2.0
+1056,71,more used by children,43,adults,"['earthquake', 'earth', 1]",3,mountain,9.0,4.0
+1052,71,more used by children,43,adults,"['cloud', 'water', 1]",5,rain,9.0,4.0
+1051,71,more used by children,43,adults,"['fire', 'dust', 1]",3,gunpowder,4.0,3.0
+1035,70,more used by children,37,adults,"['energy', 'cloud', 1]",6,storm,3.0,2.0
+889,60,more used by children,8,children,"['water', 'sea', 1]",1,ocean,19.0,6.0
+883,59,more used by children,9,children,"['water', 'sand', 1]",4,beach,5.0,3.0
+875,59,more used by children,9,children,"['grass', 'plant', 1]",1,garden,4.0,3.0
+869,58,more used by children,7,children,"['dust', 'fire', 1]",4,gunpowder,4.0,3.0
+897,60,more used by children,8,children,"['fire', 'dust', 1]",1,gunpowder,4.0,3.0
+865,58,more used by children,7,children,"['sand', 'water', 1]",7,beach,5.0,3.0
+860,58,more used by children,7,children,"['cloud', 'water', 1]",7,rain,9.0,4.0
+858,58,more used by children,7,children,"['earth', 'earthquake', 1]",7,mountain,9.0,4.0
+856,58,more used by children,7,children,"['sea', 'water', 1]",1,ocean,19.0,6.0
+850,57,more used by children,12,children,"['sea', 'water', 1]",5,ocean,19.0,6.0
+847,57,more used by children,12,children,"['sea', 'fire', 1]",2,salt,1.0,2.0
+833,56,more used by children,11,children,"['water', 'cloud', 1]",5,rain,9.0,4.0
+898,60,more used by children,8,children,"['volcano', 'energy', 1]",3,ash,1.0,2.0
+956,64,more used by children,35,adults,"['sea', 'water', 1]",7,ocean,19.0,6.0
+952,64,more used by children,35,adults,"['cloud', 'water', 1]",7,rain,9.0,4.0
+945,64,more used by children,35,adults,"['grass', 'plant', 1]",1,garden,4.0,3.0
+942,63,more used by children,11,children,"['sand', 'water', 1]",6,beach,5.0,3.0
+935,63,more used by children,11,children,"['fire', 'dust', 1]",6,gunpowder,4.0,3.0
+934,63,more used by children,11,children,"['grass', 'plant', 1]",6,garden,4.0,3.0
+930,63,more used by children,11,children,"['energy', 'volcano', 1]",3,ash,1.0,2.0
+929,62,more used by children,8,children,"['energy', 'cloud', 1]",1,storm,3.0,2.0
+920,62,more used by children,8,children,"['earth', 'earthquake', 1]",1,mountain,9.0,4.0
+916,62,more used by children,8,children,"['fire', 'dust', 1]",1,gunpowder,4.0,3.0
+914,61,more used by children,38,adults,"['water', 'sand', 1]",7,beach,5.0,3.0
+906,61,more used by children,38,adults,"['plant', 'grass', 1]",7,garden,4.0,3.0
+904,61,more used by children,38,adults,"['fire', 'dust', 1]",1,gunpowder,4.0,3.0
+902,61,more used by children,38,adults,"['earth', 'earthquake', 1]",7,mountain,9.0,4.0
+581,39,more used by children,24,adults,"['water', 'cloud', 1]",4,rain,9.0,4.0
+575,39,more used by children,24,adults,"['volcano', 'energy', 1]",3,ash,1.0,2.0
+571,39,more used by children,24,adults,"['energy', 'cloud', 1]",2,storm,3.0,2.0
+193,13,more used by children,22,adults,"['energy', 'volcano', 1]",5,ash,1.0,2.0
+190,13,more used by children,22,adults,"['water', 'sea', 1]",4,ocean,19.0,6.0
+189,13,more used by children,22,adults,"['mud', 'grass', 1]",3,swamp,5.0,3.0
+188,13,more used by children,22,adults,"['cloud', 'energy', 1]",2,storm,3.0,2.0
+185,13,more used by children,22,adults,"['plant', 'grass', 1]",7,garden,4.0,3.0
+202,14,more used by children,57,adults,"['earth', 'earthquake', 1]",1,mountain,9.0,4.0
+176,12,more used by children,8,children,"['fire', 'sea', 1]",3,salt,1.0,2.0
+168,12,more used by children,8,children,"['volcano', 'energy', 1]",3,ash,1.0,2.0
+167,12,more used by children,8,children,"['cloud', 'energy', 1]",6,storm,3.0,2.0
+155,11,more used by children,8,children,"['volcano', 'energy', 1]",7,ash,1.0,2.0
+154,11,more used by children,8,children,"['water', 'cloud', 1]",5,rain,9.0,4.0
+150,11,more used by children,8,children,"['water', 'sand', 1]",2,beach,5.0,3.0
+205,14,more used by children,57,adults,"['cloud', 'water', 1]",4,rain,9.0,4.0
+211,15,more used by children,9,children,"['energy', 'cloud', 1]",4,storm,3.0,2.0
+266,18,more used by children,8,children,"['mud', 'grass', 1]",3,swamp,5.0,3.0
+265,18,more used by children,8,children,"['volcano', 'energy', 1]",5,ash,1.0,2.0
+252,17,more used by children,28,adults,"['earthquake', 'earth', 1]",6,mountain,9.0,4.0
+251,17,more used by children,28,adults,"['fire', 'dust', 1]",4,gunpowder,4.0,3.0
+209,14,more used by children,57,adults,"['dust', 'fire', 1]",1,gunpowder,4.0,3.0
+244,17,more used by children,28,adults,"['fire', 'sea', 1]",1,salt,1.0,2.0
+240,17,more used by children,28,adults,"['volcano', 'energy', 1]",5,ash,1.0,2.0
+229,16,more used by children,6,children,"['energy', 'cloud', 1]",4,storm,3.0,2.0
+221,15,more used by children,9,children,"['dust', 'fire', 1]",1,gunpowder,4.0,3.0
+216,15,more used by children,9,children,"['sand', 'water', 1]",7,beach,5.0,3.0
+214,15,more used by children,9,children,"['water', 'sea', 1]",1,ocean,19.0,6.0
+242,17,more used by children,28,adults,"['water', 'sea', 1]",6,ocean,19.0,6.0
+140,10,more used by children,6,children,"['plant', 'grass', 1]",7,garden,4.0,3.0
+56,4,more used by children,9,children,"['sea', 'water', 1]",1,ocean,19.0,6.0
+52,4,more used by children,9,children,"['fire', 'sea', 1]",1,salt,1.0,2.0
+50,4,more used by children,9,children,"['volcano', 'energy', 1]",7,ash,1.0,2.0
+48,4,more used by children,9,children,"['water', 'cloud', 1]",7,rain,9.0,4.0
+34,3,more used by children,8,children,"['volcano', 'energy', 1]",1,ash,1.0,2.0
+24,2,more used by children,42,adults,"['sand', 'water', 1]",7,beach,5.0,3.0
+22,2,more used by children,42,adults,"['grass', 'mud', 1]",2,swamp,5.0,3.0
+20,2,more used by children,42,adults,"['fire', 'sea', 1]",7,salt,1.0,2.0
+7,1,more used by children,11,children,"['fire', 'dust', 1]",3,gunpowder,4.0,3.0
+5,1,more used by children,11,children,"['earthquake', 'earth', 1]",1,mountain,9.0,4.0
+1,1,more used by children,11,children,"['mud', 'grass', 1]",1,swamp,5.0,3.0
+26,2,more used by children,42,adults,"['volcano', 'energy', 1]",1,ash,1.0,2.0
+65,5,more used by children,10,children,"['energy', 'cloud', 1]",6,storm,3.0,2.0
+72,5,more used by children,10,children,"['grass', 'mud', 1]",2,swamp,5.0,3.0
+131,9,more used by children,7,children,"['sand', 'water', 1]",4,beach,5.0,3.0
+117,8,more used by children,11,children,"['energy', 'cloud', 1]",1,storm,3.0,2.0
+113,8,more used by children,11,children,"['earthquake', 'earth', 1]",1,mountain,9.0,4.0
+112,8,more used by children,11,children,"['grass', 'plant', 1]",1,garden,4.0,3.0
+100,7,more used by children,21,adults,"['water', 'sand', 1]",2,beach,5.0,3.0
+97,7,more used by children,21,adults,"['plant', 'grass', 1]",7,garden,4.0,3.0
+93,7,more used by children,21,adults,"['energy', 'volcano', 1]",1,ash,1.0,2.0
+87,6,more used by children,8,children,"['plant', 'grass', 1]",2,garden,4.0,3.0
+74,5,more used by children,10,children,"['fire', 'dust', 1]",6,gunpowder,4.0,3.0
+278,19,more used by children,8,children,"['energy', 'volcano', 1]",1,ash,1.0,2.0
+280,19,more used by children,8,children,"['sea', 'fire', 1]",5,salt,1.0,2.0
+484,33,more used by children,5,children,"['sea', 'fire', 1]",1,salt,1.0,2.0
+483,33,more used by children,5,children,"['cloud', 'water', 1]",4,rain,9.0,4.0
+480,33,more used by children,5,children,"['sand', 'water', 1]",1,beach,5.0,3.0
+473,32,more used by children,48,adults,"['cloud', 'energy', 1]",6,storm,3.0,2.0
+470,32,more used by children,48,adults,"['dust', 'fire', 1]",4,gunpowder,4.0,3.0
+446,30,more used by children,9,children,"['sand', 'water', 1]",1,beach,5.0,3.0
+438,30,more used by children,9,children,"['volcano', 'energy', 1]",7,ash,1.0,2.0
+437,30,more used by children,9,children,"['water', 'cloud', 1]",7,rain,9.0,4.0
+436,30,more used by children,9,children,"['earth', 'earthquake', 1]",1,mountain,9.0,4.0
+506,34,more used by children,9,children,"['sand', 'water', 1]",2,beach,5.0,3.0
+569,38,more used by children,34,adults,"['volcano', 'energy', 1]",3,ash,1.0,2.0
+562,38,more used by children,34,adults,"['mud', 'grass', 1]",5,swamp,5.0,3.0
+556,38,more used by children,34,adults,"['sand', 'water', 1]",7,beach,5.0,3.0
+553,37,more used by children,9,children,"['energy', 'cloud', 1]",1,storm,3.0,2.0
+540,37,more used by children,9,children,"['water', 'cloud', 1]",1,rain,9.0,4.0
+538,36,more used by children,8,children,"['grass', 'mud', 1]",7,swamp,5.0,3.0
+536,36,more used by children,8,children,"['cloud', 'water', 1]",1,rain,9.0,4.0
+521,35,more used by children,8,children,"['grass', 'mud', 1]",3,swamp,5.0,3.0
+519,35,more used by children,8,children,"['earth', 'earthquake', 1]",3,mountain,9.0,4.0
+414,28,more used by children,60,adults,"['sea', 'water', 1]",1,ocean,19.0,6.0
+327,22,more used by children,20,adults,"['cloud', 'energy', 1]",6,storm,3.0,2.0
+321,22,more used by children,20,adults,"['grass', 'mud', 1]",2,swamp,5.0,3.0
+312,21,more used by children,8,children,"['grass', 'plant', 1]",1,garden,4.0,3.0
+310,21,more used by children,8,children,"['energy', 'cloud', 1]",4,storm,3.0,2.0
+308,21,more used by children,8,children,"['earth', 'earthquake', 1]",1,mountain,9.0,4.0
+301,21,more used by children,8,children,"['water', 'sea', 1]",1,ocean,19.0,6.0
+300,21,more used by children,8,children,"['energy', 'volcano', 1]",1,ash,1.0,2.0
+299,20,more used by children,9,children,"['cloud', 'energy', 1]",6,storm,3.0,2.0
+297,20,more used by children,9,children,"['cloud', 'water', 1]",6,rain,9.0,4.0
+292,20,more used by children,9,children,"['mud', 'grass', 1]",4,swamp,5.0,3.0
+289,20,more used by children,9,children,"['sand', 'water', 1]",5,beach,5.0,3.0
+340,23,more used by children,9,children,"['sea', 'fire', 1]",3,salt,1.0,2.0
+344,23,more used by children,9,children,"['sand', 'water', 1]",6,beach,5.0,3.0
+404,27,more used by children,8,children,"['mud', 'grass', 1]",1,swamp,5.0,3.0
+403,27,more used by children,8,children,"['energy', 'cloud', 1]",4,storm,3.0,2.0
+397,27,more used by children,8,children,"['cloud', 'water', 1]",7,rain,9.0,4.0
+383,26,more used by children,9,children,"['water', 'sand', 1]",4,beach,5.0,3.0
+371,25,more used by children,10,children,"['earth', 'earthquake', 1]",2,mountain,9.0,4.0
+363,25,more used by children,10,children,"['fire', 'sea', 1]",5,salt,1.0,2.0
+360,25,more used by children,10,children,"['volcano', 'energy', 1]",2,ash,1.0,2.0
+358,24,more used by children,9,children,"['sea', 'fire', 1]",3,salt,1.0,2.0
+357,24,more used by children,9,children,"['fire', 'dust', 1]",5,gunpowder,4.0,3.0
+355,24,more used by children,9,children,"['water', 'sand', 1]",5,beach,5.0,3.0
+352,24,more used by children,9,children,"['energy', 'volcano', 1]",5,ash,1.0,2.0
+349,24,more used by children,9,children,"['grass', 'mud', 1]",6,swamp,5.0,3.0
+1103,74,more used by children,42,adults,"['cloud', 'energy', 1]",6,storm,3.0,2.0
+1951,131,more used by children,12,children,"['energy', 'volcano', 1]",4,ash,1.0,2.0
+1947,130,more used by children,33,adults,"['water', 'sea', 1]",1,ocean,19.0,6.0
+1937,130,more used by children,33,adults,"['water', 'cloud', 1]",4,rain,9.0,4.0
+1930,129,more used by children,10,children,"['cloud', 'water', 1]",6,rain,9.0,4.0
+1926,129,more used by children,10,children,"['water', 'sand', 1]",5,beach,5.0,3.0
+1915,128,more used by children,21,adults,"['sand', 'water', 1]",4,beach,5.0,3.0
+1913,128,more used by children,21,adults,"['energy', 'volcano', 1]",5,ash,1.0,2.0
+1906,128,more used by children,21,adults,"['grass', 'mud', 1]",6,swamp,5.0,3.0
+1904,127,more used by children,13,children,"['sea', 'fire', 1]",3,salt,1.0,2.0
+1903,127,more used by children,13,children,"['cloud', 'energy', 1]",4,storm,3.0,2.0
+1893,127,more used by children,13,children,"['grass', 'mud', 1]",3,swamp,5.0,3.0
+1883,126,more used by children,11,children,"['water', 'sea', 1]",1,ocean,19.0,6.0
+1911,128,more used by children,21,adults,"['water', 'sea', 1]",4,ocean,19.0,6.0
+1882,126,more used by children,11,children,"['volcano', 'energy', 1]",1,ash,1.0,2.0
+1955,131,more used by children,12,children,"['grass', 'plant', 1]",4,garden,4.0,3.0
+1959,131,more used by children,12,children,"['fire', 'dust', 1]",7,gunpowder,4.0,3.0
+2012,135,more used by children,11,children,"['energy', 'cloud', 1]",6,storm,3.0,2.0
+2008,134,more used by children,11,children,"['plant', 'grass', 1]",4,garden,4.0,3.0
+2004,134,more used by children,11,children,"['cloud', 'energy', 1]",7,storm,3.0,2.0
+2003,134,more used by children,11,children,"['water', 'sand', 1]",5,beach,5.0,3.0
+1993,133,more used by children,50,adults,"['energy', 'cloud', 1]",4,storm,3.0,2.0
+1989,133,more used by children,50,adults,"['mud', 'grass', 1]",7,swamp,5.0,3.0
+1982,133,more used by children,50,adults,"['water', 'sand', 1]",4,beach,5.0,3.0
+1979,132,more used by children,10,children,"['water', 'sea', 1]",3,ocean,19.0,6.0
+1978,132,more used by children,10,children,"['volcano', 'energy', 1]",3,ash,1.0,2.0
+1976,132,more used by children,10,children,"['energy', 'cloud', 1]",3,storm,3.0,2.0
+1964,131,more used by children,12,children,"['water', 'sea', 1]",1,ocean,19.0,6.0
+1991,133,more used by children,50,adults,"['water', 'cloud', 1]",7,rain,9.0,4.0
+1787,120,more used by children,36,adults,"['fire', 'sea', 1]",7,salt,1.0,2.0
+1785,120,more used by children,36,adults,"['water', 'sea', 1]",1,ocean,19.0,6.0
+1774,119,more used by children,48,adults,"['sea', 'fire', 1]",5,salt,1.0,2.0
+1770,119,more used by children,48,adults,"['sea', 'water', 1]",1,ocean,19.0,6.0
+1794,120,more used by children,36,adults,"['earthquake', 'earth', 1]",1,mountain,9.0,4.0
+1750,117,more used by children,9,children,"['sea', 'fire', 1]",1,salt,1.0,2.0
+1746,117,more used by children,9,children,"['earth', 'earthquake', 1]",1,mountain,9.0,4.0
+1743,117,more used by children,9,children,"['grass', 'mud', 1]",3,swamp,5.0,3.0
+1739,116,more used by children,21,adults,"['sea', 'fire', 1]",3,salt,1.0,2.0
+1879,126,more used by children,11,children,"['mud', 'grass', 1]",3,swamp,5.0,3.0
+1796,120,more used by children,36,adults,"['plant', 'grass', 1]",1,garden,4.0,3.0
+1864,125,more used by children,12,children,"['energy', 'volcano', 1]",2,ash,1.0,2.0
+1856,124,more used by children,11,children,"['grass', 'plant', 1]",7,garden,4.0,3.0
+1851,124,more used by children,11,children,"['mud', 'grass', 1]",7,swamp,5.0,3.0
+1849,124,more used by children,11,children,"['sea', 'fire', 1]",1,salt,1.0,2.0
+1799,120,more used by children,36,adults,"['water', 'cloud', 1]",1,rain,9.0,4.0
+1838,123,more used by children,39,adults,"['water', 'sea', 1]",7,ocean,19.0,6.0
+1836,123,more used by children,39,adults,"['cloud', 'energy', 1]",7,storm,3.0,2.0
+1835,123,more used by children,39,adults,"['sand', 'water', 1]",7,beach,5.0,3.0
+1827,122,more used by children,12,children,"['earth', 'earthquake', 1]",2,mountain,9.0,4.0
+1826,122,more used by children,12,children,"['energy', 'cloud', 1]",3,storm,3.0,2.0
+1819,122,more used by children,12,children,"['grass', 'plant', 1]",3,garden,4.0,3.0
+1837,123,more used by children,39,adults,"['fire', 'dust', 1]",4,gunpowder,4.0,3.0
+2015,135,more used by children,11,children,"['energy', 'volcano', 1]",6,ash,1.0,2.0
+2031,136,more used by children,13,children,"['sand', 'water', 1]",2,beach,5.0,3.0
+2216,148,more used by children,21,adults,"['sea', 'fire', 1]",1,salt,1.0,2.0
+2211,148,more used by children,21,adults,"['sand', 'water', 1]",5,beach,5.0,3.0
+2201,147,more used by children,24,adults,"['dust', 'fire', 1]",1,gunpowder,4.0,3.0
+2197,147,more used by children,24,adults,"['mud', 'grass', 1]",4,swamp,5.0,3.0
+2182,146,more used by children,12,children,"['fire', 'sea', 1]",7,salt,1.0,2.0
+2178,146,more used by children,12,children,"['grass', 'mud', 1]",7,swamp,5.0,3.0
+2199,147,more used by children,24,adults,"['cloud', 'energy', 1]",2,storm,3.0,2.0
+2254,151,more used by children,25,adults,"['volcano', 'energy', 1]",5,ash,1.0,2.0
+2309,154,more used by children,26,adults,"['mud', 'grass', 1]",1,swamp,5.0,3.0
+2283,153,more used by children,11,children,"['fire', 'dust', 1]",6,gunpowder,4.0,3.0
+2274,152,more used by children,7,children,"['earth', 'earthquake', 1]",1,mountain,9.0,4.0
+2268,152,more used by children,7,children,"['cloud', 'water', 1]",2,rain,9.0,4.0
+2265,152,more used by children,7,children,"['sea', 'fire', 1]",1,salt,1.0,2.0
+2262,151,more used by children,25,adults,"['energy', 'cloud', 1]",2,storm,3.0,2.0
+2261,151,more used by children,25,adults,"['cloud', 'water', 1]",5,rain,9.0,4.0
+2279,152,more used by children,7,children,"['energy', 'volcano', 1]",4,ash,1.0,2.0
+2094,140,more used by children,7,children,"['grass', 'plant', 1]",7,garden,4.0,3.0
+2085,140,more used by children,7,children,"['water', 'sand', 1]",2,beach,5.0,3.0
+2080,139,more used by children,9,children,"['dust', 'fire', 1]",4,gunpowder,4.0,3.0
+2079,139,more used by children,9,children,"['water', 'sand', 1]",6,beach,5.0,3.0
+2073,139,more used by children,9,children,"['grass', 'plant', 1]",4,garden,4.0,3.0
+2069,138,more used by children,10,children,"['water', 'sand', 1]",3,beach,5.0,3.0
+2061,138,more used by children,10,children,"['sea', 'water', 1]",2,ocean,19.0,6.0
+2060,138,more used by children,10,children,"['grass', 'mud', 1]",4,swamp,5.0,3.0
+2054,137,more used by children,10,children,"['water', 'sea', 1]",6,ocean,19.0,6.0
+2100,141,more used by children,6,children,"['earthquake', 'earth', 1]",2,mountain,9.0,4.0
+2101,141,more used by children,6,children,"['sand', 'water', 1]",7,beach,5.0,3.0
+2148,144,more used by children,8,children,"['grass', 'mud', 1]",4,swamp,5.0,3.0
+2147,144,more used by children,8,children,"['cloud', 'water', 1]",4,rain,9.0,4.0
+2146,144,more used by children,8,children,"['earth', 'earthquake', 1]",3,mountain,9.0,4.0
+2144,143,more used by children,7,children,"['cloud', 'energy', 1]",7,storm,3.0,2.0
+2137,143,more used by children,7,children,"['mud', 'grass', 1]",4,swamp,5.0,3.0
+2136,143,more used by children,7,children,"['grass', 'plant', 1]",1,garden,4.0,3.0
+2128,142,more used by children,9,children,"['energy', 'cloud', 1]",3,storm,3.0,2.0
+2113,141,more used by children,6,children,"['grass', 'plant', 1]",1,garden,4.0,3.0
+2110,141,more used by children,6,children,"['mud', 'grass', 1]",1,swamp,5.0,3.0
+2109,141,more used by children,6,children,"['sea', 'water', 1]",7,ocean,19.0,6.0
+2107,141,more used by children,6,children,"['water', 'cloud', 1]",7,rain,9.0,4.0
+1732,116,more used by children,21,adults,"['sand', 'water', 1]",5,beach,5.0,3.0
+1328,89,more used by children,10,children,"['earth', 'earthquake', 1]",3,mountain,9.0,4.0
+1324,89,more used by children,10,children,"['dust', 'fire', 1]",6,gunpowder,4.0,3.0
+1313,88,more used by children,9,children,"['cloud', 'energy', 1]",1,storm,3.0,2.0
+1311,88,more used by children,9,children,"['earth', 'earthquake', 1]",6,mountain,9.0,4.0
+1310,88,more used by children,9,children,"['water', 'cloud', 1]",5,rain,9.0,4.0
+1304,87,more used by children,13,children,"['sea', 'water', 1]",6,ocean,19.0,6.0
+1303,87,more used by children,13,children,"['mud', 'grass', 1]",6,swamp,5.0,3.0
+1329,89,more used by children,10,children,"['energy', 'cloud', 1]",3,storm,3.0,2.0
+1287,86,more used by children,7,children,"['sand', 'water', 1]",4,beach,5.0,3.0
+1281,86,more used by children,7,children,"['energy', 'cloud', 1]",1,storm,3.0,2.0
+1300,87,more used by children,13,children,"['fire', 'sea', 1]",5,salt,1.0,2.0
+1270,85,more used by children,9,children,"['cloud', 'water', 1]",4,rain,9.0,4.0
+1335,90,more used by children,12,children,"['water', 'sand', 1]",4,beach,5.0,3.0
+1411,95,more used by children,11,children,"['grass', 'mud', 1]",4,swamp,5.0,3.0
+1405,94,more used by children,10,children,"['volcano', 'energy', 1]",1,ash,1.0,2.0
+1397,94,more used by children,10,children,"['plant', 'grass', 1]",5,garden,4.0,3.0
+1386,93,more used by children,9,children,"['water', 'sea', 1]",7,ocean,19.0,6.0
+1332,89,more used by children,10,children,"['sea', 'fire', 1]",4,salt,1.0,2.0
+1372,92,more used by children,7,children,"['earth', 'earthquake', 1]",1,mountain,9.0,4.0
+1370,92,more used by children,7,children,"['sand', 'water', 1]",1,beach,5.0,3.0
+1364,91,more used by children,7,children,"['grass', 'mud', 1]",1,swamp,5.0,3.0
+1355,91,more used by children,7,children,"['sea', 'water', 1]",1,ocean,19.0,6.0
+1352,91,more used by children,7,children,"['fire', 'sea', 1]",1,salt,1.0,2.0
+1350,91,more used by children,7,children,"['energy', 'cloud', 1]",1,storm,3.0,2.0
+1344,90,more used by children,12,children,"['water', 'sea', 1]",4,ocean,19.0,6.0
+1336,90,more used by children,12,children,"['cloud', 'water', 1]",6,rain,9.0,4.0
+1269,85,more used by children,9,children,"['sand', 'water', 1]",4,beach,5.0,3.0
+1268,85,more used by children,9,children,"['plant', 'grass', 1]",5,garden,4.0,3.0
+1169,78,more used by children,24,adults,"['fire', 'sea', 1]",1,salt,1.0,2.0
+1164,78,more used by children,24,adults,"['earth', 'earthquake', 1]",1,mountain,9.0,4.0
+1157,78,more used by children,24,adults,"['water', 'sand', 1]",6,beach,5.0,3.0
+1155,78,more used by children,24,adults,"['energy', 'volcano', 1]",2,ash,1.0,2.0
+1151,77,more used by children,20,adults,"['sea', 'water', 1]",5,ocean,19.0,6.0
+1150,77,more used by children,20,adults,"['water', 'cloud', 1]",6,rain,9.0,4.0
+1179,79,more used by children,5,children,"['volcano', 'energy', 1]",3,ash,1.0,2.0
+1127,76,more used by children,57,adults,"['cloud', 'energy', 1]",4,storm,3.0,2.0
+1124,75,more used by children,11,children,"['fire', 'dust', 1]",3,gunpowder,4.0,3.0
+1121,75,more used by children,11,children,"['water', 'sand', 1]",6,beach,5.0,3.0
+1114,75,more used by children,11,children,"['cloud', 'energy', 1]",5,storm,3.0,2.0
+1113,75,more used by children,11,children,"['sea', 'water', 1]",4,ocean,19.0,6.0
+1111,75,more used by children,11,children,"['earth', 'earthquake', 1]",1,mountain,9.0,4.0
+1140,77,more used by children,20,adults,"['dust', 'fire', 1]",2,gunpowder,4.0,3.0
+1180,79,more used by children,5,children,"['water', 'sand', 1]",1,beach,5.0,3.0
+1184,79,more used by children,5,children,"['plant', 'grass', 1]",1,garden,4.0,3.0
+1186,80,more used by children,10,children,"['plant', 'grass', 1]",6,garden,4.0,3.0
+1261,85,more used by children,9,children,"['fire', 'dust', 1]",2,gunpowder,4.0,3.0
+1257,84,more used by children,34,adults,"['fire', 'dust', 1]",4,gunpowder,4.0,3.0
+1251,84,more used by children,34,adults,"['water', 'sand', 1]",1,beach,5.0,3.0
+1244,83,more used by children,21,adults,"['volcano', 'energy', 1]",3,ash,1.0,2.0
+1243,83,more used by children,21,adults,"['cloud', 'energy', 1]",3,storm,3.0,2.0
+1227,82,more used by children,22,adults,"['earth', 'earthquake', 1]",3,mountain,9.0,4.0
+1225,82,more used by children,22,adults,"['water', 'sand', 1]",6,beach,5.0,3.0
+1209,81,more used by children,9,children,"['volcano', 'energy', 1]",4,ash,1.0,2.0
+1205,81,more used by children,9,children,"['earth', 'earthquake', 1]",6,mountain,9.0,4.0
+1201,81,more used by children,9,children,"['dust', 'fire', 1]",1,gunpowder,4.0,3.0
+1196,80,more used by children,10,children,"['earth', 'earthquake', 1]",5,mountain,9.0,4.0
+1195,80,more used by children,10,children,"['water', 'sand', 1]",5,beach,5.0,3.0
+1412,95,more used by children,11,children,"['volcano', 'energy', 1]",4,ash,1.0,2.0
+2317,155,more used by children,10,children,"['dust', 'fire', 1]",4,gunpowder,4.0,3.0
+1421,95,more used by children,11,children,"['sea', 'water', 1]",5,ocean,19.0,6.0
+1629,109,more used by children,9,children,"['mud', 'grass', 1]",1,swamp,5.0,3.0
+1628,109,more used by children,9,children,"['sea', 'water', 1]",1,ocean,19.0,6.0
+1614,108,more used by children,9,children,"['mud', 'grass', 1]",1,swamp,5.0,3.0
+1613,108,more used by children,9,children,"['sea', 'water', 1]",1,ocean,19.0,6.0
+1597,107,more used by children,11,children,"['volcano', 'energy', 1]",2,ash,1.0,2.0
+1591,107,more used by children,11,children,"['energy', 'cloud', 1]",1,storm,3.0,2.0
+1581,106,more used by children,8,children,"['earth', 'earthquake', 1]",4,mountain,9.0,4.0
+1604,107,more used by children,11,children,"['sea', 'water', 1]",2,ocean,19.0,6.0
+1579,106,more used by children,8,children,"['mud', 'grass', 1]",4,swamp,5.0,3.0
+1711,115,more used by children,8,children,"['sea', 'fire', 1]",2,salt,1.0,2.0
+1710,115,more used by children,8,children,"['water', 'sea', 1]",4,ocean,19.0,6.0
+1708,114,more used by children,6,children,"['sea', 'water', 1]",3,ocean,19.0,6.0
+1689,113,more used by children,39,adults,"['earth', 'earthquake', 1]",3,mountain,9.0,4.0
+1640,110,more used by children,6,children,"['cloud', 'energy', 1]",4,storm,3.0,2.0
+1688,113,more used by children,39,adults,"['sea', 'fire', 1]",7,salt,1.0,2.0
+1679,112,more used by children,23,adults,"['fire', 'sea', 1]",2,salt,1.0,2.0
+1678,112,more used by children,23,adults,"['earthquake', 'earth', 1]",3,mountain,9.0,4.0
+1666,112,more used by children,23,adults,"['water', 'cloud', 1]",3,rain,9.0,4.0
+1665,112,more used by children,23,adults,"['energy', 'cloud', 1]",3,storm,3.0,2.0
+1660,111,more used by children,6,children,"['grass', 'plant', 1]",3,garden,4.0,3.0
+1656,111,more used by children,6,children,"['sea', 'water', 1]",1,ocean,19.0,6.0
+1574,105,more used by children,24,adults,"['energy', 'cloud', 1]",3,storm,3.0,2.0
+1479,99,more used by children,9,children,"['mud', 'grass', 1]",6,swamp,5.0,3.0
+1475,99,more used by children,9,children,"['sand', 'water', 1]",5,beach,5.0,3.0
+1470,99,more used by children,9,children,"['water', 'sea', 1]",2,ocean,19.0,6.0
+1461,98,more used by children,13,children,"['energy', 'volcano', 1]",1,ash,1.0,2.0
+1490,100,more used by children,21,adults,"['water', 'cloud', 1]",7,rain,9.0,4.0
+1457,98,more used by children,13,children,"['sea', 'fire', 1]",6,salt,1.0,2.0
+1435,96,more used by children,10,children,"['water', 'sand', 1]",7,beach,5.0,3.0
+1430,96,more used by children,10,children,"['plant', 'grass', 1]",7,garden,4.0,3.0
+1459,98,more used by children,13,children,"['grass', 'plant', 1]",1,garden,4.0,3.0
+1494,100,more used by children,21,adults,"['earth', 'earthquake', 1]",1,mountain,9.0,4.0
+1503,101,more used by children,6,children,"['volcano', 'energy', 1]",2,ash,1.0,2.0
+1504,101,more used by children,6,children,"['sea', 'fire', 1]",2,salt,1.0,2.0
+1563,105,more used by children,24,adults,"['volcano', 'energy', 1]",7,ash,1.0,2.0
+1553,104,more used by children,10,children,"['grass', 'plant', 1]",7,garden,4.0,3.0
+1550,104,more used by children,10,children,"['dust', 'fire', 1]",1,gunpowder,4.0,3.0
+1549,104,more used by children,10,children,"['water', 'cloud', 1]",7,rain,9.0,4.0
+1540,103,more used by children,6,children,"['earthquake', 'earth', 1]",1,mountain,9.0,4.0
+1539,103,more used by children,6,children,"['water', 'sand', 1]",1,beach,5.0,3.0
+1533,103,more used by children,6,children,"['grass', 'mud', 1]",1,swamp,5.0,3.0
+1531,103,more used by children,6,children,"['water', 'sea', 1]",7,ocean,19.0,6.0
+1530,103,more used by children,6,children,"['grass', 'plant', 1]",7,garden,4.0,3.0
+1524,102,more used by children,11,children,"['water', 'sand', 1]",6,beach,5.0,3.0
+1519,102,more used by children,11,children,"['grass', 'plant', 1]",5,garden,4.0,3.0
+1506,101,more used by children,6,children,"['energy', 'cloud', 1]",2,storm,3.0,2.0

@@ -1,0 +1,1378 @@
+{
+    "0": {
+        "name": "water",
+        "empowerment": 29
+    },
+    "1": {
+        "name": "fire",
+        "empowerment": 23
+    },
+    "2": {
+        "name": "earth",
+        "empowerment": 17
+    },
+    "3": {
+        "name": "air",
+        "empowerment": 13
+    },
+    "4": {
+        "name": "acid rain",
+        "empowerment": 0
+    },
+    "5": {
+        "name": "airplane",
+        "empowerment": 7
+    },
+    "8": {
+        "name": "algae",
+        "empowerment": 1
+    },
+    "9": {
+        "name": "alien",
+        "empowerment": 1
+    },
+    "10": {
+        "name": "allergy",
+        "empowerment": 0
+    },
+    "11": {
+        "name": "alligator",
+        "empowerment": 0
+    },
+    "12": {
+        "name": "alpaca",
+        "empowerment": 0
+    },
+    "14": {
+        "name": "angel",
+        "empowerment": 1
+    },
+    "17": {
+        "name": "antarctica",
+        "empowerment": 2
+    },
+    "18": {
+        "name": "aquarium",
+        "empowerment": 0
+    },
+    "19": {
+        "name": "archipelago",
+        "empowerment": 0
+    },
+    "21": {
+        "name": "armor",
+        "empowerment": 3
+    },
+    "22": {
+        "name": "ash",
+        "empowerment": 1
+    },
+    "23": {
+        "name": "astronaut",
+        "empowerment": 1
+    },
+    "24": {
+        "name": "atmosphere",
+        "empowerment": 2
+    },
+    "25": {
+        "name": "atomic bomb",
+        "empowerment": 0
+    },
+    "26": {
+        "name": "aurora",
+        "empowerment": 0
+    },
+    "27": {
+        "name": "avalanche",
+        "empowerment": 0
+    },
+    "29": {
+        "name": "bacon",
+        "empowerment": 1
+    },
+    "30": {
+        "name": "bacteria",
+        "empowerment": 3
+    },
+    "31": {
+        "name": "baker",
+        "empowerment": 1
+    },
+    "32": {
+        "name": "bakery",
+        "empowerment": 0
+    },
+    "35": {
+        "name": "bandage",
+        "empowerment": 0
+    },
+    "36": {
+        "name": "bank",
+        "empowerment": 0
+    },
+    "37": {
+        "name": "barn",
+        "empowerment": 1
+    },
+    "40": {
+        "name": "batter",
+        "empowerment": 0
+    },
+    "41": {
+        "name": "bayonet",
+        "empowerment": 0
+    },
+    "43": {
+        "name": "beach",
+        "empowerment": 5
+    },
+    "49": {
+        "name": "bird",
+        "empowerment": 19
+    },
+    "50": {
+        "name": "birdhouse",
+        "empowerment": 0
+    },
+    "51": {
+        "name": "black hole",
+        "empowerment": 0
+    },
+    "52": {
+        "name": "blade",
+        "empowerment": 11
+    },
+    "53": {
+        "name": "blender",
+        "empowerment": 0
+    },
+    "54": {
+        "name": "blizzard",
+        "empowerment": 0
+    },
+    "55": {
+        "name": "blood",
+        "empowerment": 3
+    },
+    "57": {
+        "name": "boiler",
+        "empowerment": 1
+    },
+    "61": {
+        "name": "bread",
+        "empowerment": 5
+    },
+    "62": {
+        "name": "brick",
+        "empowerment": 2
+    },
+    "63": {
+        "name": "bridge",
+        "empowerment": 0
+    },
+    "65": {
+        "name": "bullet",
+        "empowerment": 2
+    },
+    "66": {
+        "name": "bulletproof vest",
+        "empowerment": 0
+    },
+    "68": {
+        "name": "butcher",
+        "empowerment": 1
+    },
+    "69": {
+        "name": "butter",
+        "empowerment": 0
+    },
+    "71": {
+        "name": "cactus",
+        "empowerment": 1
+    },
+    "73": {
+        "name": "camel",
+        "empowerment": 0
+    },
+    "77": {
+        "name": "cannon",
+        "empowerment": 0
+    },
+    "80": {
+        "name": "carbon dioxide",
+        "empowerment": 4
+    },
+    "81": {
+        "name": "carrot",
+        "empowerment": 1
+    },
+    "83": {
+        "name": "castle",
+        "empowerment": 4
+    },
+    "86": {
+        "name": "caviar",
+        "empowerment": 0
+    },
+    "87": {
+        "name": "centaur",
+        "empowerment": 0
+    },
+    "88": {
+        "name": "cereal",
+        "empowerment": 0
+    },
+    "90": {
+        "name": "chameleon",
+        "empowerment": 0
+    },
+    "94": {
+        "name": "chicken",
+        "empowerment": 1
+    },
+    "95": {
+        "name": "chicken soup",
+        "empowerment": 0
+    },
+    "101": {
+        "name": "city",
+        "empowerment": 2
+    },
+    "102": {
+        "name": "clay",
+        "empowerment": 3
+    },
+    "104": {
+        "name": "cloud",
+        "empowerment": 7
+    },
+    "105": {
+        "name": "coal",
+        "empowerment": 2
+    },
+    "109": {
+        "name": "cold",
+        "empowerment": 5
+    },
+    "110": {
+        "name": "computer",
+        "empowerment": 1
+    },
+    "113": {
+        "name": "constellation",
+        "empowerment": 0
+    },
+    "115": {
+        "name": "corpse",
+        "empowerment": 6
+    },
+    "116": {
+        "name": "cotton",
+        "empowerment": 1
+    },
+    "117": {
+        "name": "cow",
+        "empowerment": 6
+    },
+    "118": {
+        "name": "crow",
+        "empowerment": 0
+    },
+    "119": {
+        "name": "crystal ball",
+        "empowerment": 1
+    },
+    "121": {
+        "name": "cyborg",
+        "empowerment": 0
+    },
+    "123": {
+        "name": "dam",
+        "empowerment": 1
+    },
+    "124": {
+        "name": "darth vader",
+        "empowerment": 0
+    },
+    "125": {
+        "name": "day",
+        "empowerment": 2
+    },
+    "126": {
+        "name": "desert",
+        "empowerment": 6
+    },
+    "127": {
+        "name": "dew",
+        "empowerment": 0
+    },
+    "128": {
+        "name": "diamond",
+        "empowerment": 1
+    },
+    "130": {
+        "name": "doctor",
+        "empowerment": 3
+    },
+    "133": {
+        "name": "donut",
+        "empowerment": 0
+    },
+    "134": {
+        "name": "double rainbow!",
+        "empowerment": 1
+    },
+    "135": {
+        "name": "dough",
+        "empowerment": 5
+    },
+    "136": {
+        "name": "dragon",
+        "empowerment": 1
+    },
+    "137": {
+        "name": "drone",
+        "empowerment": 0
+    },
+    "140": {
+        "name": "dry ice",
+        "empowerment": 0
+    },
+    "141": {
+        "name": "duck",
+        "empowerment": 1
+    },
+    "142": {
+        "name": "duckling",
+        "empowerment": 0
+    },
+    "143": {
+        "name": "dune",
+        "empowerment": 0
+    },
+    "144": {
+        "name": "dust",
+        "empowerment": 2
+    },
+    "145": {
+        "name": "dynamite",
+        "empowerment": 0
+    },
+    "146": {
+        "name": "eagle",
+        "empowerment": 0
+    },
+    "147": {
+        "name": "earthquake",
+        "empowerment": 2
+    },
+    "148": {
+        "name": "eclipse",
+        "empowerment": 0
+    },
+    "149": {
+        "name": "egg",
+        "empowerment": 10
+    },
+    "153": {
+        "name": "electrician",
+        "empowerment": 0
+    },
+    "154": {
+        "name": "electricity",
+        "empowerment": 15
+    },
+    "156": {
+        "name": "energy",
+        "empowerment": 14
+    },
+    "157": {
+        "name": "engineer",
+        "empowerment": 1
+    },
+    "159": {
+        "name": "excalibur",
+        "empowerment": 1
+    },
+    "160": {
+        "name": "explosion",
+        "empowerment": 5
+    },
+    "161": {
+        "name": "fabric",
+        "empowerment": 2
+    },
+    "163": {
+        "name": "family",
+        "empowerment": 0
+    },
+    "165": {
+        "name": "farm",
+        "empowerment": 0
+    },
+    "166": {
+        "name": "farmer",
+        "empowerment": 7
+    },
+    "167": {
+        "name": "faun",
+        "empowerment": 0
+    },
+    "169": {
+        "name": "field",
+        "empowerment": 3
+    },
+    "170": {
+        "name": "fire extinguisher",
+        "empowerment": 0
+    },
+    "171": {
+        "name": "fireman",
+        "empowerment": 0
+    },
+    "174": {
+        "name": "fireworks",
+        "empowerment": 0
+    },
+    "177": {
+        "name": "flamethrower",
+        "empowerment": 1
+    },
+    "178": {
+        "name": "flashlight",
+        "empowerment": 1
+    },
+    "179": {
+        "name": "flood",
+        "empowerment": 0
+    },
+    "180": {
+        "name": "flour",
+        "empowerment": 4
+    },
+    "181": {
+        "name": "flower",
+        "empowerment": 6
+    },
+    "185": {
+        "name": "fog",
+        "empowerment": 2
+    },
+    "189": {
+        "name": "fountain",
+        "empowerment": 0
+    },
+    "191": {
+        "name": "frankenstein",
+        "empowerment": 0
+    },
+    "193": {
+        "name": "fridge",
+        "empowerment": 0
+    },
+    "198": {
+        "name": "garden",
+        "empowerment": 4
+    },
+    "199": {
+        "name": "gardener",
+        "empowerment": 0
+    },
+    "200": {
+        "name": "geyser",
+        "empowerment": 0
+    },
+    "201": {
+        "name": "ghost",
+        "empowerment": 0
+    },
+    "203": {
+        "name": "gingerbread house",
+        "empowerment": 0
+    },
+    "204": {
+        "name": "gingerbread man",
+        "empowerment": 1
+    },
+    "205": {
+        "name": "glacier",
+        "empowerment": 0
+    },
+    "206": {
+        "name": "glass",
+        "empowerment": 10
+    },
+    "207": {
+        "name": "glasses",
+        "empowerment": 6
+    },
+    "208": {
+        "name": "gnome",
+        "empowerment": 0
+    },
+    "209": {
+        "name": "goat",
+        "empowerment": 2
+    },
+    "211": {
+        "name": "gold",
+        "empowerment": 2
+    },
+    "212": {
+        "name": "golem",
+        "empowerment": 0
+    },
+    "213": {
+        "name": "granite",
+        "empowerment": 0
+    },
+    "214": {
+        "name": "grass",
+        "empowerment": 8
+    },
+    "215": {
+        "name": "grave",
+        "empowerment": 3
+    },
+    "216": {
+        "name": "gravestone",
+        "empowerment": 1
+    },
+    "217": {
+        "name": "graveyard",
+        "empowerment": 1
+    },
+    "218": {
+        "name": "greenhouse",
+        "empowerment": 0
+    },
+    "219": {
+        "name": "grenade",
+        "empowerment": 0
+    },
+    "221": {
+        "name": "grim reaper",
+        "empowerment": 1
+    },
+    "222": {
+        "name": "gun",
+        "empowerment": 5
+    },
+    "223": {
+        "name": "gunpowder",
+        "empowerment": 4
+    },
+    "224": {
+        "name": "hail",
+        "empowerment": 0
+    },
+    "226": {
+        "name": "hamburger",
+        "empowerment": 0
+    },
+    "229": {
+        "name": "hard roe",
+        "empowerment": 1
+    },
+    "230": {
+        "name": "harp",
+        "empowerment": 0
+    },
+    "231": {
+        "name": "hay",
+        "empowerment": 7
+    },
+    "232": {
+        "name": "hay bale",
+        "empowerment": 0
+    },
+    "234": {
+        "name": "helicopter",
+        "empowerment": 0
+    },
+    "235": {
+        "name": "hero",
+        "empowerment": 0
+    },
+    "236": {
+        "name": "hippo",
+        "empowerment": 0
+    },
+    "238": {
+        "name": "horizon",
+        "empowerment": 0
+    },
+    "239": {
+        "name": "horse",
+        "empowerment": 8
+    },
+    "240": {
+        "name": "horseshoe",
+        "empowerment": 0
+    },
+    "241": {
+        "name": "hospital",
+        "empowerment": 2
+    },
+    "242": {
+        "name": "hourglass",
+        "empowerment": 0
+    },
+    "243": {
+        "name": "house",
+        "empowerment": 16
+    },
+    "244": {
+        "name": "human",
+        "empowerment": 43
+    },
+    "245": {
+        "name": "hummingbird",
+        "empowerment": 0
+    },
+    "246": {
+        "name": "hurricane",
+        "empowerment": 1
+    },
+    "247": {
+        "name": "ice",
+        "empowerment": 10
+    },
+    "248": {
+        "name": "ice cream",
+        "empowerment": 1
+    },
+    "250": {
+        "name": "iceberg",
+        "empowerment": 1
+    },
+    "252": {
+        "name": "idea",
+        "empowerment": 0
+    },
+    "253": {
+        "name": "igloo",
+        "empowerment": 0
+    },
+    "254": {
+        "name": "internet",
+        "empowerment": 0
+    },
+    "255": {
+        "name": "isle",
+        "empowerment": 1
+    },
+    "256": {
+        "name": "ivy",
+        "empowerment": 0
+    },
+    "259": {
+        "name": "jedi",
+        "empowerment": 2
+    },
+    "260": {
+        "name": "jerky",
+        "empowerment": 0
+    },
+    "263": {
+        "name": "knight",
+        "empowerment": 3
+    },
+    "264": {
+        "name": "lake",
+        "empowerment": 1
+    },
+    "265": {
+        "name": "lamp",
+        "empowerment": 1
+    },
+    "266": {
+        "name": "lava",
+        "empowerment": 6
+    },
+    "267": {
+        "name": "lava lamp",
+        "empowerment": 0
+    },
+    "268": {
+        "name": "lawn mower",
+        "empowerment": 0
+    },
+    "270": {
+        "name": "leather",
+        "empowerment": 1
+    },
+    "273": {
+        "name": "life",
+        "empowerment": 12
+    },
+    "274": {
+        "name": "light",
+        "empowerment": 6
+    },
+    "275": {
+        "name": "light bulb",
+        "empowerment": 3
+    },
+    "276": {
+        "name": "lighthouse",
+        "empowerment": 0
+    },
+    "277": {
+        "name": "lightsaber",
+        "empowerment": 1
+    },
+    "279": {
+        "name": "livestock",
+        "empowerment": 9
+    },
+    "280": {
+        "name": "lizard",
+        "empowerment": 4
+    },
+    "282": {
+        "name": "love",
+        "empowerment": 1
+    },
+    "286": {
+        "name": "manatee",
+        "empowerment": 0
+    },
+    "288": {
+        "name": "mars",
+        "empowerment": 0
+    },
+    "290": {
+        "name": "mayonnaise",
+        "empowerment": 0
+    },
+    "291": {
+        "name": "meat",
+        "empowerment": 3
+    },
+    "294": {
+        "name": "metal",
+        "empowerment": 24
+    },
+    "295": {
+        "name": "meteor",
+        "empowerment": 0
+    },
+    "296": {
+        "name": "meteoroid",
+        "empowerment": 1
+    },
+    "297": {
+        "name": "microscope",
+        "empowerment": 0
+    },
+    "298": {
+        "name": "milk",
+        "empowerment": 6
+    },
+    "299": {
+        "name": "milk shake",
+        "empowerment": 0
+    },
+    "303": {
+        "name": "monarch",
+        "empowerment": 0
+    },
+    "306": {
+        "name": "moon",
+        "empowerment": 5
+    },
+    "307": {
+        "name": "moss",
+        "empowerment": 0
+    },
+    "309": {
+        "name": "mountain",
+        "empowerment": 9
+    },
+    "310": {
+        "name": "mountain goat",
+        "empowerment": 0
+    },
+    "311": {
+        "name": "mountain range",
+        "empowerment": 1
+    },
+    "314": {
+        "name": "mud",
+        "empowerment": 4
+    },
+    "315": {
+        "name": "mummy",
+        "empowerment": 0
+    },
+    "316": {
+        "name": "music",
+        "empowerment": 1
+    },
+    "317": {
+        "name": "narwhal",
+        "empowerment": 0
+    },
+    "318": {
+        "name": "needle",
+        "empowerment": 0
+    },
+    "319": {
+        "name": "nerd",
+        "empowerment": 2
+    },
+    "320": {
+        "name": "nest",
+        "empowerment": 0
+    },
+    "322": {
+        "name": "night",
+        "empowerment": 6
+    },
+    "323": {
+        "name": "ninja",
+        "empowerment": 0
+    },
+    "324": {
+        "name": "oasis",
+        "empowerment": 0
+    },
+    "325": {
+        "name": "obsidian",
+        "empowerment": 0
+    },
+    "326": {
+        "name": "ocean",
+        "empowerment": 19
+    },
+    "327": {
+        "name": "oil",
+        "empowerment": 3
+    },
+    "328": {
+        "name": "omelette",
+        "empowerment": 0
+    },
+    "329": {
+        "name": "optical fiber",
+        "empowerment": 0
+    },
+    "332": {
+        "name": "ostrich",
+        "empowerment": 0
+    },
+    "333": {
+        "name": "owl",
+        "empowerment": 0
+    },
+    "334": {
+        "name": "oxygen",
+        "empowerment": 3
+    },
+    "335": {
+        "name": "ozone",
+        "empowerment": 0
+    },
+    "336": {
+        "name": "paint",
+        "empowerment": 0
+    },
+    "341": {
+        "name": "pasta",
+        "empowerment": 0
+    },
+    "342": {
+        "name": "peacock",
+        "empowerment": 0
+    },
+    "343": {
+        "name": "pegasus",
+        "empowerment": 0
+    },
+    "345": {
+        "name": "penguin",
+        "empowerment": 0
+    },
+    "348": {
+        "name": "phoenix",
+        "empowerment": 0
+    },
+    "349": {
+        "name": "picnic",
+        "empowerment": 0
+    },
+    "351": {
+        "name": "pig",
+        "empowerment": 4
+    },
+    "352": {
+        "name": "pigeon",
+        "empowerment": 0
+    },
+    "353": {
+        "name": "piggy bank",
+        "empowerment": 0
+    },
+    "354": {
+        "name": "pilot",
+        "empowerment": 0
+    },
+    "360": {
+        "name": "pitchfork",
+        "empowerment": 1
+    },
+    "362": {
+        "name": "planet",
+        "empowerment": 2
+    },
+    "363": {
+        "name": "plankton",
+        "empowerment": 0
+    },
+    "364": {
+        "name": "plant",
+        "empowerment": 19
+    },
+    "366": {
+        "name": "pond",
+        "empowerment": 4
+    },
+    "368": {
+        "name": "pottery",
+        "empowerment": 2
+    },
+    "369": {
+        "name": "pressure",
+        "empowerment": 8
+    },
+    "371": {
+        "name": "prism",
+        "empowerment": 0
+    },
+    "373": {
+        "name": "puddle",
+        "empowerment": 0
+    },
+    "375": {
+        "name": "pyramid",
+        "empowerment": 1
+    },
+    "376": {
+        "name": "rain",
+        "empowerment": 9
+    },
+    "377": {
+        "name": "rainbow",
+        "empowerment": 7
+    },
+    "381": {
+        "name": "ring",
+        "empowerment": 0
+    },
+    "382": {
+        "name": "river",
+        "empowerment": 6
+    },
+    "383": {
+        "name": "robot",
+        "empowerment": 2
+    },
+    "384": {
+        "name": "rocket",
+        "empowerment": 2
+    },
+    "386": {
+        "name": "rope",
+        "empowerment": 0
+    },
+    "387": {
+        "name": "rose",
+        "empowerment": 0
+    },
+    "390": {
+        "name": "rust",
+        "empowerment": 1
+    },
+    "392": {
+        "name": "saddle",
+        "empowerment": 0
+    },
+    "393": {
+        "name": "safety glasses",
+        "empowerment": 0
+    },
+    "396": {
+        "name": "salt",
+        "empowerment": 1
+    },
+    "397": {
+        "name": "sand",
+        "empowerment": 12
+    },
+    "398": {
+        "name": "sand castle",
+        "empowerment": 0
+    },
+    "400": {
+        "name": "sandstone",
+        "empowerment": 0
+    },
+    "401": {
+        "name": "sandstorm",
+        "empowerment": 0
+    },
+    "402": {
+        "name": "sandwich",
+        "empowerment": 2
+    },
+    "404": {
+        "name": "scalpel",
+        "empowerment": 0
+    },
+    "405": {
+        "name": "scarecrow",
+        "empowerment": 1
+    },
+    "406": {
+        "name": "scissors",
+        "empowerment": 1
+    },
+    "408": {
+        "name": "scythe",
+        "empowerment": 3
+    },
+    "409": {
+        "name": "sea",
+        "empowerment": 21
+    },
+    "410": {
+        "name": "seagull",
+        "empowerment": 0
+    },
+    "411": {
+        "name": "seahorse",
+        "empowerment": 0
+    },
+    "413": {
+        "name": "seaplane",
+        "empowerment": 1
+    },
+    "414": {
+        "name": "seasickness",
+        "empowerment": 0
+    },
+    "416": {
+        "name": "shark",
+        "empowerment": 0
+    },
+    "417": {
+        "name": "sheep",
+        "empowerment": 2
+    },
+    "419": {
+        "name": "shuriken",
+        "empowerment": 1
+    },
+    "420": {
+        "name": "sickness",
+        "empowerment": 3
+    },
+    "423": {
+        "name": "ski goggles",
+        "empowerment": 0
+    },
+    "424": {
+        "name": "sky",
+        "empowerment": 15
+    },
+    "425": {
+        "name": "skyscraper",
+        "empowerment": 1
+    },
+    "428": {
+        "name": "smog",
+        "empowerment": 1
+    },
+    "432": {
+        "name": "snow",
+        "empowerment": 10
+    },
+    "433": {
+        "name": "snow globe",
+        "empowerment": 0
+    },
+    "434": {
+        "name": "snowball",
+        "empowerment": 1
+    },
+    "435": {
+        "name": "snowboard",
+        "empowerment": 0
+    },
+    "436": {
+        "name": "snowman",
+        "empowerment": 2
+    },
+    "438": {
+        "name": "soap",
+        "empowerment": 0
+    },
+    "439": {
+        "name": "soda",
+        "empowerment": 0
+    },
+    "440": {
+        "name": "solar cell",
+        "empowerment": 1
+    },
+    "441": {
+        "name": "solar system",
+        "empowerment": 0
+    },
+    "442": {
+        "name": "sound",
+        "empowerment": 1
+    },
+    "443": {
+        "name": "space",
+        "empowerment": 7
+    },
+    "444": {
+        "name": "space station",
+        "empowerment": 1
+    },
+    "445": {
+        "name": "spaceship",
+        "empowerment": 0
+    },
+    "449": {
+        "name": "star",
+        "empowerment": 7
+    },
+    "450": {
+        "name": "starfish",
+        "empowerment": 0
+    },
+    "451": {
+        "name": "statue",
+        "empowerment": 3
+    },
+    "452": {
+        "name": "steak",
+        "empowerment": 0
+    },
+    "453": {
+        "name": "steam",
+        "empowerment": 4
+    },
+    "454": {
+        "name": "steam engine",
+        "empowerment": 2
+    },
+    "455": {
+        "name": "steamboat",
+        "empowerment": 2
+    },
+    "456": {
+        "name": "steel",
+        "empowerment": 7
+    },
+    "457": {
+        "name": "stethoscope",
+        "empowerment": 0
+    },
+    "458": {
+        "name": "stone",
+        "empowerment": 13
+    },
+    "459": {
+        "name": "storm",
+        "empowerment": 3
+    },
+    "462": {
+        "name": "sun",
+        "empowerment": 19
+    },
+    "464": {
+        "name": "sunflower",
+        "empowerment": 1
+    },
+    "465": {
+        "name": "sunglasses",
+        "empowerment": 0
+    },
+    "466": {
+        "name": "super nova",
+        "empowerment": 0
+    },
+    "467": {
+        "name": "surfer",
+        "empowerment": 1
+    },
+    "469": {
+        "name": "swamp",
+        "empowerment": 5
+    },
+    "470": {
+        "name": "sweater",
+        "empowerment": 0
+    },
+    "471": {
+        "name": "swim goggles",
+        "empowerment": 1
+    },
+    "472": {
+        "name": "swimmer",
+        "empowerment": 0
+    },
+    "473": {
+        "name": "sword",
+        "empowerment": 4
+    },
+    "476": {
+        "name": "taser",
+        "empowerment": 0
+    },
+    "478": {
+        "name": "telescope",
+        "empowerment": 1
+    },
+    "479": {
+        "name": "thread",
+        "empowerment": 3
+    },
+    "480": {
+        "name": "tide",
+        "empowerment": 0
+    },
+    "482": {
+        "name": "titanic",
+        "empowerment": 0
+    },
+    "483": {
+        "name": "toast",
+        "empowerment": 0
+    },
+    "484": {
+        "name": "tobacco",
+        "empowerment": 0
+    },
+    "485": {
+        "name": "tool",
+        "empowerment": 20
+    },
+    "488": {
+        "name": "train",
+        "empowerment": 0
+    },
+    "494": {
+        "name": "tsunami",
+        "empowerment": 0
+    },
+    "495": {
+        "name": "turtle",
+        "empowerment": 1
+    },
+    "496": {
+        "name": "twilight",
+        "empowerment": 0
+    },
+    "498": {
+        "name": "ufo",
+        "empowerment": 0
+    },
+    "499": {
+        "name": "umbrella",
+        "empowerment": 0
+    },
+    "500": {
+        "name": "unicorn",
+        "empowerment": 2
+    },
+    "502": {
+        "name": "vampire",
+        "empowerment": 2
+    },
+    "503": {
+        "name": "vase",
+        "empowerment": 0
+    },
+    "505": {
+        "name": "village",
+        "empowerment": 1
+    },
+    "506": {
+        "name": "volcano",
+        "empowerment": 2
+    },
+    "507": {
+        "name": "vulture",
+        "empowerment": 0
+    },
+    "509": {
+        "name": "wall",
+        "empowerment": 3
+    },
+    "511": {
+        "name": "warrior",
+        "empowerment": 0
+    },
+    "513": {
+        "name": "water gun",
+        "empowerment": 0
+    },
+    "514": {
+        "name": "water lily",
+        "empowerment": 0
+    },
+    "516": {
+        "name": "waterfall",
+        "empowerment": 0
+    },
+    "517": {
+        "name": "wave",
+        "empowerment": 3
+    },
+    "521": {
+        "name": "wheat",
+        "empowerment": 3
+    },
+    "525": {
+        "name": "wind",
+        "empowerment": 7
+    },
+    "526": {
+        "name": "wind turbine",
+        "empowerment": 1
+    },
+    "527": {
+        "name": "windmill",
+        "empowerment": 3
+    },
+    "529": {
+        "name": "wire",
+        "empowerment": 5
+    },
+    "531": {
+        "name": "wizard",
+        "empowerment": 2
+    },
+    "535": {
+        "name": "wool",
+        "empowerment": 1
+    },
+    "537": {
+        "name": "yoda",
+        "empowerment": 0
+    },
+    "538": {
+        "name": "yogurt",
+        "empowerment": 0
+    },
+    "539": {
+        "name": "zombie",
+        "empowerment": 2
+    }
+}

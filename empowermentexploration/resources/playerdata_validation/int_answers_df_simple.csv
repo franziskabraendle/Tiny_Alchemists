@@ -1,0 +1,1359 @@
+,Id,Age,Group,Combinations,Chosen combination,Category of chosen combination,Category of not chosen combination,Chosen,NotChosen
+1261,85,9,children,"[['steam', 'sea', 0], ['dust', 'wind', 0]]","['steam', 'sea', 0]",equal,more used by adults,Own,Other
+1259,84,34,adults,"[['plant', 'water', 1], ['fire', 'sea', 1]]","['plant', 'water', 1]",equal,more used by children,Own,Other
+1256,84,34,adults,"[['wind', 'fire', 0], ['plant', 'grass', 1]]","['wind', 'fire', 0]",equal,more used by children,Own,Other
+1255,84,34,adults,"[['sea', 'steam', 0], ['brick', 'steam', 0]]","['sea', 'steam', 0]",equal,more used by children,Own,Other
+2690,180,9,children,"[['steam', 'pressure', 0], ['earthquake', 'water', 0]]","['earthquake', 'water', 0]",equal,more used by adults,Own,Other
+2684,179,7,children,"[['fire', 'ocean', 1], ['electricity', 'wire', 0]]","['electricity', 'wire', 0]",equal,more used by adults,Own,Other
+1314,88,9,children,"[['water', 'grass', 1], ['air', 'sand', 0]]","['air', 'sand', 0]",equal,more used by adults,Own,Other
+1299,87,13,children,"[['earthquake', 'water', 0], ['ocean', 'fire', 1]]","['earthquake', 'water', 0]",equal,more used by adults,Own,Other
+1292,87,13,children,"[['fire', 'metal', 0], ['water', 'grass', 1]]","['fire', 'metal', 0]",equal,more used by adults,Own,Other
+1288,86,7,children,"[['algae', 'rain', 0], ['wire', 'electricity', 0]]","['wire', 'electricity', 0]",equal,more used by adults,Own,Other
+2680,179,7,children,"[['wind', 'dust', 0], ['fire', 'mountain', 1]]","['fire', 'mountain', 1]",equal,more used by adults,Own,Other
+2683,179,7,children,"[['pressure', 'lava', 1], ['algae', 'rain', 0]]","['pressure', 'lava', 1]",equal,more used by adults,Own,Other
+1221,82,22,adults,"[['fire', 'stone', 1], ['dust', 'gunpowder', 0]]","['fire', 'stone', 1]",equal,more used by children,Own,Other
+2721,182,8,children,"[['metal', 'fire', 0], ['rain', 'mud', 0]]","['metal', 'fire', 0]",equal,more used by adults,Own,Other
+2723,182,8,children,"[['water', 'plant', 1], ['dust', 'wind', 0]]","['water', 'plant', 1]",equal,more used by adults,Own,Other
+1152,77,20,adults,"[['earth', 'gunpowder', 0], ['lava', 'pressure', 1]]","['lava', 'pressure', 1]",equal,more used by children,Own,Other
+1145,77,20,adults,"[['lava', 'water', 1], ['earth', 'earthquake', 1]]","['lava', 'water', 1]",equal,more used by children,Own,Other
+1141,77,20,adults,"[['wind', 'fire', 0], ['grass', 'garden', 0]]","['wind', 'fire', 0]",equal,more used by children,Own,Other
+1138,76,57,adults,"[['grass', 'garden', 0], ['fire', 'metal', 0]]","['fire', 'metal', 0]",equal,more used by children,Own,Other
+1134,76,57,adults,"[['mountain', 'fire', 1], ['dust', 'gunpowder', 0]]","['mountain', 'fire', 1]",equal,more used by children,Own,Other
+1133,76,57,adults,"[['water', 'earthquake', 0], ['gunpowder', 'earth', 0]]","['water', 'earthquake', 0]",equal,more used by children,Own,Other
+1128,76,57,adults,"[['volcano', 'steam', 0], ['cloud', 'air', 1]]","['cloud', 'air', 1]",equal,more used by children,Own,Other
+2327,156,12,children,"[['sand', 'fire', 1], ['stone', 'water', 0]]","['sand', 'fire', 1]",equal,more used by adults,Own,Other
+2698,180,9,children,"[['rain', 'fire', 0], ['air', 'cloud', 1]]","['air', 'cloud', 1]",equal,more used by adults,Own,Other
+1212,81,9,children,"[['air', 'dust', 0], ['rain', 'lava', 0]]","['rain', 'lava', 0]",equal,more used by adults,Own,Other
+2702,181,10,children,"[['pressure', 'lava', 1], ['electricity', 'energy', 0]]","['pressure', 'lava', 1]",equal,more used by adults,Own,Other
+2705,181,10,children,"[['water', 'garden', 1], ['lava', 'rain', 0]]","['lava', 'rain', 0]",equal,more used by adults,Own,Other
+1192,80,10,children,"[['mud', 'rain', 0], ['dust', 'energy', 0]]","['dust', 'energy', 0]",equal,more used by adults,Own,Other
+1179,79,5,children,"[['earth', 'plant', 1], ['sky', 'fire', 1]]","['earth', 'plant', 1]",equal,more used by adults,Own,Other
+1173,79,5,children,"[['cloud', 'air', 1], ['steam', 'earth', 1]]","['cloud', 'air', 1]",equal,more used by adults,Own,Other
+1171,79,5,children,"[['steam', 'sea', 0], ['mud', 'hurricane', 0]]","['steam', 'sea', 0]",equal,more used by adults,Own,Other
+1166,78,24,adults,"[['wire', 'electricity', 0], ['water', 'cloud', 1]]","['wire', 'electricity', 0]",equal,more used by children,Own,Other
+1325,89,10,children,"[['energy', 'electricity', 0], ['wire', 'electricity', 0]]","['wire', 'electricity', 0]",equal,more used by adults,Own,Other
+1456,98,13,children,"[['water', 'plant', 1], ['air', 'sea', 0]]","['water', 'plant', 1]",equal,more used by adults,Own,Other
+1455,98,13,children,"[['rain', 'earth', 1], ['fire', 'mountain', 1]]","['fire', 'mountain', 1]",equal,more used by adults,Own,Other
+2622,175,18,adults,"[['sand', 'water', 1], ['mountain', 'fire', 1]]","['mountain', 'fire', 1]",equal,more used by children,Own,Other
+2623,175,18,adults,"[['sand', 'air', 0], ['volcano', 'steam', 0]]","['sand', 'air', 0]",equal,more used by children,Own,Other
+1450,97,13,children,"[['energy', 'city', 0], ['air', 'lava', 1]]","['energy', 'city', 0]",equal,more used by adults,Own,Other
+2630,176,13,children,"[['mountain', 'fire', 1], ['sky', 'earth', 1]]","['mountain', 'fire', 1]",equal,more used by adults,Own,Other
+1435,96,10,children,"[['dust', 'energy', 0], ['grass', 'water', 1]]","['dust', 'energy', 0]",equal,more used by adults,Own,Other
+2631,176,13,children,"[['sea', 'air', 0], ['earth', 'plant', 1]]","['earth', 'plant', 1]",equal,more used by adults,Own,Other
+1458,98,13,children,"[['plant', 'energy', 0], ['rain', 'mud', 0]]","['plant', 'energy', 0]",equal,more used by adults,Own,Other
+1422,95,11,children,"[['fire', 'metal', 0], ['stone', 'water', 0]]","['fire', 'metal', 0]",equal,more used by adults,Own,Other
+1490,100,21,adults,"[['grass', 'plant', 1], ['plant', 'earth', 1]]","['plant', 'earth', 1]",equal,more used by children,Own,Other
+1489,100,21,adults,"[['obsidian', 'geyser', 0], ['sand', 'fire', 1]]","['sand', 'fire', 1]",equal,more used by children,Own,Other
+1486,100,21,adults,"[['earthquake', 'energy', 0], ['lava', 'pressure', 1]]","['lava', 'pressure', 1]",equal,more used by children,Own,Other
+1473,99,9,children,"[['energy', 'dust', 0], ['sky', 'earth', 1]]","['energy', 'dust', 0]",equal,more used by adults,Own,Other
+1471,99,9,children,"[['ocean', 'fire', 1], ['pressure', 'lava', 1]]","['pressure', 'lava', 1]",equal,more used by adults,Own,Other
+2620,175,18,adults,"[['city', 'energy', 0], ['earthquake', 'earth', 1]]","['city', 'energy', 0]",equal,more used by children,Own,Other
+1465,98,13,children,"[['sand', 'air', 0], ['sky', 'fire', 1]]","['sand', 'air', 0]",equal,more used by adults,Own,Other
+1419,95,11,children,"[['plant', 'energy', 0], ['water', 'garden', 1]]","['plant', 'energy', 0]",equal,more used by adults,Own,Other
+2654,177,7,children,"[['air', 'lava', 1], ['wind', 'fire', 0]]","['wind', 'fire', 0]",equal,more used by adults,Own,Other
+2655,178,8,children,"[['rain', 'lava', 0], ['dust', 'wind', 0]]","['rain', 'lava', 0]",equal,more used by adults,Own,Other
+1356,91,7,children,"[['fire', 'ocean', 1], ['water', 'lava', 1]]","['water', 'lava', 1]",equal,more used by adults,Own,Other
+1354,91,7,children,"[['electricity', 'wire', 0], ['air', 'energy', 1]]","['electricity', 'wire', 0]",equal,more used by adults,Own,Other
+1344,90,12,children,"[['city', 'energy', 0], ['earth', 'sky', 1]]","['city', 'energy', 0]",equal,more used by adults,Own,Other
+1342,90,12,children,"[['electricity', 'wire', 0], ['algae', 'rain', 0]]","['electricity', 'wire', 0]",equal,more used by adults,Own,Other
+1333,89,10,children,"[['mud', 'hurricane', 0], ['energy', 'plant', 0]]","['energy', 'plant', 0]",equal,more used by adults,Own,Other
+1373,92,7,children,"[['water', 'stone', 0], ['electricity', 'wire', 0]]","['electricity', 'wire', 0]",equal,more used by adults,Own,Other
+1413,95,11,children,"[['mountain', 'fire', 1], ['rain', 'algae', 0]]","['mountain', 'fire', 1]",equal,more used by adults,Own,Other
+1401,94,10,children,"[['dust', 'air', 0], ['energy', 'plant', 0]]","['energy', 'plant', 0]",equal,more used by adults,Own,Other
+1390,93,9,children,"[['cloud', 'earth', 1], ['stone', 'water', 0]]","['cloud', 'earth', 1]",equal,more used by adults,Own,Other
+2642,177,7,children,"[['rain', 'lava', 0], ['rain', 'mud', 0]]","['rain', 'lava', 0]",equal,more used by adults,Own,Other
+1382,93,9,children,"[['rain', 'algae', 0], ['metal', 'fire', 0]]","['metal', 'fire', 0]",equal,more used by adults,Own,Other
+1497,100,21,adults,"[['wind', 'fire', 0], ['fire', 'dust', 1]]","['wind', 'fire', 0]",equal,more used by children,Own,Other
+1119,75,11,children,"[['earth', 'plant', 1], ['air', 'dust', 0]]","['earth', 'plant', 1]",equal,more used by adults,Own,Other
+867,58,7,children,"[['metal', 'fire', 0], ['fire', 'plant', 1]]","['metal', 'fire', 0]",equal,more used by adults,Own,Other
+866,58,7,children,"[['rain', 'algae', 0], ['lava', 'water', 1]]","['lava', 'water', 1]",equal,more used by adults,Own,Other
+2811,188,7,children,"[['fire', 'metal', 0], ['hurricane', 'mud', 0]]","['fire', 'metal', 0]",equal,more used by adults,Own,Other
+845,57,12,children,"[['water', 'earthquake', 0], ['stone', 'water', 0]]","['water', 'earthquake', 0]",equal,more used by adults,Own,Other
+841,57,12,children,"[['metal', 'fire', 0], ['mud', 'rain', 0]]","['metal', 'fire', 0]",equal,more used by adults,Own,Other
+840,57,12,children,"[['fire', 'stone', 1], ['dust', 'air', 0]]","['fire', 'stone', 1]",equal,more used by adults,Own,Other
+830,56,11,children,"[['plant', 'earth', 1], ['ocean', 'fire', 1]]","['plant', 'earth', 1]",equal,more used by adults,Own,Other
+911,61,38,adults,"[['fire', 'wind', 0], ['volcano', 'steam', 0]]","['fire', 'wind', 0]",equal,more used by children,Own,Other
+906,61,38,adults,"[['plant', 'earth', 1], ['geyser', 'obsidian', 0]]","['plant', 'earth', 1]",equal,more used by children,Own,Other
+901,61,38,adults,"[['sea', 'fire', 1], ['water', 'plant', 1]]","['water', 'plant', 1]",equal,more used by children,Own,Other
+893,60,8,children,"[['rain', 'fire', 0], ['rain', 'lava', 0]]","['rain', 'lava', 0]",equal,more used by adults,Own,Other
+2797,187,51,adults,"[['fire', 'wind', 0], ['sea', 'fire', 1]]","['fire', 'wind', 0]",equal,more used by children,Own,Other
+883,59,9,children,"[['sea', 'air', 0], ['mountain', 'fire', 1]]","['mountain', 'fire', 1]",equal,more used by adults,Own,Other
+881,59,9,children,"[['water', 'plant', 1], ['earth', 'sky', 1]]","['water', 'plant', 1]",equal,more used by adults,Own,Other
+2802,187,51,adults,"[['volcano', 'steam', 0], ['energy', 'city', 0]]","['energy', 'city', 0]",equal,more used by children,Own,Other
+912,61,38,adults,"[['energy', 'plant', 0], ['energy', 'cloud', 1]]","['energy', 'plant', 0]",equal,more used by children,Own,Other
+2818,188,7,children,"[['fire', 'ocean', 1], ['earthquake', 'water', 0]]","['earthquake', 'water', 0]",equal,more used by adults,Own,Other
+2837,190,9,children,"[['sky', 'fire', 1], ['mountain', 'fire', 1]]","['mountain', 'fire', 1]",equal,more used by adults,Own,Other
+756,51,6,children,"[['energy', 'electricity', 0], ['mountain', 'fire', 1]]","['mountain', 'fire', 1]",equal,more used by adults,Own,Other
+755,51,6,children,"[['earth', 'rain', 1], ['plant', 'energy', 0]]","['plant', 'energy', 0]",equal,more used by adults,Own,Other
+2841,190,9,children,"[['mud', 'hurricane', 0], ['metal', 'fire', 0]]","['metal', 'fire', 0]",equal,more used by adults,Own,Other
+750,51,6,children,"[['wind', 'fire', 0], ['air', 'sea', 0]]","['wind', 'fire', 0]",equal,more used by adults,Own,Other
+743,50,31,adults,"[['plant', 'grass', 1], ['sea', 'steam', 0]]","['sea', 'steam', 0]",equal,more used by children,Own,Other
+2822,189,9,children,"[['mud', 'hurricane', 0], ['energy', 'plant', 0]]","['energy', 'plant', 0]",equal,more used by adults,Own,Other
+814,55,9,children,"[['rain', 'algae', 0], ['fire', 'metal', 0]]","['fire', 'metal', 0]",equal,more used by adults,Own,Other
+2823,189,9,children,"[['mountain', 'fire', 1], ['sea', 'air', 0]]","['mountain', 'fire', 1]",equal,more used by adults,Own,Other
+2826,189,9,children,"[['fire', 'plant', 1], ['energy', 'city', 0]]","['energy', 'city', 0]",equal,more used by adults,Own,Other
+781,53,24,adults,"[['fire', 'dust', 1], ['rain', 'lava', 0]]","['rain', 'lava', 0]",equal,more used by children,Own,Other
+778,52,40,adults,"[['earth', 'cloud', 1], ['brick', 'steam', 0]]","['earth', 'cloud', 1]",equal,more used by children,Own,Other
+775,52,40,adults,"[['dust', 'fire', 1], ['plant', 'earth', 1]]","['plant', 'earth', 1]",equal,more used by children,Own,Other
+1067,72,9,children,"[['air', 'dust', 0], ['energy', 'plant', 0]]","['energy', 'plant', 0]",equal,more used by adults,Own,Other
+1044,70,37,adults,"[['cloud', 'water', 1], ['metal', 'fire', 0]]","['metal', 'fire', 0]",equal,more used by children,Own,Other
+2760,185,43,adults,"[['water', 'plant', 1], ['grass', 'mud', 1]]","['water', 'plant', 1]",equal,more used by children,Own,Other
+1037,70,37,adults,"[['garden', 'grass', 0], ['sand', 'air', 0]]","['sand', 'air', 0]",equal,more used by children,Own,Other
+1034,69,61,adults,"[['geyser', 'obsidian', 0], ['lava', 'rain', 0]]","['lava', 'rain', 0]",equal,more used by children,Own,Other
+2764,185,43,adults,"[['obsidian', 'lava', 0], ['plant', 'earth', 1]]","['plant', 'earth', 1]",equal,more used by children,Own,Other
+1116,75,11,children,"[['earth', 'rain', 1], ['energy', 'city', 0]]","['energy', 'city', 0]",equal,more used by adults,Own,Other
+1109,74,42,adults,"[['fire', 'sand', 1], ['fire', 'sea', 1]]","['fire', 'sand', 1]",equal,more used by children,Own,Other
+1085,73,9,children,"[['energy', 'plant', 0], ['fire', 'plant', 1]]","['energy', 'plant', 0]",equal,more used by adults,Own,Other
+2746,184,49,adults,"[['mountain', 'fire', 1], ['gunpowder', 'dust', 0]]","['mountain', 'fire', 1]",equal,more used by children,Own,Other
+1080,73,9,children,"[['sea', 'steam', 0], ['wind', 'dust', 0]]","['sea', 'steam', 0]",equal,more used by adults,Own,Other
+1076,72,9,children,"[['metal', 'fire', 0], ['rain', 'earth', 1]]","['metal', 'fire', 0]",equal,more used by adults,Own,Other
+914,61,38,adults,"[['obsidian', 'energy', 0], ['electricity', 'metal', 1]]","['electricity', 'metal', 1]",equal,more used by children,Own,Other
+1021,69,61,adults,"[['grass', 'mud', 1], ['plant', 'water', 1]]","['plant', 'water', 1]",equal,more used by children,Own,Other
+1015,68,8,children,"[['sky', 'earth', 1], ['wire', 'electricity', 0]]","['wire', 'electricity', 0]",equal,more used by adults,Own,Other
+953,64,35,adults,"[['sea', 'steam', 0], ['fire', 'dust', 1]]","['sea', 'steam', 0]",equal,more used by children,Own,Other
+951,64,35,adults,"[['steam', 'brick', 0], ['earthquake', 'water', 0]]","['earthquake', 'water', 0]",equal,more used by children,Own,Other
+949,64,35,adults,"[['earth', 'gunpowder', 0], ['cloud', 'air', 1]]","['cloud', 'air', 1]",equal,more used by children,Own,Other
+948,64,35,adults,"[['fire', 'stone', 1], ['earth', 'earthquake', 1]]","['fire', 'stone', 1]",equal,more used by children,Own,Other
+946,64,35,adults,"[['obsidian', 'lava', 0], ['sand', 'fire', 1]]","['sand', 'fire', 1]",equal,more used by children,Own,Other
+936,63,11,children,"[['garden', 'water', 1], ['earthquake', 'water', 0]]","['earthquake', 'water', 0]",equal,more used by adults,Own,Other
+927,62,8,children,"[['algae', 'rain', 0], ['sand', 'fire', 1]]","['sand', 'fire', 1]",equal,more used by adults,Own,Other
+1000,67,10,children,"[['lava', 'pressure', 1], ['rain', 'earth', 1]]","['lava', 'pressure', 1]",equal,more used by adults,Own,Other
+2777,186,7,children,"[['fire', 'stone', 1], ['garden', 'water', 1]]","['fire', 'stone', 1]",equal,more used by adults,Own,Other
+2783,186,7,children,"[['steam', 'earth', 1], ['wind', 'fire', 0]]","['wind', 'fire', 0]",equal,more used by adults,Own,Other
+976,66,8,children,"[['rain', 'lava', 0], ['stone', 'water', 0]]","['rain', 'lava', 0]",equal,more used by adults,Own,Other
+975,66,8,children,"[['steam', 'pressure', 0], ['sea', 'steam', 0]]","['sea', 'steam', 0]",equal,more used by adults,Own,Other
+971,65,11,children,"[['rain', 'lava', 0], ['earth', 'rain', 1]]","['rain', 'lava', 0]",equal,more used by adults,Own,Other
+1499,100,21,adults,"[['obsidian', 'energy', 0], ['stone', 'fire', 1]]","['stone', 'fire', 1]",equal,more used by children,Own,Other
+2608,174,11,children,"[['earth', 'sky', 1], ['dust', 'energy', 0]]","['dust', 'energy', 0]",equal,more used by adults,Own,Other
+2023,135,11,children,"[['sea', 'air', 0], ['wire', 'electricity', 0]]","['wire', 'electricity', 0]",equal,more used by adults,Own,Other
+2019,135,11,children,"[['fire', 'sky', 1], ['air', 'cloud', 1]]","['air', 'cloud', 1]",equal,more used by adults,Own,Other
+2017,135,11,children,"[['sand', 'fire', 1], ['air', 'energy', 1]]","['sand', 'fire', 1]",equal,more used by adults,Own,Other
+2420,162,8,children,"[['water', 'plant', 1], ['rain', 'fire', 0]]","['water', 'plant', 1]",equal,more used by adults,Own,Other
+2107,141,6,children,"[['water', 'lava', 1], ['ocean', 'fire', 1]]","['water', 'lava', 1]",equal,more used by adults,Own,Other
+2105,141,6,children,"[['energy', 'air', 1], ['earth', 'cloud', 1]]","['earth', 'cloud', 1]",equal,more used by adults,Own,Other
+2099,140,7,children,"[['grass', 'water', 1], ['mountain', 'fire', 1]]","['mountain', 'fire', 1]",equal,more used by adults,Own,Other
+2411,161,9,children,"[['air', 'dust', 0], ['fire', 'mountain', 1]]","['fire', 'mountain', 1]",equal,more used by adults,Own,Other
+2089,140,7,children,"[['metal', 'electricity', 1], ['sky', 'earth', 1]]","['metal', 'electricity', 1]",equal,more used by adults,Own,Other
+2082,139,9,children,"[['city', 'energy', 0], ['wind', 'dust', 0]]","['city', 'energy', 0]",equal,more used by adults,Own,Other
+2080,139,9,children,"[['plant', 'fire', 1], ['fire', 'mountain', 1]]","['fire', 'mountain', 1]",equal,more used by adults,Own,Other
+2419,162,8,children,"[['earthquake', 'water', 0], ['grass', 'water', 1]]","['earthquake', 'water', 0]",equal,more used by adults,Own,Other
+2078,139,9,children,"[['metal', 'electricity', 1], ['ocean', 'fire', 1]]","['metal', 'electricity', 1]",equal,more used by adults,Own,Other
+2076,139,9,children,"[['metal', 'fire', 0], ['electricity', 'energy', 0]]","['metal', 'fire', 0]",equal,more used by adults,Own,Other
+2421,162,8,children,"[['rain', 'earth', 1], ['energy', 'city', 0]]","['energy', 'city', 0]",equal,more used by adults,Own,Other
+2005,134,11,children,"[['rain', 'lava', 0], ['garden', 'water', 1]]","['rain', 'lava', 0]",equal,more used by adults,Own,Other
+2003,134,11,children,"[['electricity', 'wire', 0], ['air', 'lava', 1]]","['electricity', 'wire', 0]",equal,more used by adults,Own,Other
+1946,130,33,adults,"[['grass', 'plant', 1], ['water', 'plant', 1]]","['water', 'plant', 1]",equal,more used by children,Own,Other
+1937,130,33,adults,"[['earth', 'plant', 1], ['energy', 'cloud', 1]]","['earth', 'plant', 1]",equal,more used by children,Own,Other
+1933,129,10,children,"[['fire', 'sand', 1], ['garden', 'water', 1]]","['fire', 'sand', 1]",equal,more used by adults,Own,Other
+1932,129,10,children,"[['sea', 'steam', 0], ['stone', 'water', 0]]","['sea', 'steam', 0]",equal,more used by adults,Own,Other
+1915,128,21,adults,"[['wind', 'fire', 0], ['gunpowder', 'earth', 0]]","['wind', 'fire', 0]",equal,more used by children,Own,Other
+2462,165,11,children,"[['energy', 'plant', 0], ['electricity', 'energy', 0]]","['energy', 'plant', 0]",equal,more used by adults,Own,Other
+2461,165,11,children,"[['earthquake', 'water', 0], ['wind', 'dust', 0]]","['earthquake', 'water', 0]",equal,more used by adults,Own,Other
+1959,131,12,children,"[['water', 'garden', 1], ['cloud', 'air', 1]]","['cloud', 'air', 1]",equal,more used by adults,Own,Other
+2448,164,10,children,"[['metal', 'electricity', 1], ['rain', 'algae', 0]]","['metal', 'electricity', 1]",equal,more used by adults,Own,Other
+2000,134,11,children,"[['rain', 'mud', 0], ['plant', 'water', 1]]","['plant', 'water', 1]",equal,more used by adults,Own,Other
+1974,132,10,children,"[['mud', 'rain', 0], ['city', 'energy', 0]]","['city', 'energy', 0]",equal,more used by adults,Own,Other
+1972,132,10,children,"[['water', 'stone', 0], ['water', 'lava', 1]]","['water', 'lava', 1]",equal,more used by adults,Own,Other
+1968,132,10,children,"[['cloud', 'air', 1], ['dust', 'air', 0]]","['cloud', 'air', 1]",equal,more used by adults,Own,Other
+1966,132,10,children,"[['energy', 'plant', 0], ['air', 'sea', 0]]","['energy', 'plant', 0]",equal,more used by adults,Own,Other
+2459,164,10,children,"[['earth', 'steam', 1], ['mountain', 'fire', 1]]","['mountain', 'fire', 1]",equal,more used by adults,Own,Other
+2460,165,11,children,"[['air', 'energy', 1], ['city', 'energy', 0]]","['city', 'energy', 0]",equal,more used by adults,Own,Other
+1958,131,12,children,"[['city', 'energy', 0], ['fire', 'sky', 1]]","['city', 'energy', 0]",equal,more used by adults,Own,Other
+2114,141,6,children,"[['mud', 'rain', 0], ['earthquake', 'water', 0]]","['earthquake', 'water', 0]",equal,more used by adults,Own,Other
+2256,151,25,adults,"[['earth', 'earthquake', 1], ['wind', 'fire', 0]]","['wind', 'fire', 0]",equal,more used by children,Own,Other
+2353,157,5,children,"[['rain', 'mud', 0], ['plant', 'energy', 0]]","['plant', 'energy', 0]",equal,more used by adults,Own,Other
+2246,150,6,children,"[['wind', 'fire', 0], ['rain', 'fire', 0]]","['wind', 'fire', 0]",equal,more used by adults,Own,Other
+2355,158,11,children,"[['earth', 'sky', 1], ['metal', 'electricity', 1]]","['metal', 'electricity', 1]",equal,more used by adults,Own,Other
+2356,158,11,children,"[['water', 'stone', 0], ['city', 'energy', 0]]","['city', 'energy', 0]",equal,more used by adults,Own,Other
+2239,150,6,children,"[['pressure', 'steam', 0], ['metal', 'fire', 0]]","['metal', 'fire', 0]",equal,more used by adults,Own,Other
+2276,152,7,children,"[['fire', 'rain', 0], ['lava', 'water', 1]]","['lava', 'water', 1]",equal,more used by adults,Own,Other
+2365,158,11,children,"[['rain', 'earth', 1], ['lava', 'water', 1]]","['lava', 'water', 1]",equal,more used by adults,Own,Other
+2322,155,10,children,"[['energy', 'electricity', 0], ['plant', 'energy', 0]]","['plant', 'energy', 0]",equal,more used by adults,Own,Other
+2328,156,12,children,"[['lava', 'air', 1], ['water', 'plant', 1]]","['water', 'plant', 1]",equal,more used by adults,Own,Other
+2317,155,10,children,"[['wind', 'dust', 0], ['mountain', 'fire', 1]]","['mountain', 'fire', 1]",equal,more used by adults,Own,Other
+2329,156,12,children,"[['lava', 'water', 1], ['earth', 'sky', 1]]","['lava', 'water', 1]",equal,more used by adults,Own,Other
+2314,155,10,children,"[['grass', 'water', 1], ['dust', 'energy', 0]]","['dust', 'energy', 0]",equal,more used by adults,Own,Other
+2300,154,26,adults,"[['cloud', 'energy', 1], ['rain', 'lava', 0]]","['rain', 'lava', 0]",equal,more used by children,Own,Other
+2291,153,11,children,"[['steam', 'pressure', 0], ['metal', 'fire', 0]]","['metal', 'fire', 0]",equal,more used by adults,Own,Other
+2220,149,27,adults,"[['water', 'cloud', 1], ['water', 'lava', 1]]","['water', 'lava', 1]",equal,more used by children,Own,Other
+2158,144,8,children,"[['sky', 'fire', 1], ['dust', 'energy', 0]]","['dust', 'energy', 0]",equal,more used by adults,Own,Other
+2153,144,8,children,"[['energy', 'city', 0], ['dust', 'air', 0]]","['energy', 'city', 0]",equal,more used by adults,Own,Other
+2398,160,9,children,"[['rain', 'mud', 0], ['cloud', 'earth', 1]]","['cloud', 'earth', 1]",equal,more used by adults,Own,Other
+2125,142,9,children,"[['plant', 'fire', 1], ['cloud', 'air', 1]]","['cloud', 'air', 1]",equal,more used by adults,Own,Other
+2124,142,9,children,"[['steam', 'sea', 0], ['energy', 'air', 1]]","['steam', 'sea', 0]",equal,more used by adults,Own,Other
+2375,159,8,children,"[['sea', 'air', 0], ['lava', 'rain', 0]]","['lava', 'rain', 0]",equal,more used by adults,Own,Other
+2202,147,24,adults,"[['metal', 'fire', 0], ['water', 'cloud', 1]]","['metal', 'fire', 0]",equal,more used by children,Own,Other
+2377,159,8,children,"[['water', 'grass', 1], ['cloud', 'air', 1]]","['cloud', 'air', 1]",equal,more used by adults,Own,Other
+2199,147,24,adults,"[['earth', 'earthquake', 1], ['wind', 'fire', 0]]","['wind', 'fire', 0]",equal,more used by children,Own,Other
+2193,147,24,adults,"[['energy', 'dust', 0], ['steam', 'brick', 0]]","['energy', 'dust', 0]",equal,more used by children,Own,Other
+2191,147,24,adults,"[['lava', 'energy', 0], ['water', 'plant', 1]]","['water', 'plant', 1]",equal,more used by children,Own,Other
+1503,101,6,children,"[['wind', 'dust', 0], ['rain', 'lava', 0]]","['rain', 'lava', 0]",equal,more used by adults,Own,Other
+1894,127,13,children,"[['sand', 'air', 0], ['energy', 'air', 1]]","['sand', 'air', 0]",equal,more used by adults,Own,Other
+2484,166,10,children,"[['earth', 'sky', 1], ['water', 'plant', 1]]","['water', 'plant', 1]",equal,more used by adults,Own,Other
+1625,109,9,children,"[['hurricane', 'mud', 0], ['air', 'sand', 0]]","['air', 'sand', 0]",equal,more used by adults,Own,Other
+1610,108,9,children,"[['hurricane', 'mud', 0], ['air', 'sand', 0]]","['air', 'sand', 0]",equal,more used by adults,Own,Other
+2578,172,53,adults,"[['earth', 'cloud', 1], ['grass', 'plant', 1]]","['earth', 'cloud', 1]",equal,more used by children,Own,Other
+1601,107,11,children,"[['earth', 'steam', 1], ['metal', 'electricity', 1]]","['metal', 'electricity', 1]",equal,more used by adults,Own,Other
+1594,107,11,children,"[['algae', 'rain', 0], ['sand', 'fire', 1]]","['sand', 'fire', 1]",equal,more used by adults,Own,Other
+1592,107,11,children,"[['pressure', 'lava', 1], ['rain', 'earth', 1]]","['pressure', 'lava', 1]",equal,more used by adults,Own,Other
+1673,112,23,adults,"[['energy', 'city', 0], ['dust', 'gunpowder', 0]]","['energy', 'city', 0]",equal,more used by children,Own,Other
+2554,171,10,children,"[['lava', 'pressure', 1], ['air', 'sea', 0]]","['lava', 'pressure', 1]",equal,more used by adults,Own,Other
+2555,171,10,children,"[['fire', 'plant', 1], ['electricity', 'metal', 1]]","['electricity', 'metal', 1]",equal,more used by adults,Own,Other
+1664,111,6,children,"[['dust', 'energy', 0], ['earth', 'rain', 1]]","['dust', 'energy', 0]",equal,more used by adults,Own,Other
+1641,110,6,children,"[['mud', 'hurricane', 0], ['fire', 'stone', 1]]","['fire', 'stone', 1]",equal,more used by adults,Own,Other
+1581,106,8,children,"[['plant', 'earth', 1], ['water', 'garden', 1]]","['plant', 'earth', 1]",equal,more used by adults,Own,Other
+1528,102,11,children,"[['electricity', 'wire', 0], ['fire', 'plant', 1]]","['electricity', 'wire', 0]",equal,more used by adults,Own,Other
+1526,102,11,children,"[['water', 'lava', 1], ['air', 'energy', 1]]","['water', 'lava', 1]",equal,more used by adults,Own,Other
+1525,102,11,children,"[['air', 'sand', 0], ['earth', 'rain', 1]]","['air', 'sand', 0]",equal,more used by adults,Own,Other
+1522,102,11,children,"[['fire', 'wind', 0], ['algae', 'rain', 0]]","['fire', 'wind', 0]",equal,more used by adults,Own,Other
+1517,102,11,children,"[['earthquake', 'water', 0], ['sky', 'earth', 1]]","['earthquake', 'water', 0]",equal,more used by adults,Own,Other
+1516,102,11,children,"[['earth', 'steam', 1], ['lava', 'pressure', 1]]","['lava', 'pressure', 1]",equal,more used by adults,Own,Other
+2605,174,11,children,"[['wire', 'electricity', 0], ['rain', 'fire', 0]]","['wire', 'electricity', 0]",equal,more used by adults,Own,Other
+1505,101,6,children,"[['energy', 'electricity', 0], ['earth', 'plant', 1]]","['earth', 'plant', 1]",equal,more used by adults,Own,Other
+2584,173,51,adults,"[['volcano', 'energy', 1], ['water', 'earthquake', 0]]","['water', 'earthquake', 0]",equal,more used by children,Own,Other
+1532,103,6,children,"[['air', 'energy', 1], ['energy', 'city', 0]]","['energy', 'city', 0]",equal,more used by adults,Own,Other
+1536,103,6,children,"[['algae', 'rain', 0], ['rain', 'lava', 0]]","['rain', 'lava', 0]",equal,more used by adults,Own,Other
+2586,173,51,adults,"[['wind', 'fire', 0], ['steam', 'volcano', 0]]","['wind', 'fire', 0]",equal,more used by children,Own,Other
+2587,173,51,adults,"[['grass', 'mud', 1], ['earth', 'cloud', 1]]","['earth', 'cloud', 1]",equal,more used by children,Own,Other
+2589,173,51,adults,"[['garden', 'grass', 0], ['rain', 'lava', 0]]","['rain', 'lava', 0]",equal,more used by children,Own,Other
+1565,105,24,adults,"[['metal', 'fire', 0], ['mud', 'grass', 1]]","['metal', 'fire', 0]",equal,more used by children,Own,Other
+1563,105,24,adults,"[['plant', 'earth', 1], ['sea', 'fire', 1]]","['plant', 'earth', 1]",equal,more used by children,Own,Other
+1559,104,10,children,"[['sand', 'air', 0], ['lava', 'air', 1]]","['sand', 'air', 0]",equal,more used by adults,Own,Other
+1545,104,10,children,"[['mud', 'hurricane', 0], ['rain', 'lava', 0]]","['rain', 'lava', 0]",equal,more used by adults,Own,Other
+1535,103,6,children,"[['earth', 'cloud', 1], ['sky', 'earth', 1]]","['earth', 'cloud', 1]",equal,more used by adults,Own,Other
+1691,113,39,adults,"[['water', 'lava', 1], ['cloud', 'water', 1]]","['water', 'lava', 1]",equal,more used by children,Own,Other
+1842,123,39,adults,"[['water', 'plant', 1], ['brick', 'steam', 0]]","['water', 'plant', 1]",equal,more used by children,Own,Other
+2505,168,8,children,"[['wind', 'dust', 0], ['rain', 'lava', 0]]","['rain', 'lava', 0]",equal,more used by adults,Own,Other
+1806,121,7,children,"[['stone', 'fire', 1], ['garden', 'water', 1]]","['stone', 'fire', 1]",equal,more used by adults,Own,Other
+1805,121,7,children,"[['pressure', 'steam', 0], ['electricity', 'metal', 1]]","['electricity', 'metal', 1]",equal,more used by adults,Own,Other
+2513,168,8,children,"[['air', 'cloud', 1], ['air', 'lava', 1]]","['air', 'cloud', 1]",equal,more used by adults,Own,Other
+1848,124,11,children,"[['air', 'dust', 0], ['plant', 'water', 1]]","['plant', 'water', 1]",equal,more used by adults,Own,Other
+1852,124,11,children,"[['ocean', 'fire', 1], ['wind', 'fire', 0]]","['wind', 'fire', 0]",equal,more used by adults,Own,Other
+1881,126,11,children,"[['rain', 'mud', 0], ['lava', 'pressure', 1]]","['lava', 'pressure', 1]",equal,more used by adults,Own,Other
+1875,126,11,children,"[['fire', 'sky', 1], ['fire', 'wind', 0]]","['fire', 'wind', 0]",equal,more used by adults,Own,Other
+1873,125,12,children,"[['ocean', 'fire', 1], ['metal', 'electricity', 1]]","['metal', 'electricity', 1]",equal,more used by adults,Own,Other
+1868,125,12,children,"[['water', 'stone', 0], ['fire', 'stone', 1]]","['fire', 'stone', 1]",equal,more used by adults,Own,Other
+1862,125,12,children,"[['energy', 'electricity', 0], ['metal', 'fire', 0]]","['metal', 'fire', 0]",equal,more used by adults,Own,Other
+1861,125,12,children,"[['hurricane', 'mud', 0], ['plant', 'energy', 0]]","['plant', 'energy', 0]",equal,more used by adults,Own,Other
+1860,125,12,children,"[['mountain', 'fire', 1], ['fire', 'sky', 1]]","['mountain', 'fire', 1]",equal,more used by adults,Own,Other
+1859,124,11,children,"[['city', 'energy', 0], ['earth', 'sky', 1]]","['city', 'energy', 0]",equal,more used by adults,Own,Other
+2495,167,6,children,"[['fire', 'metal', 0], ['air', 'lava', 1]]","['fire', 'metal', 0]",equal,more used by adults,Own,Other
+2496,167,6,children,"[['wire', 'electricity', 0], ['water', 'grass', 1]]","['wire', 'electricity', 0]",equal,more used by adults,Own,Other
+1690,113,39,adults,"[['lava', 'obsidian', 0], ['energy', 'plant', 0]]","['energy', 'plant', 0]",equal,more used by children,Own,Other
+1801,121,7,children,"[['air', 'sea', 0], ['lava', 'pressure', 1]]","['lava', 'pressure', 1]",equal,more used by adults,Own,Other
+1711,115,8,children,"[['wind', 'dust', 0], ['cloud', 'earth', 1]]","['cloud', 'earth', 1]",equal,more used by adults,Own,Other
+1707,114,6,children,"[['metal', 'electricity', 1], ['water', 'stone', 0]]","['metal', 'electricity', 1]",equal,more used by adults,Own,Other
+1704,114,6,children,"[['water', 'lava', 1], ['sky', 'fire', 1]]","['water', 'lava', 1]",equal,more used by adults,Own,Other
+1702,114,6,children,"[['fire', 'stone', 1], ['water', 'grass', 1]]","['fire', 'stone', 1]",equal,more used by adults,Own,Other
+1693,113,39,adults,"[['mud', 'grass', 1], ['fire', 'metal', 0]]","['fire', 'metal', 0]",equal,more used by children,Own,Other
+1745,117,9,children,"[['rain', 'mud', 0], ['wind', 'fire', 0]]","['wind', 'fire', 0]",equal,more used by adults,Own,Other
+1798,120,36,adults,"[['city', 'energy', 0], ['geyser', 'obsidian', 0]]","['city', 'energy', 0]",equal,more used by children,Own,Other
+1747,117,9,children,"[['fire', 'sand', 1], ['rain', 'algae', 0]]","['fire', 'sand', 1]",equal,more used by adults,Own,Other
+1791,120,36,adults,"[['grass', 'mud', 1], ['sand', 'fire', 1]]","['sand', 'fire', 1]",equal,more used by children,Own,Other
+1790,120,36,adults,"[['metal', 'fire', 0], ['energy', 'volcano', 1]]","['metal', 'fire', 0]",equal,more used by children,Own,Other
+1787,120,36,adults,"[['wind', 'fire', 0], ['steam', 'brick', 0]]","['wind', 'fire', 0]",equal,more used by children,Own,Other
+1785,120,36,adults,"[['water', 'sand', 1], ['lava', 'rain', 0]]","['lava', 'rain', 0]",equal,more used by children,Own,Other
+1779,119,48,adults,"[['mountain', 'fire', 1], ['lava', 'energy', 0]]","['mountain', 'fire', 1]",equal,more used by children,Own,Other
+1768,118,23,adults,"[['water', 'cloud', 1], ['sea', 'steam', 0]]","['sea', 'steam', 0]",equal,more used by children,Own,Other
+1760,118,23,adults,"[['water', 'sand', 1], ['lava', 'water', 1]]","['lava', 'water', 1]",equal,more used by children,Own,Other
+2528,169,11,children,"[['grass', 'water', 1], ['lava', 'pressure', 1]]","['lava', 'pressure', 1]",equal,more used by adults,Own,Other
+1754,117,9,children,"[['sky', 'earth', 1], ['metal', 'electricity', 1]]","['metal', 'electricity', 1]",equal,more used by adults,Own,Other
+1749,117,9,children,"[['water', 'earthquake', 0], ['dust', 'air', 0]]","['water', 'earthquake', 0]",equal,more used by adults,Own,Other
+412,28,60,adults,"[['grass', 'mud', 1], ['water', 'earthquake', 0]]","['water', 'earthquake', 0]",equal,more used by children,Own,Other
+70,5,10,children,"[['metal', 'electricity', 1], ['earth', 'sky', 1]]","['metal', 'electricity', 1]",equal,more used by adults,Own,Other
+539,36,8,children,"[['algae', 'rain', 0], ['dust', 'energy', 0]]","['dust', 'energy', 0]",equal,more used by adults,Own,Other
+229,16,6,children,"[['algae', 'rain', 0], ['energy', 'dust', 0]]","['energy', 'dust', 0]",equal,more used by adults,Own,Other
+542,37,9,children,"[['sand', 'air', 0], ['fire', 'plant', 1]]","['sand', 'air', 0]",equal,more used by adults,Own,Other
+2903,194,42,adults,"[['fire', 'sea', 1], ['earth', 'plant', 1]]","['earth', 'plant', 1]",equal,more used by children,Own,Other
+223,15,9,children,"[['earth', 'sky', 1], ['electricity', 'wire', 0]]","['electricity', 'wire', 0]",equal,more used by adults,Own,Other
+357,24,9,children,"[['lava', 'pressure', 1], ['air', 'sea', 0]]","['lava', 'pressure', 1]",equal,more used by adults,Own,Other
+550,37,9,children,"[['lava', 'air', 1], ['metal', 'electricity', 1]]","['metal', 'electricity', 1]",equal,more used by adults,Own,Other
+551,37,9,children,"[['fire', 'sky', 1], ['wire', 'electricity', 0]]","['wire', 'electricity', 0]",equal,more used by adults,Own,Other
+218,15,9,children,"[['dust', 'wind', 0], ['fire', 'stone', 1]]","['fire', 'stone', 1]",equal,more used by adults,Own,Other
+559,38,34,adults,"[['air', 'cloud', 1], ['lava', 'obsidian', 0]]","['air', 'cloud', 1]",equal,more used by children,Own,Other
+498,34,9,children,"[['fire', 'sand', 1], ['air', 'energy', 1]]","['fire', 'sand', 1]",equal,more used by adults,Own,Other
+257,18,8,children,"[['rain', 'algae', 0], ['water', 'earthquake', 0]]","['water', 'earthquake', 0]",equal,more used by adults,Own,Other
+509,34,9,children,"[['electricity', 'metal', 1], ['mud', 'hurricane', 0]]","['electricity', 'metal', 1]",equal,more used by adults,Own,Other
+30,3,8,children,"[['plant', 'fire', 1], ['steam', 'sea', 0]]","['steam', 'sea', 0]",equal,more used by adults,Own,Other
+3014,201,9,children,"[['water', 'earthquake', 0], ['air', 'lava', 1]]","['water', 'earthquake', 0]",equal,more used by adults,Own,Other
+521,35,8,children,"[['water', 'earthquake', 0], ['rain', 'mud', 0]]","['water', 'earthquake', 0]",equal,more used by adults,Own,Other
+2912,195,25,adults,"[['garden', 'grass', 0], ['water', 'lava', 1]]","['water', 'lava', 1]",equal,more used by children,Own,Other
+3017,202,9,children,"[['water', 'earthquake', 0], ['rain', 'earth', 1]]","['water', 'earthquake', 0]",equal,more used by adults,Own,Other
+526,36,8,children,"[['earth', 'cloud', 1], ['earth', 'steam', 1]]","['earth', 'cloud', 1]",equal,more used by adults,Own,Other
+3069,205,7,children,"[['lava', 'pressure', 1], ['sky', 'fire', 1]]","['lava', 'pressure', 1]",equal,more used by adults,Own,Other
+248,17,28,adults,"[['grass', 'mud', 1], ['water', 'earthquake', 0]]","['water', 'earthquake', 0]",equal,more used by children,Own,Other
+564,38,34,adults,"[['dust', 'energy', 0], ['gunpowder', 'earth', 0]]","['dust', 'energy', 0]",equal,more used by children,Own,Other
+3032,203,6,children,"[['air', 'sea', 0], ['electricity', 'wire', 0]]","['electricity', 'wire', 0]",equal,more used by adults,Own,Other
+185,13,22,adults,"[['cloud', 'water', 1], ['metal', 'electricity', 1]]","['metal', 'electricity', 1]",equal,more used by children,Own,Other
+598,40,7,children,"[['dust', 'wind', 0], ['energy', 'city', 0]]","['energy', 'city', 0]",equal,more used by adults,Own,Other
+180,13,22,adults,"[['city', 'energy', 0], ['earth', 'earthquake', 1]]","['city', 'energy', 0]",equal,more used by children,Own,Other
+600,41,26,adults,"[['volcano', 'steam', 0], ['fire', 'mountain', 1]]","['fire', 'mountain', 1]",equal,more used by children,Own,Other
+2893,193,10,children,"[['pressure', 'lava', 1], ['fire', 'sky', 1]]","['pressure', 'lava', 1]",equal,more used by adults,Own,Other
+602,41,26,adults,"[['mud', 'grass', 1], ['metal', 'fire', 0]]","['metal', 'fire', 0]",equal,more used by children,Own,Other
+177,12,8,children,"[['fire', 'metal', 0], ['earth', 'steam', 1]]","['fire', 'metal', 0]",equal,more used by adults,Own,Other
+174,12,8,children,"[['mountain', 'fire', 1], ['rain', 'fire', 0]]","['mountain', 'fire', 1]",equal,more used by adults,Own,Other
+18,2,42,adults,"[['cloud', 'earth', 1], ['gunpowder', 'dust', 0]]","['cloud', 'earth', 1]",equal,more used by children,Own,Other
+2887,193,10,children,"[['water', 'garden', 1], ['metal', 'electricity', 1]]","['metal', 'electricity', 1]",equal,more used by adults,Own,Other
+585,40,7,children,"[['rain', 'mud', 0], ['cloud', 'air', 1]]","['cloud', 'air', 1]",equal,more used by adults,Own,Other
+2897,194,42,adults,"[['energy', 'lava', 0], ['steam', 'sea', 0]]","['steam', 'sea', 0]",equal,more used by children,Own,Other
+24,2,42,adults,"[['metal', 'electricity', 1], ['energy', 'earthquake', 0]]","['metal', 'electricity', 1]",equal,more used by children,Own,Other
+3030,203,6,children,"[['steam', 'pressure', 0], ['wind', 'fire', 0]]","['wind', 'fire', 0]",equal,more used by adults,Own,Other
+191,13,22,adults,"[['lava', 'obsidian', 0], ['fire', 'sand', 1]]","['fire', 'sand', 1]",equal,more used by children,Own,Other
+195,14,57,adults,"[['plant', 'energy', 0], ['energy', 'volcano', 1]]","['plant', 'energy', 0]",equal,more used by children,Own,Other
+2895,194,42,adults,"[['obsidian', 'geyser', 0], ['wind', 'fire', 0]]","['wind', 'fire', 0]",equal,more used by children,Own,Other
+194,13,22,adults,"[['earthquake', 'water', 0], ['water', 'sand', 1]]","['earthquake', 'water', 0]",equal,more used by children,Own,Other
+581,39,24,adults,"[['fire', 'sand', 1], ['sea', 'water', 1]]","['fire', 'sand', 1]",equal,more used by children,Own,Other
+577,39,24,adults,"[['lava', 'water', 1], ['earth', 'earthquake', 1]]","['lava', 'water', 1]",equal,more used by children,Own,Other
+494,33,5,children,"[['algae', 'rain', 0], ['energy', 'plant', 0]]","['energy', 'plant', 0]",equal,more used by adults,Own,Other
+329,22,20,adults,"[['lava', 'pressure', 1], ['energy', 'obsidian', 0]]","['lava', 'pressure', 1]",equal,more used by children,Own,Other
+399,27,8,children,"[['air', 'energy', 1], ['energy', 'plant', 0]]","['energy', 'plant', 0]",equal,more used by adults,Own,Other
+3074,205,7,children,"[['energy', 'dust', 0], ['rain', 'algae', 0]]","['energy', 'dust', 0]",equal,more used by adults,Own,Other
+337,23,9,children,"[['hurricane', 'mud', 0], ['wire', 'electricity', 0]]","['wire', 'electricity', 0]",equal,more used by adults,Own,Other
+323,22,20,adults,"[['cloud', 'water', 1], ['plant', 'earth', 1]]","['plant', 'earth', 1]",equal,more used by children,Own,Other
+408,28,60,adults,"[['steam', 'brick', 0], ['energy', 'dust', 0]]","['energy', 'dust', 0]",equal,more used by children,Own,Other
+316,22,20,adults,"[['metal', 'electricity', 1], ['grass', 'plant', 1]]","['metal', 'electricity', 1]",equal,more used by children,Own,Other
+418,28,60,adults,"[['metal', 'electricity', 1], ['obsidian', 'energy', 0]]","['metal', 'electricity', 1]",equal,more used by children,Own,Other
+385,26,9,children,"[['steam', 'earth', 1], ['wind', 'fire', 0]]","['wind', 'fire', 0]",equal,more used by adults,Own,Other
+3076,206,9,children,"[['dust', 'wind', 0], ['electricity', 'metal', 1]]","['electricity', 'metal', 1]",equal,more used by adults,Own,Other
+3075,206,9,children,"[['dust', 'air', 0], ['metal', 'fire', 0]]","['metal', 'fire', 0]",equal,more used by adults,Own,Other
+352,24,9,children,"[['electricity', 'metal', 1], ['fire', 'plant', 1]]","['electricity', 'metal', 1]",equal,more used by adults,Own,Other
+364,25,10,children,"[['energy', 'air', 1], ['energy', 'plant', 0]]","['energy', 'plant', 0]",equal,more used by adults,Own,Other
+2974,199,25,adults,"[['dust', 'energy', 0], ['mud', 'grass', 1]]","['dust', 'energy', 0]",equal,more used by children,Own,Other
+345,24,9,children,"[['earthquake', 'water', 0], ['air', 'energy', 1]]","['earthquake', 'water', 0]",equal,more used by adults,Own,Other
+373,25,10,children,"[['fire', 'wind', 0], ['mud', 'rain', 0]]","['fire', 'wind', 0]",equal,more used by adults,Own,Other
+52,4,9,children,"[['dust', 'wind', 0], ['pressure', 'lava', 1]]","['pressure', 'lava', 1]",equal,more used by adults,Own,Other
+51,4,9,children,"[['water', 'lava', 1], ['air', 'dust', 0]]","['water', 'lava', 1]",equal,more used by adults,Own,Other
+380,26,9,children,"[['fire', 'plant', 1], ['mountain', 'fire', 1]]","['mountain', 'fire', 1]",equal,more used by adults,Own,Other
+2966,198,10,children,"[['energy', 'plant', 0], ['dust', 'air', 0]]","['energy', 'plant', 0]",equal,more used by adults,Own,Other
+735,50,31,adults,"[['cloud', 'earth', 1], ['dust', 'gunpowder', 0]]","['cloud', 'earth', 1]",equal,more used by children,Own,Other
+280,19,8,children,"[['wind', 'dust', 0], ['cloud', 'earth', 1]]","['cloud', 'earth', 1]",equal,more used by adults,Own,Other
+2937,196,5,children,"[['fire', 'plant', 1], ['fire', 'mountain', 1]]","['fire', 'mountain', 1]",equal,more used by adults,Own,Other
+3079,206,9,children,"[['steam', 'pressure', 0], ['fire', 'sand', 1]]","['fire', 'sand', 1]",equal,more used by adults,Own,Other
+485,33,5,children,"[['earth', 'rain', 1], ['lava', 'pressure', 1]]","['lava', 'pressure', 1]",equal,more used by adults,Own,Other
+2927,196,5,children,"[['earth', 'cloud', 1], ['water', 'grass', 1]]","['earth', 'cloud', 1]",equal,more used by adults,Own,Other
+492,33,5,children,"[['energy', 'electricity', 0], ['water', 'earthquake', 0]]","['water', 'earthquake', 0]",equal,more used by adults,Own,Other
+3081,206,9,children,"[['fire', 'mountain', 1], ['rain', 'mud', 0]]","['fire', 'mountain', 1]",equal,more used by adults,Own,Other
+458,31,8,children,"[['fire', 'metal', 0], ['dust', 'air', 0]]","['fire', 'metal', 0]",equal,more used by adults,Own,Other
+305,21,8,children,"[['metal', 'electricity', 1], ['air', 'dust', 0]]","['metal', 'electricity', 1]",equal,more used by adults,Own,Other
+303,21,8,children,"[['steam', 'sea', 0], ['steam', 'pressure', 0]]","['steam', 'sea', 0]",equal,more used by adults,Own,Other
+431,29,10,children,"[['earth', 'rain', 1], ['metal', 'fire', 0]]","['metal', 'fire', 0]",equal,more used by adults,Own,Other
+434,29,10,children,"[['sea', 'air', 0], ['energy', 'plant', 0]]","['energy', 'plant', 0]",equal,more used by adults,Own,Other
+457,31,8,children,"[['mud', 'hurricane', 0], ['rain', 'lava', 0]]","['rain', 'lava', 0]",equal,more used by adults,Own,Other
+443,30,9,children,"[['air', 'sea', 0], ['metal', 'fire', 0]]","['metal', 'fire', 0]",equal,more used by adults,Own,Other
+3078,206,9,children,"[['sky', 'fire', 1], ['water', 'plant', 1]]","['water', 'plant', 1]",equal,more used by adults,Own,Other
+2942,197,39,adults,"[['earth', 'gunpowder', 0], ['metal', 'electricity', 1]]","['metal', 'electricity', 1]",equal,more used by children,Own,Other
+2855,191,12,children,"[['plant', 'earth', 1], ['wind', 'dust', 0]]","['plant', 'earth', 1]",equal,more used by adults,Own,Other
+3051,204,7,children,"[['stone', 'fire', 1], ['rain', 'mud', 0]]","['stone', 'fire', 1]",equal,more used by adults,Own,Other
+88,6,8,children,"[['earthquake', 'water', 0], ['sea', 'air', 0]]","['earthquake', 'water', 0]",equal,more used by adults,Own,Other
+3043,203,6,children,"[['city', 'energy', 0], ['sky', 'fire', 1]]","['city', 'energy', 0]",equal,more used by adults,Own,Other
+153,11,8,children,"[['water', 'grass', 1], ['water', 'lava', 1]]","['water', 'lava', 1]",equal,more used by adults,Own,Other
+652,44,38,adults,"[['earthquake', 'earth', 1], ['metal', 'fire', 0]]","['metal', 'fire', 0]",equal,more used by children,Own,Other
+156,11,8,children,"[['fire', 'wind', 0], ['fire', 'ocean', 1]]","['fire', 'wind', 0]",equal,more used by adults,Own,Other
+90,7,21,adults,"[['air', 'sand', 0], ['energy', 'cloud', 1]]","['air', 'sand', 0]",equal,more used by children,Own,Other
+106,8,11,children,"[['earth', 'sky', 1], ['plant', 'water', 1]]","['plant', 'water', 1]",equal,more used by adults,Own,Other
+714,48,45,adults,"[['sand', 'water', 1], ['metal', 'electricity', 1]]","['metal', 'electricity', 1]",equal,more used by children,Own,Other
+82,6,8,children,"[['sand', 'fire', 1], ['sky', 'earth', 1]]","['sand', 'fire', 1]",equal,more used by adults,Own,Other
+631,43,19,adults,"[['electricity', 'metal', 1], ['sea', 'water', 1]]","['electricity', 'metal', 1]",equal,more used by children,Own,Other
+136,10,6,children,"[['stone', 'fire', 1], ['hurricane', 'mud', 0]]","['stone', 'fire', 1]",equal,more used by adults,Own,Other
+144,10,6,children,"[['stone', 'water', 0], ['water', 'lava', 1]]","['water', 'lava', 1]",equal,more used by adults,Own,Other
+150,11,8,children,"[['pressure', 'lava', 1], ['air', 'lava', 1]]","['pressure', 'lava', 1]",equal,more used by adults,Own,Other
+109,8,11,children,"[['mud', 'rain', 0], ['water', 'earthquake', 0]]","['water', 'earthquake', 0]",equal,more used by adults,Own,Other
+3062,205,7,children,"[['electricity', 'wire', 0], ['plant', 'fire', 1]]","['electricity', 'wire', 0]",equal,more used by adults,Own,Other
+668,45,30,adults,"[['cloud', 'earth', 1], ['volcano', 'energy', 1]]","['cloud', 'earth', 1]",equal,more used by children,Own,Other
+647,44,38,adults,"[['plant', 'energy', 0], ['water', 'cloud', 1]]","['plant', 'energy', 0]",equal,more used by children,Own,Other
+669,45,30,adults,"[['plant', 'earth', 1], ['gunpowder', 'earth', 0]]","['plant', 'earth', 1]",equal,more used by children,Own,Other
+670,45,30,adults,"[['sea', 'water', 1], ['energy', 'dust', 0]]","['energy', 'dust', 0]",equal,more used by children,Own,Other
+2874,192,10,children,"[['fire', 'plant', 1], ['fire', 'sand', 1]]","['fire', 'sand', 1]",equal,more used by adults,Own,Other
+702,47,25,adults,"[['cloud', 'water', 1], ['dust', 'energy', 0]]","['dust', 'energy', 0]",equal,more used by children,Own,Other
+3049,204,7,children,"[['fire', 'rain', 0], ['mountain', 'fire', 1]]","['mountain', 'fire', 1]",equal,more used by adults,Own,Other
+148,10,6,children,"[['rain', 'lava', 0], ['lava', 'air', 1]]","['rain', 'lava', 0]",equal,more used by adults,Own,Other
+2,1,11,children,"[['lava', 'pressure', 1], ['mud', 'rain', 0]]","['lava', 'pressure', 1]",equal,more used by adults,Own,Other
+3044,203,6,children,"[['earth', 'plant', 1], ['grass', 'water', 1]]","['earth', 'plant', 1]",equal,more used by adults,Own,Other
+638,43,19,adults,"[['rain', 'lava', 0], ['lava', 'energy', 0]]","['rain', 'lava', 0]",equal,more used by children,Own,Other
+2860,191,12,children,"[['lava', 'pressure', 1], ['rain', 'mud', 0]]","['lava', 'pressure', 1]",equal,more used by adults,Own,Other
+673,45,30,adults,"[['mud', 'grass', 1], ['air', 'cloud', 1]]","['air', 'cloud', 1]",equal,more used by children,Own,Other
+716,48,45,adults,"[['mud', 'grass', 1], ['air', 'cloud', 1]]","['air', 'cloud', 1]",equal,more used by children,Own,Other
+2851,191,12,children,"[['energy', 'plant', 0], ['hurricane', 'mud', 0]]","['energy', 'plant', 0]",equal,more used by adults,Own,Other
+166,12,8,children,"[['dust', 'air', 0], ['energy', 'dust', 0]]","['energy', 'dust', 0]",equal,more used by adults,Own,Other
+2882,193,10,children,"[['plant', 'earth', 1], ['dust', 'wind', 0]]","['plant', 'earth', 1]",equal,more used by adults,Own,Other
+121,9,7,children,"[['earth', 'cloud', 1], ['rain', 'mud', 0]]","['earth', 'cloud', 1]",equal,more used by adults,Own,Other
+142,10,6,children,"[['fire', 'metal', 0], ['sky', 'earth', 1]]","['fire', 'metal', 0]",equal,more used by adults,Own,Other
+732,49,35,adults,"[['grass', 'mud', 1], ['wire', 'electricity', 0]]","['wire', 'electricity', 0]",equal,more used by children,Own,Other
+696,47,25,adults,"[['sea', 'steam', 0], ['earth', 'gunpowder', 0]]","['sea', 'steam', 0]",equal,more used by children,Own,Other
+81,6,8,children,"[['plant', 'energy', 0], ['air', 'dust', 0]]","['plant', 'energy', 0]",equal,more used by adults,Own,Other
+124,9,7,children,"[['sky', 'earth', 1], ['rain', 'lava', 0]]","['rain', 'lava', 0]",equal,more used by adults,Own,Other
+7,1,11,children,"[['mountain', 'fire', 1], ['dust', 'wind', 0]]","['mountain', 'fire', 1]",equal,more used by adults,Own,Other
+684,46,25,adults,"[['fire', 'stone', 1], ['dust', 'fire', 1]]","['fire', 'stone', 1]",equal,more used by children,Own,Other
+2853,191,12,children,"[['sea', 'steam', 0], ['grass', 'water', 1]]","['sea', 'steam', 0]",equal,more used by adults,Own,Other
+675,46,25,adults,"[['sea', 'fire', 1], ['energy', 'plant', 0]]","['energy', 'plant', 0]",equal,more used by children,Own,Other
+717,48,45,adults,"[['steam', 'brick', 0], ['city', 'energy', 0]]","['city', 'energy', 0]",equal,more used by children,Own,Other
+628,42,7,children,"[['sand', 'fire', 1], ['electricity', 'energy', 0]]","['sand', 'fire', 1]",equal,more used by adults,Own,Other
+623,42,7,children,"[['plant', 'water', 1], ['steam', 'pressure', 0]]","['plant', 'water', 1]",equal,more used by adults,Own,Other
+654,44,38,adults,"[['water', 'earthquake', 0], ['water', 'sea', 1]]","['water', 'earthquake', 0]",equal,more used by children,Own,Other
+101,7,21,adults,"[['gunpowder', 'dust', 0], ['water', 'plant', 1]]","['water', 'plant', 1]",equal,more used by children,Own,Other
+1629,109,9,children,"[['fire', 'wind', 0], ['plant', 'fire', 1]]","['plant', 'fire', 1]",more used by adults,equal,Other,Own
+2049,137,10,children,"[['pressure', 'steam', 0], ['energy', 'earthquake', 0]]","['pressure', 'steam', 0]",more used by adults,more used by children,Other,Own
+299,20,9,children,"[['rain', 'mud', 0], ['fire', 'sea', 1]]","['rain', 'mud', 0]",more used by adults,more used by children,Other,Own
+296,20,9,children,"[['sand', 'fire', 1], ['steam', 'pressure', 0]]","['steam', 'pressure', 0]",more used by adults,equal,Other,Own
+297,20,9,children,"[['wire', 'electricity', 0], ['mud', 'hurricane', 0]]","['mud', 'hurricane', 0]",more used by adults,equal,Other,Own
+1638,110,6,children,"[['stone', 'water', 0], ['energy', 'plant', 0]]","['stone', 'water', 0]",more used by adults,equal,Other,Own
+1630,109,9,children,"[['steam', 'brick', 0], ['energy', 'air', 1]]","['energy', 'air', 1]",more used by adults,more used by children,Other,Own
+2430,163,11,children,"[['algae', 'rain', 0], ['electricity', 'metal', 1]]","['algae', 'rain', 0]",more used by adults,equal,Other,Own
+118,8,11,children,"[['water', 'sea', 1], ['fire', 'plant', 1]]","['fire', 'plant', 1]",more used by adults,more used by children,Other,Own
+1669,112,23,adults,"[['sand', 'water', 1], ['rain', 'algae', 0]]","['rain', 'algae', 0]",more used by adults,more used by children,Own,Other
+2040,137,10,children,"[['fire', 'sea', 1], ['earth', 'sky', 1]]","['earth', 'sky', 1]",more used by adults,more used by children,Other,Own
+1674,112,23,adults,"[['grass', 'garden', 0], ['garden', 'water', 1]]","['garden', 'water', 1]",more used by adults,more used by children,Own,Other
+2436,163,11,children,"[['sky', 'fire', 1], ['energy', 'city', 0]]","['sky', 'fire', 1]",more used by adults,equal,Other,Own
+282,19,8,children,"[['geyser', 'obsidian', 0], ['pressure', 'steam', 0]]","['pressure', 'steam', 0]",more used by adults,more used by children,Other,Own
+3004,201,9,children,"[['air', 'sea', 0], ['cloud', 'air', 1]]","['air', 'sea', 0]",more used by adults,equal,Other,Own
+2035,136,13,children,"[['fire', 'wind', 0], ['energy', 'air', 1]]","['energy', 'air', 1]",more used by adults,equal,Other,Own
+2034,136,13,children,"[['earth', 'earthquake', 1], ['pressure', 'steam', 0]]","['pressure', 'steam', 0]",more used by adults,more used by children,Other,Own
+2118,142,9,children,"[['obsidian', 'geyser', 0], ['earth', 'rain', 1]]","['earth', 'rain', 1]",more used by adults,more used by children,Other,Own
+2551,171,10,children,"[['energy', 'electricity', 0], ['cloud', 'water', 1]]","['energy', 'electricity', 0]",more used by adults,more used by children,Other,Own
+3071,205,7,children,"[['water', 'cloud', 1], ['electricity', 'energy', 0]]","['electricity', 'energy', 0]",more used by adults,more used by children,Other,Own
+2556,171,10,children,"[['earth', 'plant', 1], ['earth', 'sky', 1]]","['earth', 'sky', 1]",more used by adults,equal,Other,Own
+2178,146,12,children,"[['rain', 'algae', 0], ['steam', 'brick', 0]]","['rain', 'algae', 0]",more used by adults,more used by children,Other,Own
+1645,110,6,children,"[['cloud', 'water', 1], ['air', 'lava', 1]]","['air', 'lava', 1]",more used by adults,more used by children,Other,Own
+2565,172,53,adults,"[['rain', 'mud', 0], ['garden', 'grass', 0]]","['rain', 'mud', 0]",more used by adults,more used by children,Own,Other
+3000,201,9,children,"[['garden', 'grass', 0], ['air', 'dust', 0]]","['air', 'dust', 0]",more used by adults,more used by children,Other,Own
+2564,171,10,children,"[['earthquake', 'energy', 0], ['rain', 'algae', 0]]","['rain', 'algae', 0]",more used by adults,more used by children,Other,Own
+2180,146,12,children,"[['fire', 'rain', 0], ['fire', 'stone', 1]]","['fire', 'rain', 0]",more used by adults,equal,Other,Own
+289,20,9,children,"[['rain', 'earth', 1], ['cloud', 'air', 1]]","['rain', 'earth', 1]",more used by adults,equal,Other,Own
+2115,142,9,children,"[['earth', 'gunpowder', 0], ['steam', 'pressure', 0]]","['steam', 'pressure', 0]",more used by adults,more used by children,Other,Own
+1653,111,6,children,"[['plant', 'water', 1], ['energy', 'electricity', 0]]","['energy', 'electricity', 0]",more used by adults,equal,Other,Own
+2562,171,10,children,"[['rain', 'fire', 0], ['water', 'lava', 1]]","['rain', 'fire', 0]",more used by adults,equal,Other,Own
+2560,171,10,children,"[['sky', 'fire', 1], ['earth', 'earthquake', 1]]","['sky', 'fire', 1]",more used by adults,more used by children,Other,Own
+2559,171,10,children,"[['earth', 'cloud', 1], ['air', 'lava', 1]]","['air', 'lava', 1]",more used by adults,equal,Other,Own
+119,8,11,children,"[['metal', 'fire', 0], ['sea', 'air', 0]]","['sea', 'air', 0]",more used by adults,equal,Other,Own
+2558,171,10,children,"[['grass', 'water', 1], ['water', 'sea', 1]]","['grass', 'water', 1]",more used by adults,more used by children,Other,Own
+2385,160,9,children,"[['lava', 'rain', 0], ['rain', 'earth', 1]]","['rain', 'earth', 1]",more used by adults,equal,Other,Own
+3001,201,9,children,"[['hurricane', 'mud', 0], ['air', 'sand', 0]]","['hurricane', 'mud', 0]",more used by adults,equal,Other,Own
+1656,111,6,children,"[['algae', 'rain', 0], ['energy', 'plant', 0]]","['algae', 'rain', 0]",more used by adults,equal,Other,Own
+2069,138,10,children,"[['mud', 'hurricane', 0], ['water', 'lava', 1]]","['mud', 'hurricane', 0]",more used by adults,equal,Other,Own
+1624,109,9,children,"[['grass', 'plant', 1], ['sky', 'fire', 1]]","['sky', 'fire', 1]",more used by adults,more used by children,Other,Own
+1546,104,10,children,"[['energy', 'electricity', 0], ['brick', 'steam', 0]]","['energy', 'electricity', 0]",more used by adults,more used by children,Other,Own
+1550,104,10,children,"[['pressure', 'steam', 0], ['fire', 'sand', 1]]","['pressure', 'steam', 0]",more used by adults,equal,Other,Own
+1551,104,10,children,"[['dust', 'air', 0], ['energy', 'volcano', 1]]","['dust', 'air', 0]",more used by adults,more used by children,Other,Own
+1552,104,10,children,"[['earth', 'gunpowder', 0], ['earth', 'sky', 1]]","['earth', 'sky', 1]",more used by adults,more used by children,Other,Own
+1555,104,10,children,"[['garden', 'water', 1], ['water', 'plant', 1]]","['garden', 'water', 1]",more used by adults,equal,Other,Own
+2194,147,24,adults,"[['energy', 'air', 1], ['water', 'sea', 1]]","['energy', 'air', 1]",more used by adults,more used by children,Own,Other
+1560,105,24,adults,"[['energy', 'air', 1], ['water', 'sea', 1]]","['energy', 'air', 1]",more used by adults,more used by children,Own,Other
+331,23,9,children,"[['rain', 'mud', 0], ['mud', 'grass', 1]]","['rain', 'mud', 0]",more used by adults,more used by children,Other,Own
+1567,105,24,adults,"[['earth', 'gunpowder', 0], ['sea', 'air', 0]]","['sea', 'air', 0]",more used by adults,more used by children,Own,Other
+57,4,9,children,"[['plant', 'water', 1], ['water', 'garden', 1]]","['water', 'garden', 1]",more used by adults,equal,Other,Own
+2086,140,7,children,"[['algae', 'rain', 0], ['earth', 'cloud', 1]]","['algae', 'rain', 0]",more used by adults,equal,Other,Own
+2378,159,8,children,"[['sand', 'water', 1], ['dust', 'wind', 0]]","['dust', 'wind', 0]",more used by adults,more used by children,Other,Own
+339,23,9,children,"[['algae', 'rain', 0], ['fire', 'metal', 0]]","['algae', 'rain', 0]",more used by adults,equal,Other,Own
+3057,204,7,children,"[['grass', 'garden', 0], ['water', 'garden', 1]]","['water', 'garden', 1]",more used by adults,more used by children,Other,Own
+2100,141,6,children,"[['gunpowder', 'earth', 0], ['sea', 'air', 0]]","['sea', 'air', 0]",more used by adults,more used by children,Other,Own
+3058,204,7,children,"[['earth', 'sky', 1], ['sea', 'fire', 1]]","['earth', 'sky', 1]",more used by adults,more used by children,Other,Own
+2103,141,6,children,"[['lava', 'air', 1], ['fire', 'sea', 1]]","['lava', 'air', 1]",more used by adults,more used by children,Other,Own
+351,24,9,children,"[['pressure', 'steam', 0], ['fire', 'mountain', 1]]","['pressure', 'steam', 0]",more used by adults,equal,Other,Own
+2980,199,25,adults,"[['earth', 'rain', 1], ['sand', 'water', 1]]","['earth', 'rain', 1]",more used by adults,more used by children,Own,Other
+2104,141,6,children,"[['water', 'stone', 0], ['gunpowder', 'dust', 0]]","['water', 'stone', 0]",more used by adults,more used by children,Other,Own
+344,23,9,children,"[['steam', 'sea', 0], ['earth', 'sky', 1]]","['earth', 'sky', 1]",more used by adults,equal,Other,Own
+1533,103,6,children,"[['lava', 'water', 1], ['sea', 'air', 0]]","['sea', 'air', 0]",more used by adults,equal,Other,Own
+1534,103,6,children,"[['earthquake', 'water', 0], ['grass', 'water', 1]]","['grass', 'water', 1]",more used by adults,equal,Other,Own
+2093,140,7,children,"[['sea', 'water', 1], ['earth', 'rain', 1]]","['earth', 'rain', 1]",more used by adults,more used by children,Other,Own
+343,23,9,children,"[['air', 'dust', 0], ['city', 'energy', 0]]","['air', 'dust', 0]",more used by adults,equal,Other,Own
+1539,103,6,children,"[['mud', 'rain', 0], ['water', 'cloud', 1]]","['mud', 'rain', 0]",more used by adults,more used by children,Other,Own
+1540,103,6,children,"[['fire', 'plant', 1], ['earth', 'gunpowder', 0]]","['fire', 'plant', 1]",more used by adults,more used by children,Other,Own
+2112,141,6,children,"[['lava', 'energy', 0], ['sky', 'earth', 1]]","['sky', 'earth', 1]",more used by adults,more used by children,Other,Own
+2424,162,8,children,"[['fire', 'ocean', 1], ['metal', 'fire', 0]]","['fire', 'ocean', 1]",more used by adults,equal,Other,Own
+1609,108,9,children,"[['grass', 'plant', 1], ['sky', 'fire', 1]]","['sky', 'fire', 1]",more used by adults,more used by children,Other,Own
+2109,141,6,children,"[['rain', 'algae', 0], ['obsidian', 'lava', 0]]","['rain', 'algae', 0]",more used by adults,more used by children,Other,Own
+2065,138,10,children,"[['energy', 'cloud', 1], ['earth', 'steam', 1]]","['earth', 'steam', 1]",more used by adults,more used by children,Other,Own
+62,5,10,children,"[['lava', 'air', 1], ['metal', 'fire', 0]]","['lava', 'air', 1]",more used by adults,equal,Other,Own
+2064,138,10,children,"[['fire', 'wind', 0], ['lava', 'air', 1]]","['lava', 'air', 1]",more used by adults,equal,Other,Own
+2426,162,8,children,"[['steam', 'sea', 0], ['mud', 'hurricane', 0]]","['mud', 'hurricane', 0]",more used by adults,equal,Other,Own
+2185,146,12,children,"[['mud', 'rain', 0], ['plant', 'grass', 1]]","['mud', 'rain', 0]",more used by adults,more used by children,Other,Own
+1614,108,9,children,"[['fire', 'wind', 0], ['plant', 'fire', 1]]","['plant', 'fire', 1]",more used by adults,equal,Other,Own
+1615,108,9,children,"[['steam', 'brick', 0], ['energy', 'air', 1]]","['energy', 'air', 1]",more used by adults,more used by children,Other,Own
+2061,138,10,children,"[['obsidian', 'energy', 0], ['rain', 'algae', 0]]","['rain', 'algae', 0]",more used by adults,more used by children,Other,Own
+2058,138,10,children,"[['earth', 'rain', 1], ['plant', 'earth', 1]]","['earth', 'rain', 1]",more used by adults,equal,Other,Own
+2057,138,10,children,"[['grass', 'garden', 0], ['air', 'sea', 0]]","['air', 'sea', 0]",more used by adults,more used by children,Other,Own
+2108,141,6,children,"[['grass', 'water', 1], ['earthquake', 'energy', 0]]","['grass', 'water', 1]",more used by adults,more used by children,Other,Own
+307,21,8,children,"[['water', 'grass', 1], ['earth', 'gunpowder', 0]]","['water', 'grass', 1]",more used by adults,more used by children,Other,Own
+2119,142,9,children,"[['fire', 'sea', 1], ['sea', 'air', 0]]","['sea', 'air', 0]",more used by adults,more used by children,Other,Own
+110,8,11,children,"[['air', 'energy', 1], ['fire', 'sand', 1]]","['air', 'energy', 1]",more used by adults,equal,Other,Own
+1579,106,8,children,"[['air', 'sand', 0], ['water', 'grass', 1]]","['water', 'grass', 1]",more used by adults,equal,Other,Own
+319,22,20,adults,"[['garden', 'grass', 0], ['garden', 'water', 1]]","['garden', 'water', 1]",more used by adults,more used by children,Own,Other
+1584,106,8,children,"[['fire', 'sand', 1], ['plant', 'fire', 1]]","['plant', 'fire', 1]",more used by adults,equal,Other,Own
+322,22,20,adults,"[['air', 'dust', 0], ['sand', 'water', 1]]","['air', 'dust', 0]",more used by adults,more used by children,Own,Other
+2581,173,51,adults,"[['water', 'cloud', 1], ['algae', 'rain', 0]]","['algae', 'rain', 0]",more used by adults,more used by children,Own,Other
+1596,107,11,children,"[['plant', 'fire', 1], ['fire', 'dust', 1]]","['plant', 'fire', 1]",more used by adults,more used by children,Other,Own
+1597,107,11,children,"[['energy', 'lava', 0], ['sky', 'fire', 1]]","['sky', 'fire', 1]",more used by adults,more used by children,Other,Own
+314,21,8,children,"[['hurricane', 'mud', 0], ['dust', 'fire', 1]]","['hurricane', 'mud', 0]",more used by adults,more used by children,Other,Own
+115,8,11,children,"[['steam', 'pressure', 0], ['volcano', 'steam', 0]]","['steam', 'pressure', 0]",more used by adults,more used by children,Other,Own
+2070,139,9,children,"[['air', 'sand', 0], ['earth', 'rain', 1]]","['earth', 'rain', 1]",more used by adults,equal,Other,Own
+311,21,8,children,"[['dust', 'wind', 0], ['sea', 'fire', 1]]","['dust', 'wind', 0]",more used by adults,more used by children,Other,Own
+2189,146,12,children,"[['energy', 'electricity', 0], ['earth', 'gunpowder', 0]]","['energy', 'electricity', 0]",more used by adults,more used by children,Other,Own
+272,19,8,children,"[['sky', 'fire', 1], ['pressure', 'lava', 1]]","['sky', 'fire', 1]",more used by adults,equal,Other,Own
+1844,123,39,adults,"[['electricity', 'energy', 0], ['earthquake', 'earth', 1]]","['electricity', 'energy', 0]",more used by adults,more used by children,Own,Other
+3029,202,9,children,"[['garden', 'grass', 0], ['algae', 'rain', 0]]","['algae', 'rain', 0]",more used by adults,more used by children,Other,Own
+1971,132,10,children,"[['steam', 'earth', 1], ['gunpowder', 'dust', 0]]","['steam', 'earth', 1]",more used by adults,more used by children,Other,Own
+2131,143,7,children,"[['earth', 'rain', 1], ['metal', 'fire', 0]]","['earth', 'rain', 1]",more used by adults,equal,Other,Own
+1849,124,11,children,"[['water', 'grass', 1], ['sand', 'fire', 1]]","['water', 'grass', 1]",more used by adults,equal,Other,Own
+205,14,57,adults,"[['fire', 'sky', 1], ['energy', 'cloud', 1]]","['fire', 'sky', 1]",more used by adults,more used by children,Own,Other
+1851,124,11,children,"[['sand', 'air', 0], ['steam', 'earth', 1]]","['steam', 'earth', 1]",more used by adults,equal,Other,Own
+1853,124,11,children,"[['lava', 'water', 1], ['rain', 'earth', 1]]","['rain', 'earth', 1]",more used by adults,equal,Other,Own
+152,11,8,children,"[['mountain', 'fire', 1], ['earth', 'sky', 1]]","['earth', 'sky', 1]",more used by adults,equal,Other,Own
+3041,203,6,children,"[['plant', 'grass', 1], ['rain', 'fire', 0]]","['rain', 'fire', 0]",more used by adults,more used by children,Other,Own
+199,14,57,adults,"[['earth', 'sky', 1], ['grass', 'mud', 1]]","['earth', 'sky', 1]",more used by adults,more used by children,Own,Other
+157,11,8,children,"[['wire', 'electricity', 0], ['dust', 'air', 0]]","['dust', 'air', 0]",more used by adults,equal,Other,Own
+197,14,57,adults,"[['fire', 'sea', 1], ['water', 'garden', 1]]","['water', 'garden', 1]",more used by adults,more used by children,Own,Other
+1961,131,12,children,"[['hurricane', 'mud', 0], ['water', 'plant', 1]]","['hurricane', 'mud', 0]",more used by adults,equal,Other,Own
+2491,167,6,children,"[['rain', 'algae', 0], ['plant', 'energy', 0]]","['rain', 'algae', 0]",more used by adults,equal,Other,Own
+160,11,8,children,"[['earthquake', 'earth', 1], ['air', 'sea', 0]]","['air', 'sea', 0]",more used by adults,more used by children,Other,Own
+1975,132,10,children,"[['garden', 'grass', 0], ['electricity', 'energy', 0]]","['electricity', 'energy', 0]",more used by adults,more used by children,Other,Own
+1985,133,50,adults,"[['brick', 'steam', 0], ['lava', 'air', 1]]","['lava', 'air', 1]",more used by adults,more used by children,Own,Other
+1815,122,12,children,"[['energy', 'dust', 0], ['algae', 'rain', 0]]","['algae', 'rain', 0]",more used by adults,equal,Other,Own
+2506,168,8,children,"[['fire', 'metal', 0], ['earth', 'sky', 1]]","['earth', 'sky', 1]",more used by adults,equal,Other,Own
+1822,122,12,children,"[['air', 'sea', 0], ['gunpowder', 'earth', 0]]","['air', 'sea', 0]",more used by adults,more used by children,Other,Own
+73,5,10,children,"[['algae', 'rain', 0], ['water', 'earthquake', 0]]","['algae', 'rain', 0]",more used by adults,equal,Other,Own
+1826,122,12,children,"[['rain', 'earth', 1], ['fire', 'sea', 1]]","['rain', 'earth', 1]",more used by adults,more used by children,Other,Own
+1830,123,39,adults,"[['earth', 'sky', 1], ['gunpowder', 'earth', 0]]","['earth', 'sky', 1]",more used by adults,more used by children,Own,Other
+213,15,9,children,"[['sand', 'air', 0], ['pressure', 'steam', 0]]","['pressure', 'steam', 0]",more used by adults,equal,Other,Own
+1978,132,10,children,"[['energy', 'air', 1], ['water', 'plant', 1]]","['energy', 'air', 1]",more used by adults,equal,Other,Own
+212,15,9,children,"[['water', 'lava', 1], ['rain', 'earth', 1]]","['rain', 'earth', 1]",more used by adults,equal,Other,Own
+1837,123,39,adults,"[['energy', 'obsidian', 0], ['rain', 'fire', 0]]","['rain', 'fire', 0]",more used by adults,more used by children,Own,Other
+211,15,9,children,"[['sand', 'fire', 1], ['air', 'lava', 1]]","['air', 'lava', 1]",more used by adults,equal,Other,Own
+2500,167,6,children,"[['dust', 'air', 0], ['plant', 'grass', 1]]","['dust', 'air', 0]",more used by adults,more used by children,Other,Own
+1979,132,10,children,"[['rain', 'earth', 1], ['earth', 'gunpowder', 0]]","['rain', 'earth', 1]",more used by adults,more used by children,Other,Own
+2510,168,8,children,"[['dust', 'energy', 0], ['plant', 'fire', 1]]","['plant', 'fire', 1]",more used by adults,equal,Other,Own
+2463,165,11,children,"[['grass', 'garden', 0], ['water', 'garden', 1]]","['water', 'garden', 1]",more used by adults,more used by children,Other,Own
+2478,166,10,children,"[['steam', 'brick', 0], ['sky', 'fire', 1]]","['sky', 'fire', 1]",more used by adults,more used by children,Other,Own
+2136,143,7,children,"[['energy', 'earthquake', 0], ['plant', 'fire', 1]]","['plant', 'fire', 1]",more used by adults,more used by children,Other,Own
+1941,130,33,adults,"[['obsidian', 'geyser', 0], ['grass', 'water', 1]]","['grass', 'water', 1]",more used by adults,more used by children,Own,Other
+1909,128,21,adults,"[['earth', 'sky', 1], ['water', 'cloud', 1]]","['earth', 'sky', 1]",more used by adults,more used by children,Own,Other
+1912,128,21,adults,"[['garden', 'water', 1], ['earthquake', 'earth', 1]]","['garden', 'water', 1]",more used by adults,more used by children,Own,Other
+176,12,8,children,"[['sky', 'fire', 1], ['earth', 'earthquake', 1]]","['sky', 'fire', 1]",more used by adults,more used by children,Other,Own
+2467,165,11,children,"[['earth', 'steam', 1], ['earth', 'gunpowder', 0]]","['earth', 'steam', 1]",more used by adults,more used by children,Other,Own
+1904,127,13,children,"[['lava', 'water', 1], ['earth', 'rain', 1]]","['earth', 'rain', 1]",more used by adults,equal,Other,Own
+1920,129,10,children,"[['grass', 'garden', 0], ['fire', 'sky', 1]]","['fire', 'sky', 1]",more used by adults,more used by children,Other,Own
+173,12,8,children,"[['grass', 'plant', 1], ['water', 'garden', 1]]","['water', 'garden', 1]",more used by adults,more used by children,Other,Own
+3035,203,6,children,"[['electricity', 'energy', 0], ['water', 'lava', 1]]","['electricity', 'energy', 0]",more used by adults,equal,Other,Own
+1936,130,33,adults,"[['mud', 'grass', 1], ['rain', 'fire', 0]]","['rain', 'fire', 0]",more used by adults,more used by children,Own,Other
+1935,130,33,adults,"[['fire', 'sky', 1], ['steam', 'brick', 0]]","['fire', 'sky', 1]",more used by adults,more used by children,Own,Other
+1927,129,10,children,"[['lava', 'pressure', 1], ['wind', 'dust', 0]]","['wind', 'dust', 0]",more used by adults,equal,Other,Own
+2471,165,11,children,"[['sand', 'water', 1], ['lava', 'air', 1]]","['lava', 'air', 1]",more used by adults,more used by children,Other,Own
+168,12,8,children,"[['rain', 'algae', 0], ['steam', 'sea', 0]]","['rain', 'algae', 0]",more used by adults,equal,Other,Own
+2139,143,7,children,"[['dust', 'air', 0], ['brick', 'steam', 0]]","['dust', 'air', 0]",more used by adults,more used by children,Other,Own
+2402,161,9,children,"[['sand', 'fire', 1], ['air', 'energy', 1]]","['air', 'energy', 1]",more used by adults,equal,Other,Own
+1903,127,13,children,"[['volcano', 'steam', 0], ['fire', 'plant', 1]]","['fire', 'plant', 1]",more used by adults,more used by children,Other,Own
+162,11,8,children,"[['rain', 'mud', 0], ['plant', 'earth', 1]]","['rain', 'mud', 0]",more used by adults,equal,Other,Own
+1876,126,11,children,"[['sea', 'air', 0], ['earthquake', 'water', 0]]","['sea', 'air', 0]",more used by adults,equal,Other,Own
+3031,203,6,children,"[['earth', 'rain', 1], ['steam', 'sea', 0]]","['earth', 'rain', 1]",more used by adults,equal,Other,Own
+1953,131,12,children,"[['earth', 'plant', 1], ['fire', 'rain', 0]]","['fire', 'rain', 0]",more used by adults,equal,Other,Own
+1878,126,11,children,"[['fire', 'dust', 1], ['water', 'garden', 1]]","['water', 'garden', 1]",more used by adults,more used by children,Other,Own
+1880,126,11,children,"[['water', 'grass', 1], ['metal', 'fire', 0]]","['water', 'grass', 1]",more used by adults,equal,Other,Own
+164,11,8,children,"[['lava', 'energy', 0], ['pressure', 'steam', 0]]","['pressure', 'steam', 0]",more used by adults,more used by children,Other,Own
+76,6,8,children,"[['electricity', 'wire', 0], ['electricity', 'energy', 0]]","['electricity', 'energy', 0]",more used by adults,equal,Other,Own
+1884,126,11,children,"[['water', 'stone', 0], ['fire', 'sea', 1]]","['water', 'stone', 0]",more used by adults,more used by children,Other,Own
+1950,131,12,children,"[['sky', 'earth', 1], ['brick', 'steam', 0]]","['sky', 'earth', 1]",more used by adults,more used by children,Other,Own
+3066,205,7,children,"[['obsidian', 'geyser', 0], ['garden', 'water', 1]]","['garden', 'water', 1]",more used by adults,more used by children,Other,Own
+1888,126,11,children,"[['water', 'lava', 1], ['wind', 'dust', 0]]","['wind', 'dust', 0]",more used by adults,equal,Other,Own
+1890,127,13,children,"[['sea', 'water', 1], ['rain', 'fire', 0]]","['rain', 'fire', 0]",more used by adults,more used by children,Other,Own
+1892,127,13,children,"[['dust', 'energy', 0], ['steam', 'pressure', 0]]","['steam', 'pressure', 0]",more used by adults,equal,Other,Own
+2483,166,10,children,"[['fire', 'sea', 1], ['pressure', 'steam', 0]]","['pressure', 'steam', 0]",more used by adults,more used by children,Other,Own
+1896,127,13,children,"[['rain', 'algae', 0], ['water', 'earthquake', 0]]","['rain', 'algae', 0]",more used by adults,equal,Other,Own
+2482,166,10,children,"[['electricity', 'metal', 1], ['hurricane', 'mud', 0]]","['hurricane', 'mud', 0]",more used by adults,equal,Other,Own
+3067,205,7,children,"[['steam', 'earth', 1], ['volcano', 'energy', 1]]","['steam', 'earth', 1]",more used by adults,more used by children,Other,Own
+1901,127,13,children,"[['pressure', 'lava', 1], ['garden', 'water', 1]]","['garden', 'water', 1]",more used by adults,equal,Other,Own
+165,12,8,children,"[['air', 'cloud', 1], ['steam', 'pressure', 0]]","['steam', 'pressure', 0]",more used by adults,equal,Other,Own
+3033,203,6,children,"[['water', 'cloud', 1], ['air', 'lava', 1]]","['air', 'lava', 1]",more used by adults,more used by children,Other,Own
+2511,168,8,children,"[['dust', 'fire', 1], ['steam', 'pressure', 0]]","['steam', 'pressure', 0]",more used by adults,more used by children,Other,Own
+1719,115,8,children,"[['rain', 'earth', 1], ['lava', 'pressure', 1]]","['rain', 'earth', 1]",more used by adults,equal,Other,Own
+1720,115,8,children,"[['garden', 'water', 1], ['energy', 'plant', 0]]","['garden', 'water', 1]",more used by adults,equal,Other,Own
+260,18,8,children,"[['water', 'sand', 1], ['air', 'energy', 1]]","['air', 'energy', 1]",more used by adults,more used by children,Other,Own
+2122,142,9,children,"[['earth', 'cloud', 1], ['dust', 'air', 0]]","['dust', 'air', 0]",more used by adults,equal,Other,Own
+258,18,8,children,"[['earth', 'sky', 1], ['water', 'plant', 1]]","['earth', 'sky', 1]",more used by adults,equal,Other,Own
+1724,115,8,children,"[['rain', 'fire', 0], ['obsidian', 'energy', 0]]","['rain', 'fire', 0]",more used by adults,more used by children,Other,Own
+3052,204,7,children,"[['water', 'lava', 1], ['dust', 'wind', 0]]","['dust', 'wind', 0]",more used by adults,equal,Other,Own
+1728,116,21,adults,"[['sea', 'air', 0], ['dust', 'fire', 1]]","['sea', 'air', 0]",more used by adults,more used by children,Own,Other
+1733,116,21,adults,"[['plant', 'grass', 1], ['water', 'stone', 0]]","['water', 'stone', 0]",more used by adults,more used by children,Own,Other
+2537,170,35,adults,"[['air', 'energy', 1], ['energy', 'earthquake', 0]]","['air', 'energy', 1]",more used by adults,more used by children,Own,Other
+2014,135,11,children,"[['brick', 'steam', 0], ['water', 'grass', 1]]","['water', 'grass', 1]",more used by adults,more used by children,Other,Own
+1735,116,21,adults,"[['garden', 'water', 1], ['volcano', 'steam', 0]]","['garden', 'water', 1]",more used by adults,more used by children,Own,Other
+1730,116,21,adults,"[['dust', 'air', 0], ['sea', 'water', 1]]","['dust', 'air', 0]",more used by adults,more used by children,Own,Other
+2441,163,11,children,"[['earth', 'gunpowder', 0], ['mud', 'hurricane', 0]]","['mud', 'hurricane', 0]",more used by adults,more used by children,Other,Own
+3007,201,9,children,"[['earth', 'plant', 1], ['fire', 'ocean', 1]]","['fire', 'ocean', 1]",more used by adults,equal,Other,Own
+271,19,8,children,"[['obsidian', 'energy', 0], ['grass', 'water', 1]]","['grass', 'water', 1]",more used by adults,more used by children,Other,Own
+1696,114,6,children,"[['grass', 'plant', 1], ['rain', 'mud', 0]]","['rain', 'mud', 0]",more used by adults,more used by children,Other,Own
+2172,145,21,adults,"[['mud', 'hurricane', 0], ['water', 'cloud', 1]]","['mud', 'hurricane', 0]",more used by adults,more used by children,Own,Other
+89,6,8,children,"[['gunpowder', 'earth', 0], ['mud', 'hurricane', 0]]","['mud', 'hurricane', 0]",more used by adults,more used by children,Other,Own
+268,18,8,children,"[['fire', 'ocean', 1], ['earthquake', 'earth', 1]]","['fire', 'ocean', 1]",more used by adults,more used by children,Other,Own
+1705,114,6,children,"[['brick', 'steam', 0], ['sky', 'earth', 1]]","['sky', 'earth', 1]",more used by adults,more used by children,Other,Own
+2026,136,13,children,"[['water', 'cloud', 1], ['grass', 'water', 1]]","['grass', 'water', 1]",more used by adults,more used by children,Other,Own
+266,18,8,children,"[['cloud', 'air', 1], ['rain', 'mud', 0]]","['rain', 'mud', 0]",more used by adults,equal,Other,Own
+1709,114,6,children,"[['fire', 'dust', 1], ['steam', 'pressure', 0]]","['steam', 'pressure', 0]",more used by adults,more used by children,Other,Own
+265,18,8,children,"[['earth', 'cloud', 1], ['lava', 'air', 1]]","['lava', 'air', 1]",more used by adults,equal,Other,Own
+3006,201,9,children,"[['earth', 'cloud', 1], ['algae', 'rain', 0]]","['algae', 'rain', 0]",more used by adults,equal,Other,Own
+2024,135,11,children,"[['rain', 'lava', 0], ['fire', 'rain', 0]]","['fire', 'rain', 0]",more used by adults,equal,Other,Own
+2541,170,35,adults,"[['energy', 'electricity', 0], ['steam', 'brick', 0]]","['energy', 'electricity', 0]",more used by adults,more used by children,Own,Other
+2027,136,13,children,"[['air', 'lava', 1], ['mountain', 'fire', 1]]","['air', 'lava', 1]",more used by adults,equal,Other,Own
+2166,145,21,adults,"[['air', 'sea', 0], ['sea', 'water', 1]]","['air', 'sea', 0]",more used by adults,more used by children,Own,Other
+1786,120,36,adults,"[['fire', 'dust', 1], ['steam', 'pressure', 0]]","['steam', 'pressure', 0]",more used by adults,more used by children,Own,Other
+141,10,6,children,"[['dust', 'air', 0], ['energy', 'plant', 0]]","['dust', 'air', 0]",more used by adults,equal,Other,Own
+3020,202,9,children,"[['steam', 'pressure', 0], ['mountain', 'fire', 1]]","['steam', 'pressure', 0]",more used by adults,equal,Other,Own
+2519,168,8,children,"[['energy', 'cloud', 1], ['water', 'garden', 1]]","['water', 'garden', 1]",more used by adults,more used by children,Other,Own
+1995,134,11,children,"[['fire', 'rain', 0], ['grass', 'mud', 1]]","['fire', 'rain', 0]",more used by adults,more used by children,Other,Own
+2515,168,8,children,"[['water', 'grass', 1], ['steam', 'brick', 0]]","['water', 'grass', 1]",more used by adults,more used by children,Other,Own
+1992,133,50,adults,"[['dust', 'wind', 0], ['dust', 'fire', 1]]","['dust', 'wind', 0]",more used by adults,more used by children,Own,Other
+2514,168,8,children,"[['grass', 'garden', 0], ['rain', 'earth', 1]]","['rain', 'earth', 1]",more used by adults,more used by children,Other,Own
+226,16,6,children,"[['water', 'stone', 0], ['garden', 'grass', 0]]","['water', 'stone', 0]",more used by adults,more used by children,Other,Own
+2512,168,8,children,"[['sea', 'steam', 0], ['air', 'sea', 0]]","['air', 'sea', 0]",more used by adults,equal,Other,Own
+1781,119,48,adults,"[['brick', 'steam', 0], ['sea', 'air', 0]]","['sea', 'air', 0]",more used by adults,more used by children,Own,Other
+3018,202,9,children,"[['plant', 'earth', 1], ['hurricane', 'mud', 0]]","['hurricane', 'mud', 0]",more used by adults,equal,Other,Own
+3046,204,7,children,"[['energy', 'cloud', 1], ['mud', 'hurricane', 0]]","['mud', 'hurricane', 0]",more used by adults,more used by children,Other,Own
+2530,169,11,children,"[['dust', 'energy', 0], ['air', 'energy', 1]]","['air', 'energy', 1]",more used by adults,equal,Other,Own
+1753,117,9,children,"[['mud', 'hurricane', 0], ['air', 'cloud', 1]]","['mud', 'hurricane', 0]",more used by adults,equal,Other,Own
+87,6,8,children,"[['rain', 'earth', 1], ['dust', 'energy', 0]]","['rain', 'earth', 1]",more used by adults,equal,Other,Own
+1755,118,23,adults,"[['pressure', 'steam', 0], ['grass', 'plant', 1]]","['pressure', 'steam', 0]",more used by adults,more used by children,Own,Other
+2165,145,21,adults,"[['earth', 'earthquake', 1], ['lava', 'air', 1]]","['lava', 'air', 1]",more used by adults,more used by children,Own,Other
+133,9,7,children,"[['fire', 'sky', 1], ['gunpowder', 'earth', 0]]","['fire', 'sky', 1]",more used by adults,more used by children,Other,Own
+134,9,7,children,"[['grass', 'plant', 1], ['water', 'garden', 1]]","['water', 'garden', 1]",more used by adults,more used by children,Other,Own
+2390,160,9,children,"[['sand', 'fire', 1], ['water', 'garden', 1]]","['water', 'garden', 1]",more used by adults,equal,Other,Own
+3048,204,7,children,"[['sea', 'water', 1], ['rain', 'earth', 1]]","['rain', 'earth', 1]",more used by adults,more used by children,Other,Own
+2525,169,11,children,"[['cloud', 'earth', 1], ['steam', 'earth', 1]]","['steam', 'earth', 1]",more used by adults,equal,Other,Own
+3016,202,9,children,"[['cloud', 'earth', 1], ['energy', 'air', 1]]","['energy', 'air', 1]",more used by adults,equal,Other,Own
+2447,164,10,children,"[['grass', 'garden', 0], ['rain', 'fire', 0]]","['rain', 'fire', 0]",more used by adults,more used by children,Other,Own
+1773,119,48,adults,"[['water', 'grass', 1], ['water', 'cloud', 1]]","['water', 'grass', 1]",more used by adults,more used by children,Own,Other
+1777,119,48,adults,"[['geyser', 'obsidian', 0], ['sky', 'earth', 1]]","['sky', 'earth', 1]",more used by adults,more used by children,Own,Other
+355,24,9,children,"[['earth', 'sky', 1], ['energy', 'plant', 0]]","['earth', 'sky', 1]",more used by adults,equal,Other,Own
+1544,103,6,children,"[['rain', 'fire', 0], ['earthquake', 'energy', 0]]","['rain', 'fire', 0]",more used by adults,more used by children,Other,Own
+1001,67,10,children,"[['obsidian', 'geyser', 0], ['garden', 'water', 1]]","['garden', 'water', 1]",more used by adults,more used by children,Other,Own
+1005,68,8,children,"[['gunpowder', 'dust', 0], ['earth', 'steam', 1]]","['earth', 'steam', 1]",more used by adults,more used by children,Other,Own
+1007,68,8,children,"[['water', 'grass', 1], ['metal', 'electricity', 1]]","['water', 'grass', 1]",more used by adults,equal,Other,Own
+2772,185,43,adults,"[['brick', 'steam', 0], ['electricity', 'energy', 0]]","['electricity', 'energy', 0]",more used by adults,more used by children,Own,Other
+2771,185,43,adults,"[['rain', 'fire', 0], ['volcano', 'steam', 0]]","['rain', 'fire', 0]",more used by adults,more used by children,Own,Other
+599,40,7,children,"[['mud', 'hurricane', 0], ['earthquake', 'earth', 1]]","['mud', 'hurricane', 0]",more used by adults,more used by children,Other,Own
+2285,153,11,children,"[['lava', 'rain', 0], ['sea', 'air', 0]]","['sea', 'air', 0]",more used by adults,equal,Other,Own
+597,40,7,children,"[['fire', 'rain', 0], ['mud', 'grass', 1]]","['fire', 'rain', 0]",more used by adults,more used by children,Other,Own
+591,40,7,children,"[['gunpowder', 'earth', 0], ['fire', 'ocean', 1]]","['fire', 'ocean', 1]",more used by adults,more used by children,Other,Own
+2762,185,43,adults,"[['water', 'grass', 1], ['energy', 'lava', 0]]","['water', 'grass', 1]",more used by adults,more used by children,Own,Other
+1030,69,61,adults,"[['rain', 'fire', 0], ['energy', 'obsidian', 0]]","['rain', 'fire', 0]",more used by adults,more used by children,Own,Other
+997,67,10,children,"[['fire', 'ocean', 1], ['earth', 'cloud', 1]]","['fire', 'ocean', 1]",more used by adults,equal,Other,Own
+595,40,7,children,"[['obsidian', 'lava', 0], ['dust', 'air', 0]]","['dust', 'air', 0]",more used by adults,more used by children,Other,Own
+2765,185,43,adults,"[['energy', 'earthquake', 0], ['ocean', 'fire', 1]]","['ocean', 'fire', 1]",more used by adults,more used by children,Own,Other
+594,40,7,children,"[['earthquake', 'energy', 0], ['air', 'energy', 1]]","['air', 'energy', 1]",more used by adults,more used by children,Other,Own
+2888,193,10,children,"[['lava', 'air', 1], ['air', 'cloud', 1]]","['lava', 'air', 1]",more used by adults,equal,Other,Own
+992,67,10,children,"[['lava', 'energy', 0], ['dust', 'air', 0]]","['dust', 'air', 0]",more used by adults,more used by children,Other,Own
+968,65,11,children,"[['cloud', 'energy', 1], ['hurricane', 'mud', 0]]","['hurricane', 'mud', 0]",more used by adults,more used by children,Other,Own
+2293,153,11,children,"[['lava', 'water', 1], ['rain', 'earth', 1]]","['rain', 'earth', 1]",more used by adults,equal,Other,Own
+965,65,11,children,"[['dust', 'air', 0], ['sea', 'fire', 1]]","['dust', 'air', 0]",more used by adults,more used by children,Other,Own
+620,42,7,children,"[['rain', 'fire', 0], ['geyser', 'obsidian', 0]]","['rain', 'fire', 0]",more used by adults,more used by children,Other,Own
+621,42,7,children,"[['earthquake', 'energy', 0], ['sky', 'earth', 1]]","['sky', 'earth', 1]",more used by adults,more used by children,Other,Own
+961,65,11,children,"[['earthquake', 'energy', 0], ['electricity', 'energy', 0]]","['electricity', 'energy', 0]",more used by adults,more used by children,Other,Own
+16,2,42,adults,"[['water', 'grass', 1], ['obsidian', 'geyser', 0]]","['water', 'grass', 1]",more used by adults,more used by children,Own,Other
+2295,154,26,adults,"[['fire', 'plant', 1], ['sea', 'water', 1]]","['fire', 'plant', 1]",more used by adults,more used by children,Own,Other
+956,64,35,adults,"[['earth', 'steam', 1], ['energy', 'obsidian', 0]]","['earth', 'steam', 1]",more used by adults,more used by children,Own,Other
+2788,186,7,children,"[['electricity', 'energy', 0], ['city', 'energy', 0]]","['electricity', 'energy', 0]",more used by adults,equal,Other,Own
+2761,185,43,adults,"[['gunpowder', 'earth', 0], ['fire', 'sky', 1]]","['fire', 'sky', 1]",more used by adults,more used by children,Own,Other
+2779,186,7,children,"[['fire', 'metal', 0], ['earth', 'sky', 1]]","['earth', 'sky', 1]",more used by adults,equal,Other,Own
+989,66,8,children,"[['energy', 'air', 1], ['city', 'energy', 0]]","['energy', 'air', 1]",more used by adults,equal,Other,Own
+988,66,8,children,"[['lava', 'air', 1], ['water', 'sand', 1]]","['lava', 'air', 1]",more used by adults,more used by children,Other,Own
+987,66,8,children,"[['water', 'plant', 1], ['ocean', 'fire', 1]]","['ocean', 'fire', 1]",more used by adults,equal,Other,Own
+986,66,8,children,"[['energy', 'electricity', 0], ['obsidian', 'energy', 0]]","['energy', 'electricity', 0]",more used by adults,more used by children,Other,Own
+616,42,7,children,"[['gunpowder', 'dust', 0], ['plant', 'fire', 1]]","['plant', 'fire', 1]",more used by adults,more used by children,Other,Own
+2289,153,11,children,"[['energy', 'plant', 0], ['earth', 'steam', 1]]","['earth', 'steam', 1]",more used by adults,equal,Other,Own
+2885,193,10,children,"[['air', 'energy', 1], ['fire', 'dust', 1]]","['air', 'energy', 1]",more used by adults,more used by children,Other,Own
+973,65,11,children,"[['water', 'sand', 1], ['energy', 'air', 1]]","['energy', 'air', 1]",more used by adults,more used by children,Other,Own
+947,64,35,adults,"[['garden', 'grass', 0], ['sea', 'air', 0]]","['sea', 'air', 0]",more used by adults,more used by children,Own,Other
+1092,73,9,children,"[['water', 'stone', 0], ['dust', 'gunpowder', 0]]","['water', 'stone', 0]",more used by adults,more used by children,Other,Own
+2741,183,33,adults,"[['steam', 'pressure', 0], ['garden', 'grass', 0]]","['steam', 'pressure', 0]",more used by adults,more used by children,Own,Other
+1096,74,42,adults,"[['air', 'energy', 1], ['cloud', 'water', 1]]","['air', 'energy', 1]",more used by adults,more used by children,Own,Other
+563,38,34,adults,"[['lava', 'air', 1], ['garden', 'grass', 0]]","['lava', 'air', 1]",more used by adults,more used by children,Own,Other
+2899,194,42,adults,"[['earth', 'gunpowder', 0], ['water', 'garden', 1]]","['water', 'garden', 1]",more used by adults,more used by children,Own,Other
+1104,74,42,adults,"[['gunpowder', 'earth', 0], ['wind', 'dust', 0]]","['wind', 'dust', 0]",more used by adults,more used by children,Own,Other
+2736,183,33,adults,"[['cloud', 'water', 1], ['air', 'dust', 0]]","['air', 'dust', 0]",more used by adults,more used by children,Own,Other
+546,37,9,children,"[['obsidian', 'geyser', 0], ['dust', 'air', 0]]","['dust', 'air', 0]",more used by adults,more used by children,Other,Own
+547,37,9,children,"[['hurricane', 'mud', 0], ['lava', 'pressure', 1]]","['hurricane', 'mud', 0]",more used by adults,equal,Other,Own
+1122,75,11,children,"[['lava', 'water', 1], ['plant', 'fire', 1]]","['plant', 'fire', 1]",more used by adults,equal,Other,Own
+1118,75,11,children,"[['air', 'energy', 1], ['stone', 'fire', 1]]","['air', 'energy', 1]",more used by adults,equal,Other,Own
+553,37,9,children,"[['earthquake', 'earth', 1], ['sea', 'air', 0]]","['sea', 'air', 0]",more used by adults,more used by children,Other,Own
+1115,75,11,children,"[['grass', 'water', 1], ['lava', 'rain', 0]]","['grass', 'water', 1]",more used by adults,equal,Other,Own
+1113,75,11,children,"[['electricity', 'energy', 0], ['grass', 'garden', 0]]","['electricity', 'energy', 0]",more used by adults,more used by children,Other,Own
+2734,183,33,adults,"[['gunpowder', 'earth', 0], ['stone', 'water', 0]]","['stone', 'water', 0]",more used by adults,more used by children,Own,Other
+566,38,34,adults,"[['earthquake', 'earth', 1], ['earth', 'sky', 1]]","['earth', 'sky', 1]",more used by adults,more used by children,Own,Other
+1087,73,9,children,"[['sea', 'air', 0], ['obsidian', 'energy', 0]]","['sea', 'air', 0]",more used by adults,more used by children,Other,Own
+1086,73,9,children,"[['garden', 'grass', 0], ['energy', 'air', 1]]","['energy', 'air', 1]",more used by adults,more used by children,Other,Own
+2279,152,7,children,"[['garden', 'water', 1], ['energy', 'dust', 0]]","['garden', 'water', 1]",more used by adults,equal,Other,Own
+2758,184,49,adults,"[['obsidian', 'lava', 0], ['water', 'garden', 1]]","['water', 'garden', 1]",more used by adults,more used by children,Own,Other
+1043,70,37,adults,"[['sea', 'water', 1], ['fire', 'rain', 0]]","['fire', 'rain', 0]",more used by adults,more used by children,Own,Other
+586,40,7,children,"[['cloud', 'energy', 1], ['earth', 'sky', 1]]","['earth', 'sky', 1]",more used by adults,more used by children,Other,Own
+2281,153,11,children,"[['metal', 'electricity', 1], ['mud', 'hurricane', 0]]","['mud', 'hurricane', 0]",more used by adults,equal,Other,Own
+2894,193,10,children,"[['water', 'sand', 1], ['water', 'stone', 0]]","['water', 'stone', 0]",more used by adults,more used by children,Other,Own
+2892,193,10,children,"[['water', 'earthquake', 0], ['earth', 'steam', 1]]","['earth', 'steam', 1]",more used by adults,equal,Other,Own
+1082,73,9,children,"[['fire', 'wind', 0], ['rain', 'fire', 0]]","['rain', 'fire', 0]",more used by adults,equal,Other,Own
+571,39,24,adults,"[['energy', 'electricity', 0], ['dust', 'gunpowder', 0]]","['energy', 'electricity', 0]",more used by adults,more used by children,Own,Other
+2275,152,7,children,"[['dust', 'air', 0], ['pressure', 'lava', 1]]","['dust', 'air', 0]",more used by adults,equal,Other,Own
+2749,184,49,adults,"[['geyser', 'obsidian', 0], ['lava', 'air', 1]]","['lava', 'air', 1]",more used by adults,more used by children,Own,Other
+23,2,42,adults,"[['sea', 'air', 0], ['energy', 'cloud', 1]]","['sea', 'air', 0]",more used by adults,more used by children,Own,Other
+1065,72,9,children,"[['sea', 'air', 0], ['fire', 'sea', 1]]","['sea', 'air', 0]",more used by adults,more used by children,Other,Own
+14,1,11,children,"[['air', 'dust', 0], ['water', 'cloud', 1]]","['air', 'dust', 0]",more used by adults,more used by children,Other,Own
+943,63,11,children,"[['sea', 'fire', 1], ['air', 'sea', 0]]","['air', 'sea', 0]",more used by adults,more used by children,Other,Own
+800,54,46,adults,"[['mud', 'grass', 1], ['rain', 'earth', 1]]","['rain', 'earth', 1]",more used by adults,more used by children,Own,Other
+803,54,46,adults,"[['water', 'sand', 1], ['sea', 'air', 0]]","['sea', 'air', 0]",more used by adults,more used by children,Own,Other
+2857,191,12,children,"[['plant', 'grass', 1], ['sea', 'air', 0]]","['sea', 'air', 0]",more used by adults,more used by children,Other,Own
+2858,191,12,children,"[['earth', 'sky', 1], ['mountain', 'fire', 1]]","['earth', 'sky', 1]",more used by adults,equal,Other,Own
+2825,189,9,children,"[['sand', 'air', 0], ['ocean', 'fire', 1]]","['ocean', 'fire', 1]",more used by adults,equal,Other,Own
+810,55,9,children,"[['hurricane', 'mud', 0], ['fire', 'stone', 1]]","['hurricane', 'mud', 0]",more used by adults,equal,Other,Own
+815,55,9,children,"[['earth', 'gunpowder', 0], ['mud', 'rain', 0]]","['mud', 'rain', 0]",more used by adults,more used by children,Other,Own
+817,55,9,children,"[['lava', 'water', 1], ['fire', 'sky', 1]]","['fire', 'sky', 1]",more used by adults,equal,Other,Own
+818,55,9,children,"[['mud', 'grass', 1], ['water', 'garden', 1]]","['water', 'garden', 1]",more used by adults,more used by children,Other,Own
+819,55,9,children,"[['lava', 'air', 1], ['fire', 'mountain', 1]]","['lava', 'air', 1]",more used by adults,equal,Other,Own
+820,55,9,children,"[['earth', 'rain', 1], ['wind', 'fire', 0]]","['earth', 'rain', 1]",more used by adults,equal,Other,Own
+821,55,9,children,"[['energy', 'volcano', 1], ['sky', 'earth', 1]]","['sky', 'earth', 1]",more used by adults,more used by children,Other,Own
+2312,155,10,children,"[['pressure', 'steam', 0], ['electricity', 'metal', 1]]","['pressure', 'steam', 0]",more used by adults,equal,Other,Own
+839,56,11,children,"[['steam', 'earth', 1], ['sea', 'water', 1]]","['steam', 'earth', 1]",more used by adults,more used by children,Other,Own
+2313,155,10,children,"[['earthquake', 'earth', 1], ['algae', 'rain', 0]]","['algae', 'rain', 0]",more used by adults,more used by children,Other,Own
+5,1,11,children,"[['mud', 'hurricane', 0], ['steam', 'brick', 0]]","['mud', 'hurricane', 0]",more used by adults,more used by children,Other,Own
+798,54,46,adults,"[['brick', 'steam', 0], ['earth', 'steam', 1]]","['earth', 'steam', 1]",more used by adults,more used by children,Own,Other
+822,55,9,children,"[['earth', 'plant', 1], ['dust', 'wind', 0]]","['dust', 'wind', 0]",more used by adults,equal,Other,Own
+699,47,25,adults,"[['sea', 'water', 1], ['fire', 'plant', 1]]","['fire', 'plant', 1]",more used by adults,more used by children,Own,Other
+795,54,46,adults,"[['mud', 'rain', 0], ['steam', 'volcano', 0]]","['mud', 'rain', 0]",more used by adults,more used by children,Own,Other
+764,51,6,children,"[['earthquake', 'energy', 0], ['fire', 'plant', 1]]","['fire', 'plant', 1]",more used by adults,more used by children,Other,Own
+763,51,6,children,"[['mud', 'hurricane', 0], ['water', 'earthquake', 0]]","['mud', 'hurricane', 0]",more used by adults,equal,Other,Own
+2321,155,10,children,"[['lava', 'air', 1], ['air', 'sand', 0]]","['lava', 'air', 1]",more used by adults,equal,Other,Own
+2838,190,9,children,"[['fire', 'sea', 1], ['algae', 'rain', 0]]","['algae', 'rain', 0]",more used by adults,more used by children,Other,Own
+718,48,45,adults,"[['rain', 'fire', 0], ['fire', 'sea', 1]]","['rain', 'fire', 0]",more used by adults,more used by children,Own,Other
+723,49,35,adults,"[['pressure', 'steam', 0], ['plant', 'grass', 1]]","['pressure', 'steam', 0]",more used by adults,more used by children,Own,Other
+2323,155,10,children,"[['grass', 'garden', 0], ['sky', 'fire', 1]]","['sky', 'fire', 1]",more used by adults,more used by children,Other,Own
+2843,190,9,children,"[['water', 'garden', 1], ['gunpowder', 'dust', 0]]","['water', 'garden', 1]",more used by adults,more used by children,Other,Own
+713,48,45,adults,"[['grass', 'water', 1], ['gunpowder', 'earth', 0]]","['grass', 'water', 1]",more used by adults,more used by children,Own,Other
+792,53,24,adults,"[['cloud', 'energy', 1], ['garden', 'water', 1]]","['garden', 'water', 1]",more used by adults,more used by children,Own,Other
+790,53,24,adults,"[['earth', 'rain', 1], ['earthquake', 'earth', 1]]","['earth', 'rain', 1]",more used by adults,more used by children,Own,Other
+2319,155,10,children,"[['water', 'sea', 1], ['steam', 'earth', 1]]","['steam', 'earth', 1]",more used by adults,more used by children,Other,Own
+2856,191,12,children,"[['earth', 'steam', 1], ['sand', 'air', 0]]","['earth', 'steam', 1]",more used by adults,equal,Other,Own
+780,53,24,adults,"[['fire', 'rain', 0], ['volcano', 'steam', 0]]","['fire', 'rain', 0]",more used by adults,more used by children,Own,Other
+776,52,40,adults,"[['sea', 'fire', 1], ['fire', 'rain', 0]]","['fire', 'rain', 0]",more used by adults,more used by children,Own,Other
+2867,192,10,children,"[['earth', 'earthquake', 1], ['air', 'lava', 1]]","['air', 'lava', 1]",more used by adults,more used by children,Other,Own
+12,1,11,children,"[['sand', 'air', 0], ['sky', 'fire', 1]]","['sky', 'fire', 1]",more used by adults,equal,Other,Own
+3085,206,9,children,"[['garden', 'water', 1], ['wire', 'electricity', 0]]","['garden', 'water', 1]",more used by adults,equal,Other,Own
+915,62,8,children,"[['earthquake', 'water', 0], ['fire', 'ocean', 1]]","['fire', 'ocean', 1]",more used by adults,equal,Other,Own
+644,43,19,adults,"[['geyser', 'obsidian', 0], ['energy', 'air', 1]]","['energy', 'air', 1]",more used by adults,more used by children,Own,Other
+2333,156,12,children,"[['dust', 'energy', 0], ['mud', 'hurricane', 0]]","['mud', 'hurricane', 0]",more used by adults,equal,Other,Own
+10,1,11,children,"[['garden', 'water', 1], ['grass', 'garden', 0]]","['garden', 'water', 1]",more used by adults,more used by children,Other,Own
+923,62,8,children,"[['pressure', 'lava', 1], ['rain', 'fire', 0]]","['rain', 'fire', 0]",more used by adults,equal,Other,Own
+925,62,8,children,"[['energy', 'electricity', 0], ['sand', 'air', 0]]","['energy', 'electricity', 0]",more used by adults,equal,Other,Own
+630,43,19,adults,"[['grass', 'water', 1], ['cloud', 'energy', 1]]","['grass', 'water', 1]",more used by adults,more used by children,Own,Other
+941,63,11,children,"[['mud', 'hurricane', 0], ['cloud', 'air', 1]]","['mud', 'hurricane', 0]",more used by adults,equal,Other,Own
+2335,156,12,children,"[['energy', 'electricity', 0], ['metal', 'fire', 0]]","['energy', 'electricity', 0]",more used by adults,equal,Other,Own
+2791,187,51,adults,"[['sky', 'fire', 1], ['grass', 'plant', 1]]","['sky', 'fire', 1]",more used by adults,more used by children,Own,Other
+2877,192,10,children,"[['stone', 'fire', 1], ['hurricane', 'mud', 0]]","['hurricane', 'mud', 0]",more used by adults,equal,Other,Own
+2299,154,26,adults,"[['lava', 'air', 1], ['dust', 'fire', 1]]","['lava', 'air', 1]",more used by adults,more used by children,Own,Other
+634,43,19,adults,"[['stone', 'water', 0], ['mud', 'grass', 1]]","['stone', 'water', 0]",more used by adults,more used by children,Own,Other
+1131,76,57,adults,"[['earthquake', 'earth', 1], ['steam', 'earth', 1]]","['steam', 'earth', 1]",more used by adults,more used by children,Own,Other
+897,60,8,children,"[['energy', 'air', 1], ['grass', 'mud', 1]]","['energy', 'air', 1]",more used by adults,more used by children,Other,Own
+894,60,8,children,"[['water', 'stone', 0], ['earthquake', 'earth', 1]]","['water', 'stone', 0]",more used by adults,more used by children,Other,Own
+864,58,7,children,"[['pressure', 'lava', 1], ['rain', 'fire', 0]]","['rain', 'fire', 0]",more used by adults,equal,Other,Own
+862,58,7,children,"[['air', 'lava', 1], ['earth', 'cloud', 1]]","['air', 'lava', 1]",more used by adults,equal,Other,Own
+861,58,7,children,"[['sky', 'fire', 1], ['mud', 'grass', 1]]","['sky', 'fire', 1]",more used by adults,more used by children,Other,Own
+858,58,7,children,"[['gunpowder', 'earth', 0], ['sea', 'air', 0]]","['sea', 'air', 0]",more used by adults,more used by children,Other,Own
+674,45,30,adults,"[['earth', 'sky', 1], ['grass', 'garden', 0]]","['earth', 'sky', 1]",more used by adults,more used by children,Own,Other
+2310,155,10,children,"[['air', 'energy', 1], ['energy', 'cloud', 1]]","['air', 'energy', 1]",more used by adults,more used by children,Other,Own
+2869,192,10,children,"[['earth', 'steam', 1], ['energy', 'volcano', 1]]","['earth', 'steam', 1]",more used by adults,more used by children,Other,Own
+896,60,8,children,"[['energy', 'obsidian', 0], ['lava', 'air', 1]]","['lava', 'air', 1]",more used by adults,more used by children,Other,Own
+889,60,8,children,"[['sand', 'air', 0], ['earth', 'steam', 1]]","['earth', 'steam', 1]",more used by adults,equal,Other,Own
+658,44,38,adults,"[['stone', 'water', 0], ['gunpowder', 'dust', 0]]","['stone', 'water', 0]",more used by adults,more used by children,Own,Other
+885,60,8,children,"[['water', 'plant', 1], ['air', 'dust', 0]]","['air', 'dust', 0]",more used by adults,equal,Other,Own
+3086,206,9,children,"[['dust', 'fire', 1], ['lava', 'air', 1]]","['lava', 'air', 1]",more used by adults,more used by children,Other,Own
+660,45,30,adults,"[['steam', 'brick', 0], ['steam', 'earth', 1]]","['steam', 'earth', 1]",more used by adults,more used by children,Own,Other
+2801,187,51,adults,"[['earth', 'sky', 1], ['garden', 'grass', 0]]","['earth', 'sky', 1]",more used by adults,more used by children,Own,Other
+876,59,9,children,"[['energy', 'volcano', 1], ['fire', 'rain', 0]]","['fire', 'rain', 0]",more used by adults,more used by children,Other,Own
+874,59,9,children,"[['water', 'stone', 0], ['fire', 'sand', 1]]","['water', 'stone', 0]",more used by adults,equal,Other,Own
+1136,76,57,adults,"[['grass', 'mud', 1], ['air', 'dust', 0]]","['air', 'dust', 0]",more used by adults,more used by children,Own,Other
+1364,91,7,children,"[['dust', 'wind', 0], ['cloud', 'air', 1]]","['dust', 'wind', 0]",more used by adults,equal,Other,Own
+1367,92,7,children,"[['metal', 'electricity', 1], ['sky', 'earth', 1]]","['sky', 'earth', 1]",more used by adults,equal,Other,Own
+1369,92,7,children,"[['fire', 'sea', 1], ['air', 'sea', 0]]","['air', 'sea', 0]",more used by adults,more used by children,Other,Own
+1370,92,7,children,"[['earth', 'rain', 1], ['cloud', 'water', 1]]","['earth', 'rain', 1]",more used by adults,more used by children,Other,Own
+435,30,9,children,"[['gunpowder', 'dust', 0], ['earth', 'steam', 1]]","['earth', 'steam', 1]",more used by adults,more used by children,Other,Own
+1378,92,7,children,"[['dust', 'gunpowder', 0], ['grass', 'water', 1]]","['grass', 'water', 1]",more used by adults,more used by children,Other,Own
+2645,177,7,children,"[['air', 'energy', 1], ['stone', 'fire', 1]]","['air', 'energy', 1]",more used by adults,equal,Other,Own
+1381,93,9,children,"[['energy', 'electricity', 0], ['dust', 'energy', 0]]","['energy', 'electricity', 0]",more used by adults,equal,Other,Own
+1383,93,9,children,"[['dust', 'fire', 1], ['water', 'garden', 1]]","['water', 'garden', 1]",more used by adults,more used by children,Other,Own
+2643,177,7,children,"[['lava', 'water', 1], ['water', 'garden', 1]]","['water', 'garden', 1]",more used by adults,equal,Other,Own
+1386,93,9,children,"[['rain', 'earth', 1], ['gunpowder', 'dust', 0]]","['rain', 'earth', 1]",more used by adults,more used by children,Other,Own
+2370,159,8,children,"[['grass', 'mud', 1], ['steam', 'pressure', 0]]","['steam', 'pressure', 0]",more used by adults,more used by children,Other,Own
+2371,159,8,children,"[['lava', 'obsidian', 0], ['lava', 'air', 1]]","['lava', 'air', 1]",more used by adults,more used by children,Other,Own
+1409,94,10,children,"[['earth', 'gunpowder', 0], ['sky', 'fire', 1]]","['sky', 'fire', 1]",more used by adults,more used by children,Other,Own
+2955,198,10,children,"[['fire', 'sand', 1], ['grass', 'water', 1]]","['grass', 'water', 1]",more used by adults,equal,Other,Own
+1406,94,10,children,"[['dust', 'energy', 0], ['rain', 'algae', 0]]","['rain', 'algae', 0]",more used by adults,equal,Other,Own
+2638,176,13,children,"[['earth', 'earthquake', 1], ['sky', 'fire', 1]]","['sky', 'fire', 1]",more used by adults,more used by children,Other,Own
+2649,177,7,children,"[['water', 'grass', 1], ['garden', 'grass', 0]]","['water', 'grass', 1]",more used by adults,more used by children,Other,Own
+1404,94,10,children,"[['sea', 'fire', 1], ['water', 'grass', 1]]","['water', 'grass', 1]",more used by adults,more used by children,Other,Own
+1399,94,10,children,"[['dust', 'fire', 1], ['air', 'sea', 0]]","['air', 'sea', 0]",more used by adults,more used by children,Other,Own
+1397,94,10,children,"[['wind', 'dust', 0], ['stone', 'fire', 1]]","['wind', 'dust', 0]",more used by adults,equal,Other,Own
+1396,94,10,children,"[['pressure', 'steam', 0], ['sea', 'steam', 0]]","['pressure', 'steam', 0]",more used by adults,equal,Other,Own
+424,29,10,children,"[['grass', 'water', 1], ['dust', 'energy', 0]]","['grass', 'water', 1]",more used by adults,equal,Other,Own
+1400,94,10,children,"[['air', 'cloud', 1], ['electricity', 'energy', 0]]","['electricity', 'energy', 0]",more used by adults,equal,Other,Own
+2650,177,7,children,"[['sea', 'steam', 0], ['wind', 'dust', 0]]","['wind', 'dust', 0]",more used by adults,equal,Other,Own
+2949,197,39,adults,"[['air', 'sea', 0], ['sea', 'fire', 1]]","['air', 'sea', 0]",more used by adults,more used by children,Own,Other
+43,3,8,children,"[['metal', 'electricity', 1], ['steam', 'pressure', 0]]","['steam', 'pressure', 0]",more used by adults,equal,Other,Own
+1323,89,10,children,"[['steam', 'volcano', 0], ['water', 'stone', 0]]","['water', 'stone', 0]",more used by adults,more used by children,Other,Own
+1322,89,10,children,"[['water', 'earthquake', 0], ['algae', 'rain', 0]]","['algae', 'rain', 0]",more used by adults,equal,Other,Own
+1320,89,10,children,"[['grass', 'plant', 1], ['rain', 'earth', 1]]","['rain', 'earth', 1]",more used by adults,more used by children,Other,Own
+2665,178,8,children,"[['wire', 'electricity', 0], ['stone', 'water', 0]]","['stone', 'water', 0]",more used by adults,equal,Other,Own
+2270,152,7,children,"[['sky', 'fire', 1], ['grass', 'plant', 1]]","['sky', 'fire', 1]",more used by adults,more used by children,Other,Own
+2363,158,11,children,"[['energy', 'earthquake', 0], ['plant', 'fire', 1]]","['plant', 'fire', 1]",more used by adults,more used by children,Other,Own
+465,32,48,adults,"[['obsidian', 'energy', 0], ['rain', 'algae', 0]]","['rain', 'algae', 0]",more used by adults,more used by children,Own,Other
+1309,88,9,children,"[['air', 'lava', 1], ['lava', 'rain', 0]]","['air', 'lava', 1]",more used by adults,equal,Other,Own
+42,3,8,children,"[['fire', 'sky', 1], ['rain', 'lava', 0]]","['fire', 'sky', 1]",more used by adults,equal,Other,Own
+1411,95,11,children,"[['dust', 'air', 0], ['grass', 'garden', 0]]","['dust', 'air', 0]",more used by adults,more used by children,Other,Own
+1332,89,10,children,"[['dust', 'air', 0], ['metal', 'electricity', 1]]","['dust', 'air', 0]",more used by adults,equal,Other,Own
+2948,197,39,adults,"[['rain', 'earth', 1], ['lava', 'energy', 0]]","['rain', 'earth', 1]",more used by adults,more used by children,Own,Other
+2947,197,39,adults,"[['grass', 'garden', 0], ['air', 'dust', 0]]","['air', 'dust', 0]",more used by adults,more used by children,Own,Other
+456,31,8,children,"[['wind', 'dust', 0], ['garden', 'grass', 0]]","['wind', 'dust', 0]",more used by adults,more used by children,Other,Own
+1340,90,12,children,"[['brick', 'steam', 0], ['energy', 'electricity', 0]]","['energy', 'electricity', 0]",more used by adults,more used by children,Other,Own
+2941,197,39,adults,"[['air', 'lava', 1], ['water', 'sand', 1]]","['air', 'lava', 1]",more used by adults,more used by children,Own,Other
+455,31,8,children,"[['fire', 'sea', 1], ['air', 'lava', 1]]","['air', 'lava', 1]",more used by adults,more used by children,Other,Own
+1341,90,12,children,"[['steam', 'sea', 0], ['dust', 'air', 0]]","['dust', 'air', 0]",more used by adults,equal,Other,Own
+2636,176,13,children,"[['grass', 'garden', 0], ['steam', 'pressure', 0]]","['steam', 'pressure', 0]",more used by adults,more used by children,Other,Own
+389,26,9,children,"[['hurricane', 'mud', 0], ['fire', 'dust', 1]]","['hurricane', 'mud', 0]",more used by adults,more used by children,Other,Own
+1463,98,13,children,"[['gunpowder', 'earth', 0], ['fire', 'plant', 1]]","['fire', 'plant', 1]",more used by adults,more used by children,Other,Own
+387,26,9,children,"[['gunpowder', 'dust', 0], ['lava', 'air', 1]]","['lava', 'air', 1]",more used by adults,more used by children,Other,Own
+1466,98,13,children,"[['rain', 'fire', 0], ['sea', 'steam', 0]]","['rain', 'fire', 0]",more used by adults,equal,Other,Own
+386,26,9,children,"[['fire', 'ocean', 1], ['steam', 'volcano', 0]]","['fire', 'ocean', 1]",more used by adults,more used by children,Other,Own
+1468,98,13,children,"[['earth', 'steam', 1], ['dust', 'fire', 1]]","['earth', 'steam', 1]",more used by adults,more used by children,Other,Own
+2965,198,10,children,"[['plant', 'fire', 1], ['pressure', 'lava', 1]]","['plant', 'fire', 1]",more used by adults,equal,Other,Own
+383,26,9,children,"[['mud', 'rain', 0], ['city', 'energy', 0]]","['mud', 'rain', 0]",more used by adults,equal,Other,Own
+2618,175,18,adults,"[['gunpowder', 'earth', 0], ['rain', 'mud', 0]]","['rain', 'mud', 0]",more used by adults,more used by children,Own,Other
+1477,99,9,children,"[['water', 'stone', 0], ['water', 'lava', 1]]","['water', 'stone', 0]",more used by adults,equal,Other,Own
+1484,99,9,children,"[['sea', 'air', 0], ['air', 'cloud', 1]]","['sea', 'air', 0]",more used by adults,equal,Other,Own
+2603,174,11,children,"[['pressure', 'steam', 0], ['cloud', 'water', 1]]","['pressure', 'steam', 0]",more used by adults,more used by children,Other,Own
+359,24,9,children,"[['city', 'energy', 0], ['water', 'grass', 1]]","['water', 'grass', 1]",more used by adults,equal,Other,Own
+1511,101,6,children,"[['metal', 'electricity', 1], ['rain', 'algae', 0]]","['rain', 'algae', 0]",more used by adults,equal,Other,Own
+362,25,10,children,"[['electricity', 'wire', 0], ['dust', 'air', 0]]","['dust', 'air', 0]",more used by adults,equal,Other,Own
+2976,199,25,adults,"[['hurricane', 'mud', 0], ['gunpowder', 'dust', 0]]","['hurricane', 'mud', 0]",more used by adults,more used by children,Own,Other
+1506,101,6,children,"[['water', 'garden', 1], ['electricity', 'wire', 0]]","['water', 'garden', 1]",more used by adults,equal,Other,Own
+1461,98,13,children,"[['energy', 'electricity', 0], ['grass', 'mud', 1]]","['energy', 'electricity', 0]",more used by adults,more used by children,Other,Own
+1502,101,6,children,"[['obsidian', 'geyser', 0], ['earth', 'steam', 1]]","['earth', 'steam', 1]",more used by adults,more used by children,Other,Own
+1498,100,21,adults,"[['energy', 'electricity', 0], ['fire', 'sea', 1]]","['energy', 'electricity', 0]",more used by adults,more used by children,Own,Other
+2610,175,18,adults,"[['ocean', 'fire', 1], ['mud', 'grass', 1]]","['ocean', 'fire', 1]",more used by adults,more used by children,Own,Other
+1493,100,21,adults,"[['fire', 'sky', 1], ['lava', 'obsidian', 0]]","['fire', 'sky', 1]",more used by adults,more used by children,Own,Other
+1457,98,13,children,"[['grass', 'garden', 0], ['dust', 'wind', 0]]","['dust', 'wind', 0]",more used by adults,more used by children,Other,Own
+404,27,8,children,"[['water', 'stone', 0], ['fire', 'sea', 1]]","['water', 'stone', 0]",more used by adults,more used by children,Other,Own
+1431,96,10,children,"[['air', 'cloud', 1], ['energy', 'electricity', 0]]","['energy', 'electricity', 0]",more used by adults,equal,Other,Own
+2960,198,10,children,"[['rain', 'mud', 0], ['electricity', 'metal', 1]]","['rain', 'mud', 0]",more used by adults,equal,Other,Own
+1425,96,10,children,"[['water', 'stone', 0], ['water', 'cloud', 1]]","['water', 'stone', 0]",more used by adults,more used by children,Other,Own
+1434,96,10,children,"[['lava', 'water', 1], ['air', 'dust', 0]]","['air', 'dust', 0]",more used by adults,equal,Other,Own
+1421,95,11,children,"[['sand', 'water', 1], ['steam', 'pressure', 0]]","['steam', 'pressure', 0]",more used by adults,more used by children,Other,Own
+1420,95,11,children,"[['sea', 'air', 0], ['water', 'plant', 1]]","['sea', 'air', 0]",more used by adults,equal,Other,Own
+2101,141,6,children,"[['energy', 'obsidian', 0], ['hurricane', 'mud', 0]]","['hurricane', 'mud', 0]",more used by adults,more used by children,Other,Own
+2961,198,10,children,"[['sea', 'air', 0], ['sea', 'steam', 0]]","['sea', 'air', 0]",more used by adults,equal,Other,Own
+392,27,8,children,"[['obsidian', 'lava', 0], ['wind', 'dust', 0]]","['wind', 'dust', 0]",more used by adults,more used by children,Other,Own
+2963,198,10,children,"[['energy', 'volcano', 1], ['earth', 'rain', 1]]","['earth', 'rain', 1]",more used by adults,more used by children,Other,Own
+394,27,8,children,"[['garden', 'water', 1], ['air', 'sand', 0]]","['garden', 'water', 1]",more used by adults,equal,Other,Own
+395,27,8,children,"[['rain', 'mud', 0], ['sea', 'water', 1]]","['rain', 'mud', 0]",more used by adults,more used by children,Other,Own
+1448,97,13,children,"[['lava', 'rain', 0], ['fire', 'ocean', 1]]","['fire', 'ocean', 1]",more used by adults,equal,Other,Own
+2212,148,21,adults,"[['energy', 'obsidian', 0], ['plant', 'fire', 1]]","['plant', 'fire', 1]",more used by adults,more used by children,Own,Other
+1445,97,13,children,"[['energy', 'obsidian', 0], ['water', 'stone', 0]]","['water', 'stone', 0]",more used by adults,more used by children,Other,Own
+1443,97,13,children,"[['air', 'sea', 0], ['stone', 'fire', 1]]","['air', 'sea', 0]",more used by adults,equal,Other,Own
+1440,97,13,children,"[['algae', 'rain', 0], ['sand', 'water', 1]]","['algae', 'rain', 0]",more used by adults,more used by children,Other,Own
+2628,176,13,children,"[['grass', 'plant', 1], ['water', 'garden', 1]]","['water', 'garden', 1]",more used by adults,more used by children,Other,Own
+2670,179,7,children,"[['plant', 'grass', 1], ['electricity', 'energy', 0]]","['electricity', 'energy', 0]",more used by adults,more used by children,Other,Own
+518,35,8,children,"[['air', 'sand', 0], ['garden', 'water', 1]]","['garden', 'water', 1]",more used by adults,equal,Other,Own
+1196,80,10,children,"[['water', 'garden', 1], ['sand', 'fire', 1]]","['water', 'garden', 1]",more used by adults,equal,Other,Own
+2708,181,10,children,"[['water', 'plant', 1], ['pressure', 'steam', 0]]","['pressure', 'steam', 0]",more used by adults,equal,Other,Own
+3082,206,9,children,"[['earth', 'rain', 1], ['volcano', 'steam', 0]]","['earth', 'rain', 1]",more used by adults,more used by children,Other,Own
+1201,81,9,children,"[['obsidian', 'energy', 0], ['plant', 'fire', 1]]","['plant', 'fire', 1]",more used by adults,more used by children,Other,Own
+2703,181,10,children,"[['grass', 'garden', 0], ['algae', 'rain', 0]]","['algae', 'rain', 0]",more used by adults,more used by children,Other,Own
+1209,81,9,children,"[['earthquake', 'energy', 0], ['sky', 'earth', 1]]","['sky', 'earth', 1]",more used by adults,more used by children,Other,Own
+1210,81,9,children,"[['air', 'cloud', 1], ['mud', 'rain', 0]]","['mud', 'rain', 0]",more used by adults,equal,Other,Own
+2361,158,11,children,"[['water', 'sea', 1], ['algae', 'rain', 0]]","['algae', 'rain', 0]",more used by adults,more used by children,Other,Own
+510,35,8,children,"[['earth', 'sky', 1], ['garden', 'grass', 0]]","['earth', 'sky', 1]",more used by adults,more used by children,Other,Own
+508,34,9,children,"[['energy', 'volcano', 1], ['fire', 'plant', 1]]","['fire', 'plant', 1]",more used by adults,more used by children,Other,Own
+506,34,9,children,"[['water', 'grass', 1], ['steam', 'volcano', 0]]","['water', 'grass', 1]",more used by adults,more used by children,Other,Own
+505,34,9,children,"[['earth', 'rain', 1], ['dust', 'gunpowder', 0]]","['earth', 'rain', 1]",more used by adults,more used by children,Other,Own
+503,34,9,children,"[['mountain', 'fire', 1], ['garden', 'water', 1]]","['garden', 'water', 1]",more used by adults,equal,Other,Own
+2250,151,25,adults,"[['mud', 'hurricane', 0], ['brick', 'steam', 0]]","['mud', 'hurricane', 0]",more used by adults,more used by children,Own,Other
+1187,80,10,children,"[['steam', 'pressure', 0], ['energy', 'earthquake', 0]]","['steam', 'pressure', 0]",more used by adults,more used by children,Other,Own
+2713,181,10,children,"[['sea', 'air', 0], ['fire', 'mountain', 1]]","['sea', 'air', 0]",more used by adults,equal,Other,Own
+1184,79,5,children,"[['grass', 'water', 1], ['water', 'cloud', 1]]","['grass', 'water', 1]",more used by adults,more used by children,Other,Own
+2727,182,8,children,"[['plant', 'earth', 1], ['rain', 'fire', 0]]","['rain', 'fire', 0]",more used by adults,equal,Other,Own
+540,37,9,children,"[['fire', 'mountain', 1], ['fire', 'rain', 0]]","['fire', 'rain', 0]",more used by adults,equal,Other,Own
+1142,77,20,adults,"[['geyser', 'obsidian', 0], ['algae', 'rain', 0]]","['algae', 'rain', 0]",more used by adults,more used by children,Own,Other
+538,36,8,children,"[['dust', 'gunpowder', 0], ['energy', 'air', 1]]","['energy', 'air', 1]",more used by adults,more used by children,Other,Own
+1147,77,20,adults,"[['rain', 'earth', 1], ['plant', 'grass', 1]]","['rain', 'earth', 1]",more used by adults,more used by children,Own,Other
+2268,152,7,children,"[['cloud', 'air', 1], ['air', 'lava', 1]]","['air', 'lava', 1]",more used by adults,equal,Other,Own
+531,36,8,children,"[['volcano', 'energy', 1], ['mud', 'hurricane', 0]]","['mud', 'hurricane', 0]",more used by adults,more used by children,Other,Own
+2909,194,42,adults,"[['energy', 'electricity', 0], ['plant', 'grass', 1]]","['energy', 'electricity', 0]",more used by adults,more used by children,Own,Other
+1172,79,5,children,"[['water', 'stone', 0], ['lava', 'pressure', 1]]","['water', 'stone', 0]",more used by adults,equal,Other,Own
+524,35,8,children,"[['hurricane', 'mud', 0], ['earth', 'plant', 1]]","['hurricane', 'mud', 0]",more used by adults,equal,Other,Own
+1174,79,5,children,"[['lava', 'rain', 0], ['air', 'sea', 0]]","['air', 'sea', 0]",more used by adults,equal,Other,Own
+1176,79,5,children,"[['obsidian', 'lava', 0], ['electricity', 'energy', 0]]","['electricity', 'energy', 0]",more used by adults,more used by children,Other,Own
+2715,182,8,children,"[['earth', 'steam', 1], ['steam', 'volcano', 0]]","['earth', 'steam', 1]",more used by adults,more used by children,Other,Own
+2714,181,10,children,"[['earth', 'sky', 1], ['air', 'cloud', 1]]","['earth', 'sky', 1]",more used by adults,equal,Other,Own
+1182,79,5,children,"[['fire', 'rain', 0], ['fire', 'dust', 1]]","['fire', 'rain', 0]",more used by adults,more used by children,Other,Own
+1185,80,10,children,"[['brick', 'steam', 0], ['sky', 'fire', 1]]","['sky', 'fire', 1]",more used by adults,more used by children,Other,Own
+2102,141,6,children,"[['dust', 'energy', 0], ['dust', 'air', 0]]","['dust', 'air', 0]",more used by adults,equal,Other,Own
+2931,196,5,children,"[['earthquake', 'water', 0], ['stone', 'water', 0]]","['stone', 'water', 0]",more used by adults,equal,Other,Own
+1269,85,9,children,"[['cloud', 'earth', 1], ['rain', 'algae', 0]]","['rain', 'algae', 0]",more used by adults,equal,Other,Own
+1270,85,9,children,"[['earth', 'steam', 1], ['energy', 'dust', 0]]","['earth', 'steam', 1]",more used by adults,equal,Other,Own
+1271,85,9,children,"[['energy', 'air', 1], ['fire', 'wind', 0]]","['energy', 'air', 1]",more used by adults,equal,Other,Own
+2936,196,5,children,"[['city', 'energy', 0], ['energy', 'electricity', 0]]","['energy', 'electricity', 0]",more used by adults,equal,Other,Own
+1297,87,13,children,"[['lava', 'rain', 0], ['garden', 'water', 1]]","['garden', 'water', 1]",more used by adults,equal,Other,Own
+2682,179,7,children,"[['pressure', 'steam', 0], ['plant', 'energy', 0]]","['pressure', 'steam', 0]",more used by adults,equal,Other,Own
+38,3,8,children,"[['sea', 'water', 1], ['steam', 'earth', 1]]","['steam', 'earth', 1]",more used by adults,more used by children,Other,Own
+480,33,5,children,"[['rain', 'mud', 0], ['grass', 'plant', 1]]","['rain', 'mud', 0]",more used by adults,more used by children,Other,Own
+1280,86,7,children,"[['water', 'stone', 0], ['plant', 'water', 1]]","['water', 'stone', 0]",more used by adults,equal,Other,Own
+39,3,8,children,"[['metal', 'fire', 0], ['energy', 'air', 1]]","['energy', 'air', 1]",more used by adults,equal,Other,Own
+41,3,8,children,"[['electricity', 'wire', 0], ['grass', 'water', 1]]","['grass', 'water', 1]",more used by adults,equal,Other,Own
+1287,86,7,children,"[['grass', 'plant', 1], ['steam', 'earth', 1]]","['steam', 'earth', 1]",more used by adults,more used by children,Other,Own
+1290,87,13,children,"[['energy', 'earthquake', 0], ['dust', 'wind', 0]]","['dust', 'wind', 0]",more used by adults,more used by children,Other,Own
+2929,196,5,children,"[['grass', 'mud', 1], ['pressure', 'steam', 0]]","['pressure', 'steam', 0]",more used by adults,more used by children,Other,Own
+1232,83,21,adults,"[['rain', 'mud', 0], ['earthquake', 'earth', 1]]","['rain', 'mud', 0]",more used by adults,more used by children,Own,Other
+1235,83,21,adults,"[['mud', 'hurricane', 0], ['brick', 'steam', 0]]","['mud', 'hurricane', 0]",more used by adults,more used by children,Own,Other
+2691,180,9,children,"[['energy', 'electricity', 0], ['dust', 'gunpowder', 0]]","['energy', 'electricity', 0]",more used by adults,more used by children,Other,Own
+467,32,48,adults,"[['garden', 'water', 1], ['plant', 'grass', 1]]","['garden', 'water', 1]",more used by adults,more used by children,Own,Other
+1245,84,34,adults,"[['water', 'sea', 1], ['mud', 'hurricane', 0]]","['mud', 'hurricane', 0]",more used by adults,more used by children,Own,Other
+2354,157,5,children,"[['lava', 'pressure', 1], ['fire', 'plant', 1]]","['fire', 'plant', 1]",more used by adults,equal,Other,Own
+1300,87,13,children,"[['energy', 'electricity', 0], ['grass', 'garden', 0]]","['energy', 'electricity', 0]",more used by adults,more used by children,Other,Own
+1253,84,34,adults,"[['rain', 'earth', 1], ['geyser', 'obsidian', 0]]","['rain', 'earth', 1]",more used by adults,more used by children,Own,Other
+1251,84,34,adults,"[['obsidian', 'lava', 0], ['garden', 'water', 1]]","['garden', 'water', 1]",more used by adults,more used by children,Own,Other
+2395,160,9,children,"[['obsidian', 'geyser', 0], ['fire', 'plant', 1]]","['obsidian', 'geyser', 0]",more used by children,more used by adults,Own,Other
+3065,205,7,children,"[['air', 'lava', 1], ['gunpowder', 'dust', 0]]","['gunpowder', 'dust', 0]",more used by children,more used by adults,Own,Other
+2393,160,9,children,"[['energy', 'lava', 0], ['rain', 'fire', 0]]","['energy', 'lava', 0]",more used by children,more used by adults,Own,Other
+2362,158,11,children,"[['fire', 'sky', 1], ['fire', 'dust', 1]]","['fire', 'dust', 1]",more used by children,more used by adults,Own,Other
+3087,206,9,children,"[['cloud', 'energy', 1], ['energy', 'air', 1]]","['cloud', 'energy', 1]",more used by children,more used by adults,Own,Other
+2352,157,5,children,"[['volcano', 'energy', 1], ['hurricane', 'mud', 0]]","['volcano', 'energy', 1]",more used by children,more used by adults,Own,Other
+2332,156,12,children,"[['grass', 'plant', 1], ['rain', 'mud', 0]]","['grass', 'plant', 1]",more used by children,more used by adults,Own,Other
+2330,156,12,children,"[['dust', 'air', 0], ['sea', 'fire', 1]]","['sea', 'fire', 1]",more used by children,more used by adults,Own,Other
+2388,160,9,children,"[['steam', 'pressure', 0], ['sea', 'fire', 1]]","['sea', 'fire', 1]",more used by children,more used by adults,Own,Other
+2406,161,9,children,"[['fire', 'ocean', 1], ['sand', 'water', 1]]","['sand', 'water', 1]",more used by children,more used by adults,Own,Other
+3080,206,9,children,"[['rain', 'algae', 0], ['water', 'cloud', 1]]","['water', 'cloud', 1]",more used by children,more used by adults,Own,Other
+3063,205,7,children,"[['ocean', 'fire', 1], ['obsidian', 'lava', 0]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Own,Other
+2351,157,5,children,"[['earthquake', 'energy', 0], ['pressure', 'steam', 0]]","['earthquake', 'energy', 0]",more used by children,more used by adults,Own,Other
+2400,161,9,children,"[['water', 'garden', 1], ['lava', 'obsidian', 0]]","['lava', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+2397,160,9,children,"[['energy', 'cloud', 1], ['air', 'energy', 1]]","['energy', 'cloud', 1]",more used by children,more used by adults,Own,Other
+2379,159,8,children,"[['fire', 'rain', 0], ['gunpowder', 'earth', 0]]","['gunpowder', 'earth', 0]",more used by children,more used by adults,Own,Other
+2350,157,5,children,"[['energy', 'lava', 0], ['earth', 'sky', 1]]","['energy', 'lava', 0]",more used by children,more used by adults,Own,Other
+2392,160,9,children,"[['plant', 'grass', 1], ['sea', 'air', 0]]","['plant', 'grass', 1]",more used by children,more used by adults,Own,Other
+2348,157,5,children,"[['dust', 'air', 0], ['energy', 'cloud', 1]]","['energy', 'cloud', 1]",more used by children,more used by adults,Own,Other
+2688,180,9,children,"[['fire', 'sky', 1], ['obsidian', 'energy', 0]]","['obsidian', 'energy', 0]",more used by children,more used by adults,Own,Other
+2925,196,5,children,"[['steam', 'earth', 1], ['cloud', 'water', 1]]","['cloud', 'water', 1]",more used by children,more used by adults,Own,Other
+2693,180,9,children,"[['energy', 'air', 1], ['volcano', 'energy', 1]]","['volcano', 'energy', 1]",more used by children,more used by adults,Own,Other
+2922,195,25,adults,"[['sea', 'water', 1], ['air', 'sea', 0]]","['sea', 'water', 1]",more used by children,more used by adults,Other,Own
+2695,180,9,children,"[['hurricane', 'mud', 0], ['earth', 'gunpowder', 0]]","['earth', 'gunpowder', 0]",more used by children,more used by adults,Own,Other
+2920,195,25,adults,"[['water', 'grass', 1], ['cloud', 'water', 1]]","['cloud', 'water', 1]",more used by children,more used by adults,Other,Own
+2701,181,10,children,"[['earth', 'earthquake', 1], ['rain', 'mud', 0]]","['earth', 'earthquake', 1]",more used by children,more used by adults,Own,Other
+2706,181,10,children,"[['earth', 'rain', 1], ['energy', 'obsidian', 0]]","['energy', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+2707,181,10,children,"[['hurricane', 'mud', 0], ['obsidian', 'geyser', 0]]","['obsidian', 'geyser', 0]",more used by children,more used by adults,Own,Other
+2710,181,10,children,"[['stone', 'water', 0], ['energy', 'volcano', 1]]","['energy', 'volcano', 1]",more used by children,more used by adults,Own,Other
+2711,181,10,children,"[['fire', 'rain', 0], ['fire', 'sea', 1]]","['fire', 'sea', 1]",more used by children,more used by adults,Own,Other
+2712,181,10,children,"[['plant', 'fire', 1], ['volcano', 'steam', 0]]","['volcano', 'steam', 0]",more used by children,more used by adults,Own,Other
+2717,182,8,children,"[['energy', 'electricity', 0], ['obsidian', 'lava', 0]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Own,Other
+2724,182,8,children,"[['stone', 'water', 0], ['volcano', 'energy', 1]]","['volcano', 'energy', 1]",more used by children,more used by adults,Own,Other
+2950,197,39,adults,"[['fire', 'sky', 1], ['earth', 'earthquake', 1]]","['earth', 'earthquake', 1]",more used by children,more used by adults,Other,Own
+2946,197,39,adults,"[['fire', 'dust', 1], ['earth', 'steam', 1]]","['fire', 'dust', 1]",more used by children,more used by adults,Other,Own
+2944,197,39,adults,"[['energy', 'volcano', 1], ['sand', 'air', 0]]","['energy', 'volcano', 1]",more used by children,equal,Other,Own
+2943,197,39,adults,"[['steam', 'volcano', 0], ['air', 'cloud', 1]]","['steam', 'volcano', 0]",more used by children,equal,Other,Own
+2668,178,8,children,"[['ocean', 'fire', 1], ['energy', 'earthquake', 0]]","['energy', 'earthquake', 0]",more used by children,more used by adults,Own,Other
+2678,179,7,children,"[['dust', 'air', 0], ['obsidian', 'geyser', 0]]","['obsidian', 'geyser', 0]",more used by children,more used by adults,Own,Other
+2679,179,7,children,"[['obsidian', 'lava', 0], ['lava', 'air', 1]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Own,Other
+2667,178,8,children,"[['pressure', 'steam', 0], ['volcano', 'steam', 0]]","['volcano', 'steam', 0]",more used by children,more used by adults,Own,Other
+2731,183,33,adults,"[['energy', 'plant', 0], ['energy', 'obsidian', 0]]","['energy', 'obsidian', 0]",more used by children,equal,Other,Own
+2800,187,51,adults,"[['electricity', 'metal', 1], ['earth', 'earthquake', 1]]","['earth', 'earthquake', 1]",more used by children,equal,Other,Own
+2871,192,10,children,"[['obsidian', 'energy', 0], ['earth', 'rain', 1]]","['obsidian', 'energy', 0]",more used by children,more used by adults,Own,Other
+2870,192,10,children,"[['water', 'sand', 1], ['stone', 'water', 0]]","['water', 'sand', 1]",more used by children,more used by adults,Own,Other
+2810,188,7,children,"[['energy', 'lava', 0], ['air', 'energy', 1]]","['energy', 'lava', 0]",more used by children,more used by adults,Own,Other
+2792,187,51,adults,"[['obsidian', 'energy', 0], ['steam', 'earth', 1]]","['obsidian', 'energy', 0]",more used by children,more used by adults,Other,Own
+2816,188,7,children,"[['water', 'stone', 0], ['energy', 'obsidian', 0]]","['energy', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+2819,188,7,children,"[['steam', 'brick', 0], ['algae', 'rain', 0]]","['steam', 'brick', 0]",more used by children,more used by adults,Own,Other
+2835,190,9,children,"[['pressure', 'steam', 0], ['water', 'sand', 1]]","['water', 'sand', 1]",more used by children,more used by adults,Own,Other
+2840,190,9,children,"[['lava', 'air', 1], ['cloud', 'water', 1]]","['cloud', 'water', 1]",more used by children,more used by adults,Own,Other
+2848,190,9,children,"[['volcano', 'steam', 0], ['plant', 'fire', 1]]","['volcano', 'steam', 0]",more used by children,more used by adults,Own,Other
+2865,192,10,children,"[['fire', 'dust', 1], ['mud', 'rain', 0]]","['fire', 'dust', 1]",more used by children,more used by adults,Own,Other
+2790,187,51,adults,"[['dust', 'gunpowder', 0], ['cloud', 'earth', 1]]","['dust', 'gunpowder', 0]",more used by children,equal,Other,Own
+2901,194,42,adults,"[['earthquake', 'earth', 1], ['earthquake', 'water', 0]]","['earthquake', 'earth', 1]",more used by children,equal,Other,Own
+2740,183,33,adults,"[['earth', 'sky', 1], ['plant', 'grass', 1]]","['plant', 'grass', 1]",more used by children,more used by adults,Other,Own
+2747,184,49,adults,"[['energy', 'plant', 0], ['volcano', 'steam', 0]]","['volcano', 'steam', 0]",more used by children,equal,Other,Own
+2748,184,49,adults,"[['earthquake', 'energy', 0], ['algae', 'rain', 0]]","['earthquake', 'energy', 0]",more used by children,more used by adults,Other,Own
+2750,184,49,adults,"[['earth', 'earthquake', 1], ['energy', 'dust', 0]]","['earth', 'earthquake', 1]",more used by children,equal,Other,Own
+2751,184,49,adults,"[['plant', 'grass', 1], ['rain', 'lava', 0]]","['plant', 'grass', 1]",more used by children,equal,Other,Own
+2755,184,49,adults,"[['energy', 'city', 0], ['sea', 'water', 1]]","['sea', 'water', 1]",more used by children,equal,Other,Own
+2757,184,49,adults,"[['ocean', 'fire', 1], ['grass', 'garden', 0]]","['grass', 'garden', 0]",more used by children,more used by adults,Other,Own
+2759,184,49,adults,"[['cloud', 'water', 1], ['mud', 'rain', 0]]","['cloud', 'water', 1]",more used by children,more used by adults,Other,Own
+2890,193,10,children,"[['rain', 'mud', 0], ['volcano', 'energy', 1]]","['volcano', 'energy', 1]",more used by children,more used by adults,Own,Other
+2767,185,43,adults,"[['garden', 'grass', 0], ['metal', 'electricity', 1]]","['garden', 'grass', 0]",more used by children,equal,Other,Own
+2769,185,43,adults,"[['stone', 'water', 0], ['sea', 'fire', 1]]","['sea', 'fire', 1]",more used by children,more used by adults,Other,Own
+2781,186,7,children,"[['wind', 'dust', 0], ['grass', 'garden', 0]]","['grass', 'garden', 0]",more used by children,more used by adults,Own,Other
+2786,186,7,children,"[['pressure', 'steam', 0], ['energy', 'cloud', 1]]","['energy', 'cloud', 1]",more used by children,more used by adults,Own,Other
+2956,198,10,children,"[['rain', 'algae', 0], ['obsidian', 'energy', 0]]","['obsidian', 'energy', 0]",more used by children,more used by adults,Own,Other
+2475,166,10,children,"[['air', 'sea', 0], ['earth', 'earthquake', 1]]","['earth', 'earthquake', 1]",more used by children,more used by adults,Own,Other
+2481,166,10,children,"[['energy', 'electricity', 0], ['water', 'sand', 1]]","['water', 'sand', 1]",more used by children,more used by adults,Own,Other
+2494,167,6,children,"[['garden', 'water', 1], ['energy', 'volcano', 1]]","['energy', 'volcano', 1]",more used by children,more used by adults,Own,Other
+3026,202,9,children,"[['sea', 'fire', 1], ['grass', 'water', 1]]","['sea', 'fire', 1]",more used by children,more used by adults,Own,Other
+2508,168,8,children,"[['rain', 'algae', 0], ['sea', 'water', 1]]","['sea', 'water', 1]",more used by children,more used by adults,Own,Other
+2487,166,10,children,"[['water', 'stone', 0], ['plant', 'grass', 1]]","['plant', 'grass', 1]",more used by children,more used by adults,Own,Other
+2418,162,8,children,"[['sky', 'earth', 1], ['sand', 'water', 1]]","['sand', 'water', 1]",more used by children,more used by adults,Own,Other
+3055,204,7,children,"[['earth', 'steam', 1], ['dust', 'gunpowder', 0]]","['dust', 'gunpowder', 0]",more used by children,more used by adults,Own,Other
+2427,162,8,children,"[['algae', 'rain', 0], ['mud', 'grass', 1]]","['mud', 'grass', 1]",more used by children,more used by adults,Own,Other
+2438,163,11,children,"[['fire', 'ocean', 1], ['obsidian', 'energy', 0]]","['obsidian', 'energy', 0]",more used by children,more used by adults,Own,Other
+3054,204,7,children,"[['lava', 'energy', 0], ['water', 'stone', 0]]","['lava', 'energy', 0]",more used by children,more used by adults,Own,Other
+3053,204,7,children,"[['air', 'dust', 0], ['volcano', 'steam', 0]]","['volcano', 'steam', 0]",more used by children,more used by adults,Own,Other
+2446,164,10,children,"[['obsidian', 'lava', 0], ['ocean', 'fire', 1]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Own,Other
+2412,161,9,children,"[['fire', 'plant', 1], ['steam', 'volcano', 0]]","['steam', 'volcano', 0]",more used by children,more used by adults,Own,Other
+3021,202,9,children,"[['air', 'lava', 1], ['sand', 'water', 1]]","['sand', 'water', 1]",more used by children,more used by adults,Own,Other
+2986,200,26,adults,"[['sea', 'fire', 1], ['lava', 'air', 1]]","['sea', 'fire', 1]",more used by children,more used by adults,Other,Own
+2590,173,51,adults,"[['dust', 'gunpowder', 0], ['plant', 'fire', 1]]","['dust', 'gunpowder', 0]",more used by children,more used by adults,Other,Own
+2985,200,26,adults,"[['mud', 'hurricane', 0], ['obsidian', 'geyser', 0]]","['obsidian', 'geyser', 0]",more used by children,more used by adults,Other,Own
+2593,173,51,adults,"[['sand', 'water', 1], ['fire', 'rain', 0]]","['sand', 'water', 1]",more used by children,more used by adults,Other,Own
+2979,199,25,adults,"[['energy', 'cloud', 1], ['sand', 'fire', 1]]","['energy', 'cloud', 1]",more used by children,equal,Other,Own
+2971,199,25,adults,"[['earthquake', 'energy', 0], ['garden', 'water', 1]]","['earthquake', 'energy', 0]",more used by children,more used by adults,Other,Own
+2614,175,18,adults,"[['garden', 'water', 1], ['obsidian', 'lava', 0]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Other,Own
+2615,175,18,adults,"[['earthquake', 'energy', 0], ['earth', 'rain', 1]]","['earthquake', 'energy', 0]",more used by children,more used by adults,Other,Own
+2616,175,18,adults,"[['energy', 'volcano', 1], ['air', 'energy', 1]]","['energy', 'volcano', 1]",more used by children,more used by adults,Other,Own
+2619,175,18,adults,"[['plant', 'fire', 1], ['energy', 'lava', 0]]","['energy', 'lava', 0]",more used by children,more used by adults,Other,Own
+2629,176,13,children,"[['air', 'energy', 1], ['volcano', 'energy', 1]]","['volcano', 'energy', 1]",more used by children,more used by adults,Own,Other
+2978,199,25,adults,"[['electricity', 'wire', 0], ['geyser', 'obsidian', 0]]","['geyser', 'obsidian', 0]",more used by children,equal,Other,Own
+2577,172,53,adults,"[['lava', 'obsidian', 0], ['fire', 'stone', 1]]","['lava', 'obsidian', 0]",more used by children,equal,Other,Own
+2995,200,26,adults,"[['fire', 'ocean', 1], ['garden', 'grass', 0]]","['garden', 'grass', 0]",more used by children,more used by adults,Other,Own
+2532,169,11,children,"[['fire', 'sea', 1], ['water', 'stone', 0]]","['fire', 'sea', 1]",more used by children,more used by adults,Own,Other
+2538,170,35,adults,"[['energy', 'dust', 0], ['water', 'sea', 1]]","['water', 'sea', 1]",more used by children,equal,Other,Own
+2994,200,26,adults,"[['energy', 'lava', 0], ['steam', 'pressure', 0]]","['energy', 'lava', 0]",more used by children,more used by adults,Other,Own
+2550,171,10,children,"[['energy', 'lava', 0], ['wind', 'dust', 0]]","['energy', 'lava', 0]",more used by children,more used by adults,Own,Other
+3002,201,9,children,"[['earth', 'gunpowder', 0], ['water', 'grass', 1]]","['earth', 'gunpowder', 0]",more used by children,more used by adults,Own,Other
+2998,200,26,adults,"[['energy', 'obsidian', 0], ['fire', 'plant', 1]]","['energy', 'obsidian', 0]",more used by children,more used by adults,Other,Own
+2983,199,25,adults,"[['plant', 'energy', 0], ['steam', 'volcano', 0]]","['steam', 'volcano', 0]",more used by children,equal,Other,Own
+0,1,11,children,"[['energy', 'volcano', 1], ['sky', 'earth', 1]]","['energy', 'volcano', 1]",more used by children,more used by adults,Own,Other
+783,53,24,adults,"[['dust', 'wind', 0], ['water', 'cloud', 1]]","['water', 'cloud', 1]",more used by children,more used by adults,Other,Own
+769,52,40,adults,"[['plant', 'grass', 1], ['water', 'earthquake', 0]]","['plant', 'grass', 1]",more used by children,equal,Other,Own
+762,51,6,children,"[['dust', 'wind', 0], ['gunpowder', 'earth', 0]]","['gunpowder', 'earth', 0]",more used by children,more used by adults,Own,Other
+753,51,6,children,"[['volcano', 'energy', 1], ['water', 'stone', 0]]","['volcano', 'energy', 1]",more used by children,more used by adults,Own,Other
+752,51,6,children,"[['air', 'lava', 1], ['sea', 'water', 1]]","['sea', 'water', 1]",more used by children,more used by adults,Own,Other
+751,51,6,children,"[['earth', 'earthquake', 1], ['steam', 'earth', 1]]","['earth', 'earthquake', 1]",more used by children,more used by adults,Own,Other
+748,50,31,adults,"[['water', 'lava', 1], ['mud', 'grass', 1]]","['mud', 'grass', 1]",more used by children,equal,Other,Own
+746,50,31,adults,"[['water', 'grass', 1], ['fire', 'sea', 1]]","['fire', 'sea', 1]",more used by children,more used by adults,Other,Own
+745,50,31,adults,"[['water', 'sand', 1], ['air', 'lava', 1]]","['water', 'sand', 1]",more used by children,more used by adults,Other,Own
+742,50,31,adults,"[['rain', 'fire', 0], ['obsidian', 'geyser', 0]]","['obsidian', 'geyser', 0]",more used by children,more used by adults,Other,Own
+786,53,24,adults,"[['metal', 'electricity', 1], ['steam', 'brick', 0]]","['steam', 'brick', 0]",more used by children,equal,Other,Own
+789,53,24,adults,"[['grass', 'plant', 1], ['energy', 'air', 1]]","['grass', 'plant', 1]",more used by children,more used by adults,Other,Own
+865,58,7,children,"[['ocean', 'fire', 1], ['dust', 'gunpowder', 0]]","['dust', 'gunpowder', 0]",more used by children,more used by adults,Own,Other
+852,57,12,children,"[['garden', 'water', 1], ['obsidian', 'geyser', 0]]","['obsidian', 'geyser', 0]",more used by children,more used by adults,Own,Other
+850,57,12,children,"[['energy', 'lava', 0], ['air', 'sea', 0]]","['energy', 'lava', 0]",more used by children,more used by adults,Own,Other
+849,57,12,children,"[['dust', 'wind', 0], ['dust', 'fire', 1]]","['dust', 'fire', 1]",more used by children,more used by adults,Own,Other
+842,57,12,children,"[['rain', 'algae', 0], ['brick', 'steam', 0]]","['brick', 'steam', 0]",more used by children,more used by adults,Own,Other
+728,49,35,adults,"[['electricity', 'energy', 0], ['fire', 'dust', 1]]","['fire', 'dust', 1]",more used by children,more used by adults,Other,Own
+836,56,11,children,"[['energy', 'volcano', 1], ['air', 'sea', 0]]","['energy', 'volcano', 1]",more used by children,more used by adults,Own,Other
+826,56,11,children,"[['dust', 'fire', 1], ['pressure', 'steam', 0]]","['dust', 'fire', 1]",more used by children,more used by adults,Own,Other
+816,55,9,children,"[['water', 'cloud', 1], ['steam', 'pressure', 0]]","['water', 'cloud', 1]",more used by children,more used by adults,Own,Other
+812,55,9,children,"[['gunpowder', 'dust', 0], ['fire', 'rain', 0]]","['gunpowder', 'dust', 0]",more used by children,more used by adults,Own,Other
+727,49,35,adults,"[['stone', 'water', 0], ['energy', 'obsidian', 0]]","['energy', 'obsidian', 0]",more used by children,more used by adults,Other,Own
+722,49,35,adults,"[['obsidian', 'lava', 0], ['mud', 'rain', 0]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Other,Own
+721,49,35,adults,"[['hurricane', 'mud', 0], ['earth', 'earthquake', 1]]","['earth', 'earthquake', 1]",more used by children,more used by adults,Other,Own
+632,43,19,adults,"[['sea', 'fire', 1], ['dust', 'air', 0]]","['sea', 'fire', 1]",more used by children,more used by adults,Other,Own
+624,42,7,children,"[['air', 'sea', 0], ['energy', 'cloud', 1]]","['energy', 'cloud', 1]",more used by children,more used by adults,Own,Other
+619,42,7,children,"[['earth', 'steam', 1], ['grass', 'mud', 1]]","['grass', 'mud', 1]",more used by children,more used by adults,Own,Other
+606,41,26,adults,"[['air', 'dust', 0], ['plant', 'grass', 1]]","['plant', 'grass', 1]",more used by children,more used by adults,Other,Own
+584,39,24,adults,"[['wind', 'dust', 0], ['water', 'sand', 1]]","['water', 'sand', 1]",more used by children,more used by adults,Other,Own
+580,39,24,adults,"[['sea', 'fire', 1], ['sea', 'air', 0]]","['sea', 'fire', 1]",more used by children,more used by adults,Other,Own
+611,41,26,adults,"[['fire', 'sand', 1], ['cloud', 'water', 1]]","['cloud', 'water', 1]",more used by children,equal,Other,Own
+640,43,19,adults,"[['gunpowder', 'dust', 0], ['earthquake', 'water', 0]]","['gunpowder', 'dust', 0]",more used by children,equal,Other,Own
+649,44,38,adults,"[['earth', 'plant', 1], ['brick', 'steam', 0]]","['brick', 'steam', 0]",more used by children,equal,Other,Own
+719,48,45,adults,"[['mud', 'hurricane', 0], ['garden', 'grass', 0]]","['garden', 'grass', 0]",more used by children,more used by adults,Other,Own
+712,48,45,adults,"[['energy', 'earthquake', 0], ['sky', 'earth', 1]]","['energy', 'earthquake', 0]",more used by children,more used by adults,Other,Own
+710,48,45,adults,"[['air', 'lava', 1], ['energy', 'cloud', 1]]","['energy', 'cloud', 1]",more used by children,more used by adults,Other,Own
+697,47,25,adults,"[['stone', 'water', 0], ['gunpowder', 'dust', 0]]","['gunpowder', 'dust', 0]",more used by children,more used by adults,Other,Own
+695,47,25,adults,"[['energy', 'plant', 0], ['sea', 'fire', 1]]","['sea', 'fire', 1]",more used by children,equal,Other,Own
+693,47,25,adults,"[['lava', 'air', 1], ['plant', 'grass', 1]]","['plant', 'grass', 1]",more used by children,more used by adults,Other,Own
+687,46,25,adults,"[['brick', 'steam', 0], ['rain', 'mud', 0]]","['brick', 'steam', 0]",more used by children,more used by adults,Other,Own
+643,43,19,adults,"[['earthquake', 'energy', 0], ['steam', 'sea', 0]]","['earthquake', 'energy', 0]",more used by children,equal,Other,Own
+686,46,25,adults,"[['earth', 'gunpowder', 0], ['air', 'sand', 0]]","['earth', 'gunpowder', 0]",more used by children,equal,Other,Own
+683,46,25,adults,"[['fire', 'wind', 0], ['volcano', 'steam', 0]]","['volcano', 'steam', 0]",more used by children,equal,Other,Own
+682,46,25,adults,"[['water', 'cloud', 1], ['earthquake', 'water', 0]]","['water', 'cloud', 1]",more used by children,equal,Other,Own
+681,46,25,adults,"[['earth', 'cloud', 1], ['dust', 'gunpowder', 0]]","['dust', 'gunpowder', 0]",more used by children,equal,Other,Own
+679,46,25,adults,"[['fire', 'mountain', 1], ['energy', 'cloud', 1]]","['energy', 'cloud', 1]",more used by children,equal,Other,Own
+676,46,25,adults,"[['algae', 'rain', 0], ['lava', 'energy', 0]]","['lava', 'energy', 0]",more used by children,more used by adults,Other,Own
+672,45,30,adults,"[['lava', 'rain', 0], ['energy', 'cloud', 1]]","['energy', 'cloud', 1]",more used by children,equal,Other,Own
+663,45,30,adults,"[['fire', 'plant', 1], ['plant', 'grass', 1]]","['plant', 'grass', 1]",more used by children,more used by adults,Other,Own
+651,44,38,adults,"[['obsidian', 'lava', 0], ['sky', 'earth', 1]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Other,Own
+685,46,25,adults,"[['plant', 'earth', 1], ['lava', 'obsidian', 0]]","['lava', 'obsidian', 0]",more used by children,equal,Other,Own
+872,59,9,children,"[['fire', 'ocean', 1], ['cloud', 'water', 1]]","['cloud', 'water', 1]",more used by children,more used by adults,Own,Other
+877,59,9,children,"[['dust', 'wind', 0], ['energy', 'obsidian', 0]]","['energy', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+1120,75,11,children,"[['air', 'sea', 0], ['obsidian', 'lava', 0]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Own,Other
+1110,75,11,children,"[['grass', 'mud', 1], ['dust', 'wind', 0]]","['grass', 'mud', 1]",more used by children,more used by adults,Own,Other
+1108,74,42,adults,"[['hurricane', 'mud', 0], ['fire', 'dust', 1]]","['fire', 'dust', 1]",more used by children,more used by adults,Other,Own
+1103,74,42,adults,"[['volcano', 'steam', 0], ['fire', 'ocean', 1]]","['volcano', 'steam', 0]",more used by children,more used by adults,Other,Own
+1091,73,9,children,"[['air', 'dust', 0], ['earthquake', 'earth', 1]]","['earthquake', 'earth', 1]",more used by children,more used by adults,Own,Other
+1079,72,9,children,"[['fire', 'ocean', 1], ['earthquake', 'earth', 1]]","['earthquake', 'earth', 1]",more used by children,more used by adults,Own,Other
+1078,72,9,children,"[['sky', 'earth', 1], ['volcano', 'energy', 1]]","['volcano', 'energy', 1]",more used by children,more used by adults,Own,Other
+1060,71,43,adults,"[['cloud', 'energy', 1], ['rain', 'algae', 0]]","['cloud', 'energy', 1]",more used by children,more used by adults,Other,Own
+1088,73,9,children,"[['grass', 'water', 1], ['lava', 'obsidian', 0]]","['lava', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+1059,71,43,adults,"[['rain', 'mud', 0], ['sand', 'water', 1]]","['sand', 'water', 1]",more used by children,more used by adults,Other,Own
+1127,76,57,adults,"[['dust', 'energy', 0], ['energy', 'obsidian', 0]]","['energy', 'obsidian', 0]",more used by children,equal,Other,Own
+1194,80,10,children,"[['gunpowder', 'earth', 0], ['steam', 'earth', 1]]","['gunpowder', 'earth', 0]",more used by children,more used by adults,Own,Other
+1177,79,5,children,"[['obsidian', 'energy', 0], ['earth', 'rain', 1]]","['obsidian', 'energy', 0]",more used by children,more used by adults,Own,Other
+1125,76,57,adults,"[['steam', 'pressure', 0], ['lava', 'energy', 0]]","['lava', 'energy', 0]",more used by children,more used by adults,Other,Own
+1151,77,20,adults,"[['fire', 'sea', 1], ['energy', 'air', 1]]","['fire', 'sea', 1]",more used by children,more used by adults,Other,Own
+1149,77,20,adults,"[['sand', 'water', 1], ['air', 'dust', 0]]","['sand', 'water', 1]",more used by children,more used by adults,Other,Own
+1139,76,57,adults,"[['energy', 'electricity', 0], ['energy', 'earthquake', 0]]","['energy', 'earthquake', 0]",more used by children,more used by adults,Other,Own
+1135,76,57,adults,"[['energy', 'volcano', 1], ['metal', 'electricity', 1]]","['energy', 'volcano', 1]",more used by children,equal,Other,Own
+1130,76,57,adults,"[['sand', 'air', 0], ['water', 'sand', 1]]","['water', 'sand', 1]",more used by children,equal,Other,Own
+1161,78,24,adults,"[['grass', 'plant', 1], ['water', 'earthquake', 0]]","['grass', 'plant', 1]",more used by children,equal,Other,Own
+570,39,24,adults,"[['obsidian', 'geyser', 0], ['water', 'garden', 1]]","['obsidian', 'geyser', 0]",more used by children,more used by adults,Other,Own
+1058,71,43,adults,"[['fire', 'stone', 1], ['energy', 'volcano', 1]]","['energy', 'volcano', 1]",more used by children,equal,Other,Own
+1052,71,43,adults,"[['grass', 'plant', 1], ['energy', 'plant', 0]]","['grass', 'plant', 1]",more used by children,equal,Other,Own
+979,66,8,children,"[['earthquake', 'earth', 1], ['sky', 'fire', 1]]","['earthquake', 'earth', 1]",more used by children,more used by adults,Own,Other
+967,65,11,children,"[['fire', 'rain', 0], ['lava', 'obsidian', 0]]","['lava', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+960,65,11,children,"[['volcano', 'energy', 1], ['stone', 'water', 0]]","['volcano', 'energy', 1]",more used by children,more used by adults,Own,Other
+950,64,35,adults,"[['grass', 'mud', 1], ['ocean', 'fire', 1]]","['grass', 'mud', 1]",more used by children,more used by adults,Other,Own
+944,63,11,children,"[['gunpowder', 'dust', 0], ['dust', 'air', 0]]","['gunpowder', 'dust', 0]",more used by children,more used by adults,Own,Other
+934,63,11,children,"[['energy', 'obsidian', 0], ['stone', 'water', 0]]","['energy', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+913,61,38,adults,"[['cloud', 'water', 1], ['water', 'lava', 1]]","['cloud', 'water', 1]",more used by children,equal,Other,Own
+903,61,38,adults,"[['earthquake', 'energy', 0], ['dust', 'air', 0]]","['earthquake', 'energy', 0]",more used by children,more used by adults,Other,Own
+891,60,8,children,"[['plant', 'fire', 1], ['obsidian', 'geyser', 0]]","['obsidian', 'geyser', 0]",more used by children,more used by adults,Own,Other
+887,60,8,children,"[['ocean', 'fire', 1], ['water', 'sand', 1]]","['water', 'sand', 1]",more used by children,more used by adults,Own,Other
+1057,71,43,adults,"[['energy', 'earthquake', 0], ['sea', 'steam', 0]]","['energy', 'earthquake', 0]",more used by children,equal,Other,Own
+995,67,10,children,"[['steam', 'volcano', 0], ['wind', 'dust', 0]]","['steam', 'volcano', 0]",more used by children,more used by adults,Own,Other
+1039,70,37,adults,"[['lava', 'obsidian', 0], ['grass', 'water', 1]]","['lava', 'obsidian', 0]",more used by children,more used by adults,Other,Own
+1033,69,61,adults,"[['garden', 'grass', 0], ['wire', 'electricity', 0]]","['garden', 'grass', 0]",more used by children,equal,Other,Own
+1029,69,61,adults,"[['obsidian', 'lava', 0], ['stone', 'water', 0]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Other,Own
+1027,69,61,adults,"[['earthquake', 'earth', 1], ['steam', 'pressure', 0]]","['earthquake', 'earth', 1]",more used by children,more used by adults,Other,Own
+1024,69,61,adults,"[['water', 'grass', 1], ['sea', 'fire', 1]]","['sea', 'fire', 1]",more used by children,more used by adults,Other,Own
+1023,69,61,adults,"[['rain', 'mud', 0], ['water', 'sea', 1]]","['water', 'sea', 1]",more used by children,more used by adults,Other,Own
+991,67,10,children,"[['obsidian', 'lava', 0], ['algae', 'rain', 0]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Own,Other
+1011,68,8,children,"[['water', 'cloud', 1], ['sky', 'fire', 1]]","['water', 'cloud', 1]",more used by children,more used by adults,Own,Other
+1009,68,8,children,"[['rain', 'fire', 0], ['obsidian', 'geyser', 0]]","['obsidian', 'geyser', 0]",more used by children,more used by adults,Own,Other
+1003,67,10,children,"[['fire', 'rain', 0], ['gunpowder', 'dust', 0]]","['gunpowder', 'dust', 0]",more used by children,more used by adults,Own,Other
+996,67,10,children,"[['energy', 'earthquake', 0], ['fire', 'sky', 1]]","['energy', 'earthquake', 0]",more used by children,more used by adults,Own,Other
+1019,68,8,children,"[['mud', 'hurricane', 0], ['water', 'sea', 1]]","['water', 'sea', 1]",more used by children,more used by adults,Own,Other
+567,38,34,adults,"[['cloud', 'energy', 1], ['electricity', 'wire', 0]]","['cloud', 'energy', 1]",more used by children,equal,Other,Own
+557,38,34,adults,"[['water', 'cloud', 1], ['energy', 'electricity', 0]]","['water', 'cloud', 1]",more used by children,more used by adults,Other,Own
+230,16,6,children,"[['grass', 'water', 1], ['fire', 'dust', 1]]","['fire', 'dust', 1]",more used by children,more used by adults,Own,Other
+228,16,6,children,"[['sky', 'earth', 1], ['energy', 'earthquake', 0]]","['energy', 'earthquake', 0]",more used by children,more used by adults,Own,Other
+221,15,9,children,"[['rain', 'mud', 0], ['steam', 'volcano', 0]]","['steam', 'volcano', 0]",more used by children,more used by adults,Own,Other
+220,15,9,children,"[['dust', 'air', 0], ['water', 'cloud', 1]]","['water', 'cloud', 1]",more used by children,more used by adults,Own,Other
+189,13,22,adults,"[['energy', 'obsidian', 0], ['hurricane', 'mud', 0]]","['energy', 'obsidian', 0]",more used by children,more used by adults,Other,Own
+188,13,22,adults,"[['energy', 'lava', 0], ['fire', 'mountain', 1]]","['energy', 'lava', 0]",more used by children,equal,Other,Own
+184,13,22,adults,"[['fire', 'dust', 1], ['fire', 'plant', 1]]","['fire', 'dust', 1]",more used by children,more used by adults,Other,Own
+182,13,22,adults,"[['mud', 'rain', 0], ['geyser', 'obsidian', 0]]","['geyser', 'obsidian', 0]",more used by children,more used by adults,Other,Own
+169,12,8,children,"[['wind', 'dust', 0], ['sand', 'water', 1]]","['sand', 'water', 1]",more used by children,more used by adults,Own,Other
+161,11,8,children,"[['stone', 'water', 0], ['energy', 'cloud', 1]]","['energy', 'cloud', 1]",more used by children,more used by adults,Own,Other
+159,11,8,children,"[['obsidian', 'geyser', 0], ['fire', 'plant', 1]]","['obsidian', 'geyser', 0]",more used by children,more used by adults,Own,Other
+234,16,6,children,"[['steam', 'brick', 0], ['energy', 'electricity', 0]]","['steam', 'brick', 0]",more used by children,more used by adults,Own,Other
+239,16,6,children,"[['energy', 'obsidian', 0], ['lava', 'air', 1]]","['energy', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+291,20,9,children,"[['gunpowder', 'earth', 0], ['dust', 'air', 0]]","['gunpowder', 'earth', 0]",more used by children,more used by adults,Own,Other
+290,20,9,children,"[['garden', 'water', 1], ['energy', 'volcano', 1]]","['energy', 'volcano', 1]",more used by children,more used by adults,Own,Other
+287,20,9,children,"[['rain', 'fire', 0], ['obsidian', 'energy', 0]]","['obsidian', 'energy', 0]",more used by children,more used by adults,Own,Other
+270,19,8,children,"[['water', 'sea', 1], ['earth', 'rain', 1]]","['water', 'sea', 1]",more used by children,more used by adults,Own,Other
+256,18,8,children,"[['gunpowder', 'dust', 0], ['fire', 'rain', 0]]","['gunpowder', 'dust', 0]",more used by children,more used by adults,Own,Other
+255,18,8,children,"[['plant', 'fire', 1], ['dust', 'fire', 1]]","['dust', 'fire', 1]",more used by children,more used by adults,Own,Other
+247,17,28,adults,"[['earth', 'plant', 1], ['obsidian', 'energy', 0]]","['obsidian', 'energy', 0]",more used by children,equal,Other,Own
+245,17,28,adults,"[['energy', 'air', 1], ['cloud', 'water', 1]]","['cloud', 'water', 1]",more used by children,more used by adults,Other,Own
+242,17,28,adults,"[['city', 'energy', 0], ['obsidian', 'geyser', 0]]","['obsidian', 'geyser', 0]",more used by children,equal,Other,Own
+241,17,28,adults,"[['earth', 'gunpowder', 0], ['cloud', 'earth', 1]]","['earth', 'gunpowder', 0]",more used by children,equal,Other,Own
+240,17,28,adults,"[['energy', 'cloud', 1], ['sea', 'steam', 0]]","['energy', 'cloud', 1]",more used by children,equal,Other,Own
+154,11,8,children,"[['energy', 'obsidian', 0], ['dust', 'wind', 0]]","['energy', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+66,5,10,children,"[['air', 'sea', 0], ['lava', 'energy', 0]]","['lava', 'energy', 0]",more used by children,more used by adults,Own,Other
+64,5,10,children,"[['lava', 'obsidian', 0], ['steam', 'earth', 1]]","['lava', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+46,4,9,children,"[['energy', 'cloud', 1], ['mud', 'hurricane', 0]]","['energy', 'cloud', 1]",more used by children,more used by adults,Own,Other
+36,3,8,children,"[['algae', 'rain', 0], ['dust', 'fire', 1]]","['dust', 'fire', 1]",more used by children,more used by adults,Own,Other
+29,2,42,adults,"[['lava', 'pressure', 1], ['lava', 'energy', 0]]","['lava', 'energy', 0]",more used by children,equal,Other,Own
+28,2,42,adults,"[['steam', 'brick', 0], ['electricity', 'energy', 0]]","['steam', 'brick', 0]",more used by children,more used by adults,Other,Own
+26,2,42,adults,"[['electricity', 'wire', 0], ['sea', 'water', 1]]","['sea', 'water', 1]",more used by children,equal,Other,Own
+8,1,11,children,"[['energy', 'obsidian', 0], ['steam', 'pressure', 0]]","['energy', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+295,20,9,children,"[['grass', 'garden', 0], ['stone', 'water', 0]]","['grass', 'garden', 0]",more used by children,more used by adults,Own,Other
+146,10,6,children,"[['steam', 'earth', 1], ['lava', 'energy', 0]]","['lava', 'energy', 0]",more used by children,more used by adults,Own,Other
+139,10,6,children,"[['sea', 'water', 1], ['rain', 'earth', 1]]","['sea', 'water', 1]",more used by children,more used by adults,Own,Other
+116,8,11,children,"[['rain', 'algae', 0], ['obsidian', 'energy', 0]]","['obsidian', 'energy', 0]",more used by children,more used by adults,Own,Other
+103,7,21,adults,"[['water', 'cloud', 1], ['sky', 'fire', 1]]","['water', 'cloud', 1]",more used by children,more used by adults,Other,Own
+97,7,21,adults,"[['energy', 'earthquake', 0], ['rain', 'algae', 0]]","['energy', 'earthquake', 0]",more used by children,more used by adults,Other,Own
+122,9,7,children,"[['volcano', 'energy', 1], ['energy', 'electricity', 0]]","['volcano', 'energy', 1]",more used by children,more used by adults,Own,Other
+306,21,8,children,"[['earth', 'steam', 1], ['energy', 'earthquake', 0]]","['energy', 'earthquake', 0]",more used by children,more used by adults,Own,Other
+490,33,5,children,"[['energy', 'obsidian', 0], ['steam', 'earth', 1]]","['energy', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+487,33,5,children,"[['fire', 'sky', 1], ['energy', 'cloud', 1]]","['energy', 'cloud', 1]",more used by children,more used by adults,Own,Other
+483,33,5,children,"[['sky', 'earth', 1], ['earthquake', 'energy', 0]]","['earthquake', 'energy', 0]",more used by children,more used by adults,Own,Other
+477,32,48,adults,"[['dust', 'gunpowder', 0], ['fire', 'plant', 1]]","['dust', 'gunpowder', 0]",more used by children,more used by adults,Other,Own
+471,32,48,adults,"[['lava', 'obsidian', 0], ['sky', 'fire', 1]]","['lava', 'obsidian', 0]",more used by children,more used by adults,Other,Own
+469,32,48,adults,"[['garden', 'grass', 0], ['fire', 'rain', 0]]","['garden', 'grass', 0]",more used by children,more used by adults,Other,Own
+464,31,8,children,"[['steam', 'volcano', 0], ['water', 'grass', 1]]","['steam', 'volcano', 0]",more used by children,more used by adults,Own,Other
+444,30,9,children,"[['wind', 'dust', 0], ['water', 'sea', 1]]","['water', 'sea', 1]",more used by children,more used by adults,Own,Other
+536,36,8,children,"[['water', 'sand', 1], ['sea', 'air', 0]]","['water', 'sand', 1]",more used by children,more used by adults,Own,Other
+530,36,8,children,"[['water', 'stone', 0], ['energy', 'obsidian', 0]]","['energy', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+529,36,8,children,"[['fire', 'dust', 1], ['fire', 'plant', 1]]","['fire', 'dust', 1]",more used by children,more used by adults,Own,Other
+522,35,8,children,"[['energy', 'earthquake', 0], ['water', 'stone', 0]]","['energy', 'earthquake', 0]",more used by children,more used by adults,Own,Other
+515,35,8,children,"[['fire', 'ocean', 1], ['volcano', 'energy', 1]]","['volcano', 'energy', 1]",more used by children,more used by adults,Own,Other
+442,30,9,children,"[['energy', 'earthquake', 0], ['plant', 'fire', 1]]","['energy', 'earthquake', 0]",more used by children,more used by adults,Own,Other
+366,25,10,children,"[['obsidian', 'energy', 0], ['fire', 'rain', 0]]","['obsidian', 'energy', 0]",more used by children,more used by adults,Own,Other
+363,25,10,children,"[['sea', 'air', 0], ['sand', 'water', 1]]","['sand', 'water', 1]",more used by children,more used by adults,Own,Other
+336,23,9,children,"[['garden', 'water', 1], ['geyser', 'obsidian', 0]]","['geyser', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+330,23,9,children,"[['gunpowder', 'earth', 0], ['wind', 'dust', 0]]","['gunpowder', 'earth', 0]",more used by children,more used by adults,Own,Other
+315,22,20,adults,"[['lava', 'energy', 0], ['fire', 'wind', 0]]","['lava', 'energy', 0]",more used by children,equal,Other,Own
+310,21,8,children,"[['gunpowder', 'dust', 0], ['sky', 'fire', 1]]","['gunpowder', 'dust', 0]",more used by children,more used by adults,Own,Other
+441,30,9,children,"[['water', 'stone', 0], ['dust', 'fire', 1]]","['dust', 'fire', 1]",more used by children,more used by adults,Own,Other
+428,29,10,children,"[['garden', 'water', 1], ['energy', 'obsidian', 0]]","['energy', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+427,29,10,children,"[['gunpowder', 'dust', 0], ['fire', 'rain', 0]]","['gunpowder', 'dust', 0]",more used by children,more used by adults,Own,Other
+420,29,10,children,"[['water', 'stone', 0], ['energy', 'cloud', 1]]","['energy', 'cloud', 1]",more used by children,more used by adults,Own,Other
+416,28,60,adults,"[['fire', 'wind', 0], ['fire', 'sea', 1]]","['fire', 'sea', 1]",more used by children,equal,Other,Own
+374,25,10,children,"[['energy', 'lava', 0], ['stone', 'water', 0]]","['energy', 'lava', 0]",more used by children,more used by adults,Own,Other
+413,28,60,adults,"[['fire', 'stone', 1], ['sand', 'water', 1]]","['sand', 'water', 1]",more used by children,equal,Other,Own
+406,28,60,adults,"[['energy', 'lava', 0], ['rain', 'earth', 1]]","['energy', 'lava', 0]",more used by children,more used by adults,Other,Own
+403,27,8,children,"[['energy', 'lava', 0], ['fire', 'sky', 1]]","['energy', 'lava', 0]",more used by children,more used by adults,Own,Other
+382,26,9,children,"[['grass', 'plant', 1], ['wind', 'dust', 0]]","['grass', 'plant', 1]",more used by children,more used by adults,Own,Other
+381,26,9,children,"[['rain', 'fire', 0], ['earthquake', 'earth', 1]]","['earthquake', 'earth', 1]",more used by children,more used by adults,Own,Other
+379,26,9,children,"[['energy', 'volcano', 1], ['dust', 'air', 0]]","['energy', 'volcano', 1]",more used by children,more used by adults,Own,Other
+2326,156,12,children,"[['pressure', 'steam', 0], ['earthquake', 'energy', 0]]","['earthquake', 'energy', 0]",more used by children,more used by adults,Own,Other
+1199,80,10,children,"[['geyser', 'obsidian', 0], ['water', 'stone', 0]]","['geyser', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+1204,81,9,children,"[['mud', 'hurricane', 0], ['water', 'sea', 1]]","['water', 'sea', 1]",more used by children,more used by adults,Own,Other
+2001,134,11,children,"[['air', 'sea', 0], ['sea', 'fire', 1]]","['sea', 'fire', 1]",more used by children,more used by adults,Own,Other
+1990,133,50,adults,"[['earthquake', 'energy', 0], ['sky', 'earth', 1]]","['earthquake', 'energy', 0]",more used by children,more used by adults,Other,Own
+1983,133,50,adults,"[['fire', 'sea', 1], ['earthquake', 'water', 0]]","['fire', 'sea', 1]",more used by children,equal,Other,Own
+1982,133,50,adults,"[['earth', 'cloud', 1], ['water', 'sea', 1]]","['water', 'sea', 1]",more used by children,equal,Other,Own
+1981,133,50,adults,"[['energy', 'volcano', 1], ['water', 'stone', 0]]","['energy', 'volcano', 1]",more used by children,more used by adults,Other,Own
+1973,132,10,children,"[['hurricane', 'mud', 0], ['energy', 'earthquake', 0]]","['energy', 'earthquake', 0]",more used by children,more used by adults,Own,Other
+1964,131,12,children,"[['ocean', 'fire', 1], ['energy', 'earthquake', 0]]","['energy', 'earthquake', 0]",more used by children,more used by adults,Own,Other
+1956,131,12,children,"[['pressure', 'steam', 0], ['cloud', 'water', 1]]","['cloud', 'water', 1]",more used by children,more used by adults,Own,Other
+1955,131,12,children,"[['air', 'energy', 1], ['grass', 'garden', 0]]","['grass', 'garden', 0]",more used by children,more used by adults,Own,Other
+1947,130,33,adults,"[['earthquake', 'earth', 1], ['hurricane', 'mud', 0]]","['earthquake', 'earth', 1]",more used by children,more used by adults,Other,Own
+1944,130,33,adults,"[['energy', 'volcano', 1], ['sky', 'earth', 1]]","['energy', 'volcano', 1]",more used by children,more used by adults,Other,Own
+1942,130,33,adults,"[['energy', 'electricity', 0], ['lava', 'energy', 0]]","['lava', 'energy', 0]",more used by children,more used by adults,Other,Own
+2009,134,11,children,"[['water', 'cloud', 1], ['wind', 'dust', 0]]","['water', 'cloud', 1]",more used by children,more used by adults,Own,Other
+2067,138,10,children,"[['earthquake', 'energy', 0], ['dust', 'air', 0]]","['earthquake', 'energy', 0]",more used by children,more used by adults,Own,Other
+2060,138,10,children,"[['air', 'energy', 1], ['earth', 'earthquake', 1]]","['earth', 'earthquake', 1]",more used by children,more used by adults,Own,Other
+2051,137,10,children,"[['garden', 'grass', 0], ['fire', 'rain', 0]]","['garden', 'grass', 0]",more used by children,more used by adults,Own,Other
+2042,137,10,children,"[['earth', 'rain', 1], ['water', 'sand', 1]]","['water', 'sand', 1]",more used by children,more used by adults,Own,Other
+2029,136,13,children,"[['sky', 'earth', 1], ['garden', 'grass', 0]]","['garden', 'grass', 0]",more used by children,more used by adults,Own,Other
+2022,135,11,children,"[['wind', 'dust', 0], ['obsidian', 'lava', 0]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Own,Other
+2021,135,11,children,"[['earth', 'steam', 1], ['gunpowder', 'earth', 0]]","['gunpowder', 'earth', 0]",more used by children,more used by adults,Own,Other
+2043,137,10,children,"[['fire', 'dust', 1], ['energy', 'air', 1]]","['fire', 'dust', 1]",more used by children,more used by adults,Own,Other
+1938,130,33,adults,"[['sea', 'fire', 1], ['cloud', 'air', 1]]","['sea', 'fire', 1]",more used by children,equal,Other,Own
+1929,129,10,children,"[['sky', 'earth', 1], ['volcano', 'steam', 0]]","['volcano', 'steam', 0]",more used by children,more used by adults,Own,Other
+1841,123,39,adults,"[['mud', 'hurricane', 0], ['lava', 'energy', 0]]","['lava', 'energy', 0]",more used by children,more used by adults,Other,Own
+1840,123,39,adults,"[['sky', 'fire', 1], ['garden', 'grass', 0]]","['garden', 'grass', 0]",more used by children,more used by adults,Other,Own
+1858,124,11,children,"[['energy', 'cloud', 1], ['water', 'stone', 0]]","['energy', 'cloud', 1]",more used by children,more used by adults,Own,Other
+1832,123,39,adults,"[['mountain', 'fire', 1], ['fire', 'sea', 1]]","['fire', 'sea', 1]",more used by children,equal,Other,Own
+1808,121,7,children,"[['garden', 'grass', 0], ['electricity', 'energy', 0]]","['garden', 'grass', 0]",more used by children,more used by adults,Own,Other
+1807,121,7,children,"[['steam', 'earth', 1], ['fire', 'dust', 1]]","['fire', 'dust', 1]",more used by children,more used by adults,Own,Other
+1829,122,12,children,"[['obsidian', 'lava', 0], ['sky', 'fire', 1]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Own,Other
+1922,129,10,children,"[['earth', 'earthquake', 1], ['fire', 'ocean', 1]]","['earth', 'earthquake', 1]",more used by children,more used by adults,Own,Other
+1914,128,21,adults,"[['sand', 'air', 0], ['sea', 'fire', 1]]","['sea', 'fire', 1]",more used by children,equal,Other,Own
+1913,128,21,adults,"[['rain', 'lava', 0], ['fire', 'dust', 1]]","['fire', 'dust', 1]",more used by children,equal,Other,Own
+1910,128,21,adults,"[['grass', 'garden', 0], ['air', 'lava', 1]]","['grass', 'garden', 0]",more used by children,more used by adults,Other,Own
+1905,128,21,adults,"[['mud', 'rain', 0], ['cloud', 'energy', 1]]","['cloud', 'energy', 1]",more used by children,more used by adults,Other,Own
+1900,127,13,children,"[['fire', 'dust', 1], ['sky', 'fire', 1]]","['fire', 'dust', 1]",more used by children,more used by adults,Own,Other
+1893,127,13,children,"[['energy', 'lava', 0], ['water', 'stone', 0]]","['energy', 'lava', 0]",more used by children,more used by adults,Own,Other
+1889,126,11,children,"[['gunpowder', 'earth', 0], ['sky', 'earth', 1]]","['gunpowder', 'earth', 0]",more used by children,more used by adults,Own,Other
+1883,126,11,children,"[['water', 'cloud', 1], ['fire', 'rain', 0]]","['water', 'cloud', 1]",more used by children,more used by adults,Own,Other
+1899,127,13,children,"[['fire', 'ocean', 1], ['lava', 'obsidian', 0]]","['lava', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+2075,139,9,children,"[['sea', 'air', 0], ['energy', 'cloud', 1]]","['energy', 'cloud', 1]",more used by children,more used by adults,Own,Other
+2248,150,6,children,"[['grass', 'water', 1], ['water', 'sand', 1]]","['water', 'sand', 1]",more used by children,more used by adults,Own,Other
+2243,150,6,children,"[['fire', 'plant', 1], ['water', 'cloud', 1]]","['water', 'cloud', 1]",more used by children,more used by adults,Own,Other
+2242,150,6,children,"[['steam', 'earth', 1], ['lava', 'energy', 0]]","['lava', 'energy', 0]",more used by children,more used by adults,Own,Other
+2237,150,6,children,"[['stone', 'water', 0], ['fire', 'sea', 1]]","['fire', 'sea', 1]",more used by children,more used by adults,Own,Other
+2234,149,27,adults,"[['air', 'cloud', 1], ['fire', 'dust', 1]]","['fire', 'dust', 1]",more used by children,equal,Other,Own
+2230,149,27,adults,"[['energy', 'obsidian', 0], ['fire', 'ocean', 1]]","['energy', 'obsidian', 0]",more used by children,more used by adults,Other,Own
+2222,149,27,adults,"[['stone', 'water', 0], ['energy', 'lava', 0]]","['energy', 'lava', 0]",more used by children,more used by adults,Other,Own
+2217,148,21,adults,"[['air', 'dust', 0], ['volcano', 'energy', 1]]","['volcano', 'energy', 1]",more used by children,more used by adults,Other,Own
+2216,148,21,adults,"[['volcano', 'steam', 0], ['earth', 'cloud', 1]]","['volcano', 'steam', 0]",more used by children,equal,Other,Own
+2232,149,27,adults,"[['fire', 'rain', 0], ['plant', 'grass', 1]]","['plant', 'grass', 1]",more used by children,more used by adults,Other,Own
+2214,148,21,adults,"[['energy', 'air', 1], ['garden', 'grass', 0]]","['garden', 'grass', 0]",more used by children,more used by adults,Other,Own
+2264,151,25,adults,"[['air', 'lava', 1], ['geyser', 'obsidian', 0]]","['geyser', 'obsidian', 0]",more used by children,more used by adults,Other,Own
+2320,155,10,children,"[['fire', 'ocean', 1], ['cloud', 'water', 1]]","['cloud', 'water', 1]",more used by children,more used by adults,Own,Other
+2308,154,26,adults,"[['energy', 'volcano', 1], ['dust', 'air', 0]]","['energy', 'volcano', 1]",more used by children,more used by adults,Other,Own
+2302,154,26,adults,"[['algae', 'rain', 0], ['sand', 'water', 1]]","['sand', 'water', 1]",more used by children,more used by adults,Other,Own
+2297,154,26,adults,"[['sea', 'fire', 1], ['water', 'stone', 0]]","['sea', 'fire', 1]",more used by children,more used by adults,Other,Own
+2263,151,25,adults,"[['dust', 'fire', 1], ['earth', 'plant', 1]]","['dust', 'fire', 1]",more used by children,equal,Other,Own
+2294,153,11,children,"[['fire', 'ocean', 1], ['volcano', 'energy', 1]]","['volcano', 'energy', 1]",more used by children,more used by adults,Own,Other
+1797,120,36,adults,"[['energy', 'earthquake', 0], ['dust', 'energy', 0]]","['energy', 'earthquake', 0]",more used by children,equal,Other,Own
+2141,143,7,children,"[['volcano', 'steam', 0], ['fire', 'rain', 0]]","['volcano', 'steam', 0]",more used by children,more used by adults,Own,Other
+2140,143,7,children,"[['water', 'sand', 1], ['ocean', 'fire', 1]]","['water', 'sand', 1]",more used by children,more used by adults,Own,Other
+2117,142,9,children,"[['water', 'cloud', 1], ['energy', 'electricity', 0]]","['water', 'cloud', 1]",more used by children,more used by adults,Own,Other
+2146,144,8,children,"[['sky', 'earth', 1], ['fire', 'sea', 1]]","['fire', 'sea', 1]",more used by children,more used by adults,Own,Other
+2098,140,7,children,"[['plant', 'fire', 1], ['volcano', 'steam', 0]]","['volcano', 'steam', 0]",more used by children,more used by adults,Own,Other
+2096,140,7,children,"[['fire', 'rain', 0], ['dust', 'fire', 1]]","['dust', 'fire', 1]",more used by children,more used by adults,Own,Other
+2095,140,7,children,"[['gunpowder', 'dust', 0], ['energy', 'electricity', 0]]","['gunpowder', 'dust', 0]",more used by children,more used by adults,Own,Other
+2090,140,7,children,"[['earthquake', 'earth', 1], ['fire', 'ocean', 1]]","['earthquake', 'earth', 1]",more used by children,more used by adults,Own,Other
+2206,148,21,adults,"[['rain', 'mud', 0], ['earthquake', 'earth', 1]]","['earthquake', 'earth', 1]",more used by children,more used by adults,Other,Own
+2148,144,8,children,"[['grass', 'water', 1], ['volcano', 'energy', 1]]","['volcano', 'energy', 1]",more used by children,more used by adults,Own,Other
+2152,144,8,children,"[['water', 'sand', 1], ['algae', 'rain', 0]]","['water', 'sand', 1]",more used by children,more used by adults,Own,Other
+2203,147,24,adults,"[['mud', 'hurricane', 0], ['sand', 'water', 1]]","['sand', 'water', 1]",more used by children,more used by adults,Other,Own
+2200,147,24,adults,"[['lava', 'air', 1], ['garden', 'grass', 0]]","['garden', 'grass', 0]",more used by children,more used by adults,Other,Own
+2197,147,24,adults,"[['obsidian', 'lava', 0], ['air', 'sand', 0]]","['obsidian', 'lava', 0]",more used by children,equal,Other,Own
+2196,147,24,adults,"[['dust', 'air', 0], ['sea', 'fire', 1]]","['sea', 'fire', 1]",more used by children,more used by adults,Other,Own
+2186,146,12,children,"[['energy', 'cloud', 1], ['water', 'grass', 1]]","['energy', 'cloud', 1]",more used by children,more used by adults,Own,Other
+2182,146,12,children,"[['steam', 'earth', 1], ['volcano', 'energy', 1]]","['volcano', 'energy', 1]",more used by children,more used by adults,Own,Other
+2151,144,8,children,"[['dust', 'fire', 1], ['energy', 'air', 1]]","['dust', 'fire', 1]",more used by children,more used by adults,Own,Other
+2179,146,12,children,"[['air', 'sea', 0], ['obsidian', 'geyser', 0]]","['obsidian', 'geyser', 0]",more used by children,more used by adults,Own,Other
+2174,145,21,adults,"[['water', 'grass', 1], ['water', 'sand', 1]]","['water', 'sand', 1]",more used by children,more used by adults,Other,Own
+2168,145,21,adults,"[['fire', 'dust', 1], ['metal', 'fire', 0]]","['fire', 'dust', 1]",more used by children,equal,Other,Own
+2167,145,21,adults,"[['energy', 'obsidian', 0], ['air', 'cloud', 1]]","['energy', 'obsidian', 0]",more used by children,equal,Other,Own
+2164,145,21,adults,"[['grass', 'plant', 1], ['wind', 'dust', 0]]","['grass', 'plant', 1]",more used by children,more used by adults,Other,Own
+2162,145,21,adults,"[['plant', 'water', 1], ['gunpowder', 'dust', 0]]","['gunpowder', 'dust', 0]",more used by children,equal,Other,Own
+2159,144,8,children,"[['dust', 'wind', 0], ['energy', 'earthquake', 0]]","['energy', 'earthquake', 0]",more used by children,more used by adults,Own,Other
+2155,144,8,children,"[['lava', 'obsidian', 0], ['water', 'stone', 0]]","['lava', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+1796,120,36,adults,"[['mountain', 'fire', 1], ['energy', 'obsidian', 0]]","['energy', 'obsidian', 0]",more used by children,equal,Other,Own
+1792,120,36,adults,"[['steam', 'sea', 0], ['grass', 'garden', 0]]","['grass', 'garden', 0]",more used by children,equal,Other,Own
+1393,93,9,children,"[['brick', 'steam', 0], ['plant', 'fire', 1]]","['brick', 'steam', 0]",more used by children,more used by adults,Own,Other
+1380,93,9,children,"[['obsidian', 'geyser', 0], ['fire', 'sky', 1]]","['obsidian', 'geyser', 0]",more used by children,more used by adults,Own,Other
+1376,92,7,children,"[['rain', 'mud', 0], ['obsidian', 'lava', 0]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Own,Other
+1366,92,7,children,"[['dust', 'air', 0], ['volcano', 'steam', 0]]","['volcano', 'steam', 0]",more used by children,more used by adults,Own,Other
+1363,91,7,children,"[['garden', 'water', 1], ['volcano', 'energy', 1]]","['volcano', 'energy', 1]",more used by children,more used by adults,Own,Other
+1405,94,10,children,"[['lava', 'energy', 0], ['sky', 'earth', 1]]","['lava', 'energy', 0]",more used by children,more used by adults,Own,Other
+1415,95,11,children,"[['fire', 'plant', 1], ['earth', 'earthquake', 1]]","['earth', 'earthquake', 1]",more used by children,more used by adults,Own,Other
+1478,99,9,children,"[['grass', 'garden', 0], ['pressure', 'steam', 0]]","['grass', 'garden', 0]",more used by children,more used by adults,Own,Other
+1454,97,13,children,"[['cloud', 'energy', 1], ['earth', 'steam', 1]]","['cloud', 'energy', 1]",more used by children,more used by adults,Own,Other
+1438,96,10,children,"[['rain', 'fire', 0], ['brick', 'steam', 0]]","['brick', 'steam', 0]",more used by children,more used by adults,Own,Other
+1436,96,10,children,"[['dust', 'wind', 0], ['earth', 'gunpowder', 0]]","['earth', 'gunpowder', 0]",more used by children,more used by adults,Own,Other
+1416,95,11,children,"[['rain', 'fire', 0], ['fire', 'sea', 1]]","['fire', 'sea', 1]",more used by children,more used by adults,Own,Other
+1339,90,12,children,"[['volcano', 'energy', 1], ['rain', 'fire', 0]]","['volcano', 'energy', 1]",more used by children,more used by adults,Own,Other
+1264,85,9,children,"[['rain', 'mud', 0], ['dust', 'gunpowder', 0]]","['dust', 'gunpowder', 0]",more used by children,more used by adults,Own,Other
+1242,83,21,adults,"[['plant', 'earth', 1], ['lava', 'energy', 0]]","['lava', 'energy', 0]",more used by children,equal,Other,Own
+1241,83,21,adults,"[['dust', 'gunpowder', 0], ['cloud', 'air', 1]]","['dust', 'gunpowder', 0]",more used by children,equal,Other,Own
+1238,83,21,adults,"[['obsidian', 'geyser', 0], ['electricity', 'metal', 1]]","['obsidian', 'geyser', 0]",more used by children,equal,Other,Own
+1233,83,21,adults,"[['earthquake', 'energy', 0], ['fire', 'mountain', 1]]","['earthquake', 'energy', 0]",more used by children,equal,Other,Own
+1224,82,22,adults,"[['energy', 'volcano', 1], ['fire', 'mountain', 1]]","['energy', 'volcano', 1]",more used by children,equal,Other,Own
+1215,82,22,adults,"[['air', 'sea', 0], ['steam', 'volcano', 0]]","['steam', 'volcano', 0]",more used by children,more used by adults,Other,Own
+1213,81,9,children,"[['earth', 'rain', 1], ['gunpowder', 'dust', 0]]","['gunpowder', 'dust', 0]",more used by children,more used by adults,Own,Other
+1211,81,9,children,"[['water', 'sand', 1], ['sea', 'air', 0]]","['water', 'sand', 1]",more used by children,more used by adults,Own,Other
+1223,82,22,adults,"[['steam', 'pressure', 0], ['energy', 'earthquake', 0]]","['energy', 'earthquake', 0]",more used by children,more used by adults,Other,Own
+1482,99,9,children,"[['steam', 'brick', 0], ['fire', 'rain', 0]]","['steam', 'brick', 0]",more used by children,more used by adults,Own,Other
+1267,85,9,children,"[['plant', 'fire', 1], ['geyser', 'obsidian', 0]]","['geyser', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+1274,85,9,children,"[['steam', 'volcano', 0], ['stone', 'water', 0]]","['steam', 'volcano', 0]",more used by children,more used by adults,Own,Other
+1306,88,9,children,"[['earth', 'gunpowder', 0], ['sky', 'earth', 1]]","['earth', 'gunpowder', 0]",more used by children,more used by adults,Own,Other
+1289,86,7,children,"[['earth', 'gunpowder', 0], ['lava', 'air', 1]]","['earth', 'gunpowder', 0]",more used by children,more used by adults,Own,Other
+1285,86,7,children,"[['sea', 'water', 1], ['mud', 'rain', 0]]","['sea', 'water', 1]",more used by children,more used by adults,Own,Other
+1281,86,7,children,"[['steam', 'volcano', 0], ['dust', 'wind', 0]]","['steam', 'volcano', 0]",more used by children,more used by adults,Own,Other
+1487,100,21,adults,"[['air', 'cloud', 1], ['lava', 'energy', 0]]","['lava', 'energy', 0]",more used by children,equal,Other,Own
+1488,100,21,adults,"[['water', 'plant', 1], ['energy', 'cloud', 1]]","['energy', 'cloud', 1]",more used by children,equal,Other,Own
+1689,113,39,adults,"[['electricity', 'metal', 1], ['brick', 'steam', 0]]","['brick', 'steam', 0]",more used by children,equal,Other,Own
+1688,113,39,adults,"[['earth', 'gunpowder', 0], ['rain', 'lava', 0]]","['earth', 'gunpowder', 0]",more used by children,equal,Other,Own
+1685,113,39,adults,"[['fire', 'stone', 1], ['volcano', 'energy', 1]]","['volcano', 'energy', 1]",more used by children,equal,Other,Own
+1684,113,39,adults,"[['ocean', 'fire', 1], ['sea', 'water', 1]]","['sea', 'water', 1]",more used by children,more used by adults,Other,Own
+1681,113,39,adults,"[['energy', 'cloud', 1], ['wind', 'fire', 0]]","['energy', 'cloud', 1]",more used by children,equal,Other,Own
+1671,112,23,adults,"[['earthquake', 'energy', 0], ['electricity', 'wire', 0]]","['earthquake', 'energy', 0]",more used by children,equal,Other,Own
+1661,111,6,children,"[['obsidian', 'geyser', 0], ['earth', 'steam', 1]]","['obsidian', 'geyser', 0]",more used by children,more used by adults,Own,Other
+1655,111,6,children,"[['stone', 'water', 0], ['energy', 'lava', 0]]","['energy', 'lava', 0]",more used by children,more used by adults,Own,Other
+1677,112,23,adults,"[['steam', 'volcano', 0], ['mountain', 'fire', 1]]","['steam', 'volcano', 0]",more used by children,equal,Other,Own
+1650,111,6,children,"[['mud', 'grass', 1], ['fire', 'rain', 0]]","['mud', 'grass', 1]",more used by children,more used by adults,Own,Other
+1789,120,36,adults,"[['dust', 'gunpowder', 0], ['air', 'energy', 1]]","['dust', 'gunpowder', 0]",more used by children,more used by adults,Other,Own
+1780,119,48,adults,"[['rain', 'earth', 1], ['grass', 'plant', 1]]","['grass', 'plant', 1]",more used by children,more used by adults,Other,Own
+1778,119,48,adults,"[['lava', 'water', 1], ['sand', 'water', 1]]","['sand', 'water', 1]",more used by children,equal,Other,Own
+1770,119,48,adults,"[['wire', 'electricity', 0], ['earth', 'earthquake', 1]]","['earth', 'earthquake', 1]",more used by children,equal,Other,Own
+1766,118,23,adults,"[['fire', 'ocean', 1], ['energy', 'cloud', 1]]","['energy', 'cloud', 1]",more used by children,more used by adults,Other,Own
+1763,118,23,adults,"[['steam', 'earth', 1], ['sea', 'fire', 1]]","['sea', 'fire', 1]",more used by children,more used by adults,Other,Own
+1748,117,9,children,"[['energy', 'electricity', 0], ['energy', 'volcano', 1]]","['energy', 'volcano', 1]",more used by children,more used by adults,Own,Other
+1746,117,9,children,"[['lava', 'air', 1], ['obsidian', 'lava', 0]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Own,Other
+1743,117,9,children,"[['water', 'grass', 1], ['volcano', 'steam', 0]]","['volcano', 'steam', 0]",more used by children,more used by adults,Own,Other
+1740,117,9,children,"[['energy', 'cloud', 1], ['stone', 'water', 0]]","['energy', 'cloud', 1]",more used by children,more used by adults,Own,Other
+1739,116,21,adults,"[['fire', 'stone', 1], ['energy', 'cloud', 1]]","['energy', 'cloud', 1]",more used by children,equal,Other,Own
+1734,116,21,adults,"[['energy', 'volcano', 1], ['steam', 'sea', 0]]","['energy', 'volcano', 1]",more used by children,equal,Other,Own
+1731,116,21,adults,"[['earth', 'earthquake', 1], ['steam', 'earth', 1]]","['earth', 'earthquake', 1]",more used by children,more used by adults,Other,Own
+1756,118,23,adults,"[['stone', 'fire', 1], ['volcano', 'energy', 1]]","['volcano', 'energy', 1]",more used by children,equal,Other,Own
+1793,120,36,adults,"[['lava', 'obsidian', 0], ['steam', 'earth', 1]]","['lava', 'obsidian', 0]",more used by children,more used by adults,Other,Own
+1649,110,6,children,"[['fire', 'sea', 1], ['air', 'dust', 0]]","['fire', 'sea', 1]",more used by children,more used by adults,Own,Other
+1549,104,10,children,"[['obsidian', 'geyser', 0], ['plant', 'fire', 1]]","['obsidian', 'geyser', 0]",more used by children,more used by adults,Own,Other
+1515,102,11,children,"[['mud', 'rain', 0], ['lava', 'obsidian', 0]]","['lava', 'obsidian', 0]",more used by children,more used by adults,Own,Other
+1512,101,6,children,"[['sky', 'fire', 1], ['mud', 'grass', 1]]","['mud', 'grass', 1]",more used by children,more used by adults,Own,Other
+1510,101,6,children,"[['earth', 'gunpowder', 0], ['air', 'lava', 1]]","['earth', 'gunpowder', 0]",more used by children,more used by adults,Own,Other
+1495,100,21,adults,"[['energy', 'volcano', 1], ['lava', 'rain', 0]]","['energy', 'volcano', 1]",more used by children,equal,Other,Own
+1646,110,6,children,"[['electricity', 'energy', 0], ['obsidian', 'geyser', 0]]","['obsidian', 'geyser', 0]",more used by children,more used by adults,Own,Other
+1632,109,9,children,"[['electricity', 'energy', 0], ['obsidian', 'lava', 0]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Own,Other
+1627,109,9,children,"[['rain', 'mud', 0], ['energy', 'earthquake', 0]]","['energy', 'earthquake', 0]",more used by children,more used by adults,Own,Other
+1617,108,9,children,"[['electricity', 'energy', 0], ['obsidian', 'lava', 0]]","['obsidian', 'lava', 0]",more used by children,more used by adults,Own,Other
+1612,108,9,children,"[['rain', 'mud', 0], ['energy', 'earthquake', 0]]","['energy', 'earthquake', 0]",more used by children,more used by adults,Own,Other
+1593,107,11,children,"[['water', 'stone', 0], ['sand', 'water', 1]]","['sand', 'water', 1]",more used by children,more used by adults,Own,Other
+1580,106,8,children,"[['energy', 'lava', 0], ['ocean', 'fire', 1]]","['energy', 'lava', 0]",more used by children,more used by adults,Own,Other
+1578,106,8,children,"[['fire', 'sea', 1], ['dust', 'wind', 0]]","['fire', 'sea', 1]",more used by children,more used by adults,Own,Other
+1574,105,24,adults,"[['earth', 'earthquake', 1], ['dust', 'wind', 0]]","['earth', 'earthquake', 1]",more used by children,more used by adults,Other,Own

@@ -1,0 +1,1 @@
+{"collect":[["water","air","rain"],["fire","rain","none"],["earth","fire","lava"],["lava","earth","volcano"],["volcano","lava","none"],["fire","air","energy"],["energy","earth","earthquake"],["earthquake","energy","none"],["fire","earthquake","none"]],"elements":["rain","lava","volcano","energy","earthquake"],"money":"0.90","age":50,"gender":0,"turkid":"30/03/1995"}

@@ -1,0 +1,61 @@
+ID,gender,data nascita,data esecuzione,punti,tester,age,commenti,translation,trials
+LA_A001,F,1996-01-09,2022-06-23,27,Francesca Rita,26,"Si è alzata per aiutare un collega (30 secondi), poi è tornata immediatamente al gioco","She got up to help a colleague (30 seconds), then immediately returned to the game",99
+LA_A002,F,1993-09-25,2022-06-23,12,Francesca Rita,28,Probabile leggero ritardo cognitivo,Likely slight cognitive retardation,17
+LA_A003,F,1985-02-22,2022-06-23,11,Francesca Rita,37,,,16
+LA_A004,F,1990-01-22,2022-06-23,10,Francesca Rita,32,,,18
+LA_A005,M,1990-12-19,2022-06-23,12,Francesca Rita,31,,,52
+LA_A006,F,1988-01-27,2022-06-28,31,Marianna,34,,,182
+LA_A007,F,1993-06-30,2022-07-01,21,Francesca Rita,29,,,113
+LA_A008,F,1972-09-18,2022-07-01,14,Francesca Rita,49,Ha chiuso il gioco autonomamente non inserendo la data di nascita,Closed the game independently by not entering the date of birth,35
+LA_A009,F,1995-03-30,2022-07-01,9,Francesca Rita,27,,,9
+LA_A010,F,1980-07-13,2022-07-01,15,Francesca Rita,41,,,37
+LA_A011,F,1982-04-13,2022-07-01,9,Francesca Rita ,40,Ha interrotto per rispondere ad una chiamata,He interrupted to take a call,25
+LA_A012,F,1985-11-02,2022-07-01,10,Francesca Rita,36,Ha chiuso il gioco autonomamente non inserendo la data di nascita,Closed the game independently by not entering the date of birth,11
+LA_A013,F,2000-09-18,2022-07-01,17,Francesca Rita,21,,,39
+LA_A014,M,1979-10-22,2022-07-01,13,Francesca Rita,42,,,17
+LA_A015,F,1980-03-18,2022-07-01,21,Francesca Rita,42,,,55
+LA_A016,F,1996-03-25,2022-07-01,20,Francesca Rita,26,,,63
+LA_A017,M,1973-06-30,2022-07-01,9,Francesca Rita,49,,,12
+LA_A018,M,1981-12-22,2022-07-01,38,Francesca Rita,40,,,461
+LA_A019,M,2002-08-03,2022-07-07,25,Marianna,19,,,73
+LA_A020,F,1992-01-10,2022-07-07,11,Marianna,30,,,14
+LA_A021,M,2001-07-26,2022-07-07,21,Francesca Rita,20,"Dopo poco ha cliccato per sbaglio sul tasto ""basta"". Questa prima prova, dove ha individuato 21 elementi, è stata inserita nella cartella ""Results"" con il nome di ""LA_A021.JSON"". Ha poi voluto ricominciare il gioco. Questa seconda prova, in cui ha trovato 84 elementi, è stata inserita nella cartella ""Results"" con il nome di ""LA_A022.JSON"".","After a while, he accidentally clicked on the 'stop' button. This first test, where he found 21 items, was placed in the 'Results' folder with the name 'LA_A021.JSON'. He then wanted to start the game again. This second trial, where he found 84 elements, was placed in the ""Results"" folder with the name ""LA_A022.JSON"".",47
+LA_A022,M,2001-07-26,2022-07-07,84,Francesca Rita,20,,,380
+LA_A023,F,1998-08-17,2022-07-19,22,Francesca Rita,23,,,81
+LA_A024,M,2003-04-14,2022-07-21,28,Francesca Rita,19,,,253
+LA_A025,F,2003-04-17,2022-07-21,35,Francesca Rita,19,,,220
+LA_A026,M,2002-01-18,2022-07-27,63,Francesca Rita,20,"Nel questionario alla domanda ""quanti figli hai?"" ha risposto 2. In realtà si è sbagliato. Non ha figli","In the questionnaire to the question ""how many children do you have?"" he answered 2. He was actually mistaken. He has no children",401
+LA_A027,M,1989-09-29,2022-08-05,19,Francesca Rita,32,,,50
+LA_A028,M,1974-06-24,2022-08-05,12,Francesca Rita,48,,,16
+LA_A029,M,1975-03-06,2022-08-05,14,Francesca Rita,47,,,30
+LA_A030,M,1980-01-02,2022-08-05,15,Francesca Rita,42,,,30
+LA_A031,M,1995-06-24,2022-08-05,19,Francesca Rita,27,,,75
+LA_A032,M,1983-01-15,2022-08-05,27,Francesca Rita,39,,,133
+LA_A033,M,1981-06-10,2022-08-05,31,Francesca Rita,41,,,182
+LA_A034,F,1995-08-08,2022-08-05,13,Francesca Rita,26,,,45
+LA_A035,M,1972-11-20,2022-08-05,25,Francesca Rita,49,,,134
+LA_A036,M,1985-06-11,2022-08-05,32,Francesca Rita,37,,,295
+LA_A037,F,1992-12-08,2022-08-09,14,Francesca Rita,29,,,48
+LA_A038,M,1989-11-27,2022-08-09,53,Francesca Rita,32,,,352
+LA_A039,F,1997-06-23,2022-08-09,43,Francesca Rita,25,,,335
+LA_A040,M,1997-12-28,2022-08-09,33,Francesca Rita,24,,,296
+LA_A041,M,1992-07-22,2022-08-09,32,Francesca Rita,30,,,209
+LA_A042,F,1971-06-19,2022-08-10,9,Francesca Rita,51,,,11
+LA_A043,M,1990-09-27,2022-08-11,16,Francesca Rita,31,,,65
+LA_A044,M,1988-06-09,2022-08-11,15,Francesca Rita,34,,,58
+LA_A045,M,1991-01-04,2022-08-11,16,Francesca Rita,31,,,47
+LA_A046,M,2002-10-24,2022-08-11,14,Francesca Rita,19,,,48
+LA_A047,M,2002-06-11,2022-08-11,25,Francesca Rita,20,,,70
+LA_A048,M,2002-08-07,2022-08-11,45,Francesca Rita,20,,,462
+LA_A049,M,2001-11-03,2022-08-11,30,Francesca Rita,20,,,202
+LA_A050,F,2002-10-19,2022-08-11,22,Francesca Rita,19,,,134
+LA_A051,M,1984-11-10,2022-08-19,46,Marianna,37,,,438
+LA_A052,F,1973-07-19,2022-08-22,16,Giulia,49,,,59
+LA_A053,M,1982-09-10,2022-08-24,25,Francesca Rita,39,"Nel questionario ha scritto di avere due case di proprietà, ma in realtà ne possiede solo una","In the questionnaire he wrote that he owns two houses, but in reality he owns only one",161
+LA_A054,M,1996-12-21,2022-08-24,10,Francesca Rita,25,,,9
+LA_A055,M,1999-01-04,2022-08-24,17,Francesca Rita,23,,,37
+LA_A056,M,1992-10-02,2022-09-01,18,Francesca Rita,29,,,50
+LA_A057,M,1991-10-02,2022-09-01,24,Francesca Rita,30,,,145
+LA_A058,M,1973-04-13,2022-09-01,21,Francesca Rita,49,,,156
+LA_A059,M,1988-02-13,2022-09-01,24,Francesca Rita,34,,,167
+LA_A060,F,1992-08-28,2022-09-01,31,Francesca Rita,30,,,61

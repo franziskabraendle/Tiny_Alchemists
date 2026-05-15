@@ -1,0 +1,345 @@
+element,name,empowerment
+0,water,29
+1,fire,23
+2,earth,17
+3,air,13
+4,acid rain,0
+5,airplane,7
+8,algae,1
+9,alien,1
+10,allergy,0
+11,alligator,0
+12,alpaca,0
+14,angel,1
+17,antarctica,2
+18,aquarium,0
+19,archipelago,0
+21,armor,3
+22,ash,1
+23,astronaut,1
+24,atmosphere,2
+25,atomic bomb,0
+26,aurora,0
+27,avalanche,0
+29,bacon,1
+30,bacteria,3
+31,baker,1
+32,bakery,0
+35,bandage,0
+36,bank,0
+37,barn,1
+40,batter,0
+41,bayonet,0
+43,beach,5
+49,bird,19
+50,birdhouse,0
+51,black hole,0
+52,blade,11
+53,blender,0
+54,blizzard,0
+55,blood,3
+57,boiler,1
+61,bread,5
+62,brick,2
+63,bridge,0
+65,bullet,2
+66,bulletproof vest,0
+68,butcher,1
+69,butter,0
+71,cactus,1
+73,camel,0
+77,cannon,0
+80,carbon dioxide,4
+81,carrot,1
+83,castle,4
+86,caviar,0
+87,centaur,0
+88,cereal,0
+90,chameleon,0
+94,chicken,1
+95,chicken soup,0
+101,city,2
+102,clay,3
+104,cloud,7
+105,coal,2
+109,cold,5
+110,computer,1
+113,constellation,0
+115,corpse,6
+116,cotton,1
+117,cow,6
+118,crow,0
+119,crystal ball,1
+121,cyborg,0
+123,dam,1
+124,darth vader,0
+125,day,2
+126,desert,6
+127,dew,0
+128,diamond,1
+130,doctor,3
+133,donut,0
+134,double rainbow!,1
+135,dough,5
+136,dragon,1
+137,drone,0
+140,dry ice,0
+141,duck,1
+142,duckling,0
+143,dune,0
+144,dust,2
+145,dynamite,0
+146,eagle,0
+147,earthquake,2
+148,eclipse,0
+149,egg,10
+153,electrician,0
+154,electricity,15
+156,energy,14
+157,engineer,1
+159,excalibur,1
+160,explosion,5
+161,fabric,2
+163,family,0
+165,farm,0
+166,farmer,7
+167,faun,0
+169,field,3
+170,fire extinguisher,0
+171,fireman,0
+174,fireworks,0
+177,flamethrower,1
+178,flashlight,1
+179,flood,0
+180,flour,4
+181,flower,6
+185,fog,2
+189,fountain,0
+191,frankenstein,0
+193,fridge,0
+198,garden,4
+199,gardener,0
+200,geyser,0
+201,ghost,0
+203,gingerbread house,0
+204,gingerbread man,1
+205,glacier,0
+206,glass,10
+207,glasses,6
+208,gnome,0
+209,goat,2
+211,gold,2
+212,golem,0
+213,granite,0
+214,grass,8
+215,grave,3
+216,gravestone,1
+217,graveyard,1
+218,greenhouse,0
+219,grenade,0
+221,grim reaper,1
+222,gun,5
+223,gunpowder,4
+224,hail,0
+226,hamburger,0
+229,hard roe,1
+230,harp,0
+231,hay,7
+232,hay bale,0
+234,helicopter,0
+235,hero,0
+236,hippo,0
+238,horizon,0
+239,horse,8
+240,horseshoe,0
+241,hospital,2
+242,hourglass,0
+243,house,16
+244,human,43
+245,hummingbird,0
+246,hurricane,1
+247,ice,10
+248,ice cream,1
+250,iceberg,1
+252,idea,0
+253,igloo,0
+254,internet,0
+255,isle,1
+256,ivy,0
+259,jedi,2
+260,jerky,0
+263,knight,3
+264,lake,1
+265,lamp,1
+266,lava,6
+267,lava lamp,0
+268,lawn mower,0
+270,leather,1
+273,life,12
+274,light,6
+275,light bulb,3
+276,lighthouse,0
+277,lightsaber,1
+279,livestock,9
+280,lizard,4
+282,love,1
+286,manatee,0
+288,mars,0
+290,mayonnaise,0
+291,meat,3
+294,metal,24
+295,meteor,0
+296,meteoroid,1
+297,microscope,0
+298,milk,6
+299,milk shake,0
+303,monarch,0
+306,moon,5
+307,moss,0
+309,mountain,9
+310,mountain goat,0
+311,mountain range,1
+314,mud,4
+315,mummy,0
+316,music,1
+317,narwhal,0
+318,needle,0
+319,nerd,2
+320,nest,0
+322,night,6
+323,ninja,0
+324,oasis,0
+325,obsidian,0
+326,ocean,19
+327,oil,3
+328,omelette,0
+329,optical fiber,0
+332,ostrich,0
+333,owl,0
+334,oxygen,3
+335,ozone,0
+336,paint,0
+341,pasta,0
+342,peacock,0
+343,pegasus,0
+345,penguin,0
+348,phoenix,0
+349,picnic,0
+351,pig,4
+352,pigeon,0
+353,piggy bank,0
+354,pilot,0
+360,pitchfork,1
+362,planet,2
+363,plankton,0
+364,plant,19
+366,pond,4
+368,pottery,2
+369,pressure,8
+371,prism,0
+373,puddle,0
+375,pyramid,1
+376,rain,9
+377,rainbow,7
+381,ring,0
+382,river,6
+383,robot,2
+384,rocket,2
+386,rope,0
+387,rose,0
+390,rust,1
+392,saddle,0
+393,safety glasses,0
+396,salt,1
+397,sand,12
+398,sand castle,0
+400,sandstone,0
+401,sandstorm,0
+402,sandwich,2
+404,scalpel,0
+405,scarecrow,1
+406,scissors,1
+408,scythe,3
+409,sea,21
+410,seagull,0
+411,seahorse,0
+413,seaplane,1
+414,seasickness,0
+416,shark,0
+417,sheep,2
+419,shuriken,1
+420,sickness,3
+423,ski goggles,0
+424,sky,15
+425,skyscraper,1
+428,smog,1
+432,snow,10
+433,snow globe,0
+434,snowball,1
+435,snowboard,0
+436,snowman,2
+438,soap,0
+439,soda,0
+440,solar cell,1
+441,solar system,0
+442,sound,1
+443,space,7
+444,space station,1
+445,spaceship,0
+449,star,7
+450,starfish,0
+451,statue,3
+452,steak,0
+453,steam,4
+454,steam engine,2
+455,steamboat,2
+456,steel,7
+457,stethoscope,0
+458,stone,13
+459,storm,3
+462,sun,19
+464,sunflower,1
+465,sunglasses,0
+466,super nova,0
+467,surfer,1
+469,swamp,5
+470,sweater,0
+471,swim goggles,1
+472,swimmer,0
+473,sword,4
+476,taser,0
+478,telescope,1
+479,thread,3
+480,tide,0
+482,titanic,0
+483,toast,0
+484,tobacco,0
+485,tool,20
+488,train,0
+494,tsunami,0
+495,turtle,1
+496,twilight,0
+498,ufo,0
+499,umbrella,0
+500,unicorn,2
+502,vampire,2
+503,vase,0
+505,village,1
+506,volcano,2
+507,vulture,0
+509,wall,3
+511,warrior,0
+513,water gun,0
+514,water lily,0
+516,waterfall,0
+517,wave,3
+521,wheat,3
+525,wind,7
+526,wind turbine,1
+527,windmill,3
+529,wire,5
+531,wizard,2
+535,wool,1
+537,yoda,0
+538,yogurt,0
+539,zombie,2
