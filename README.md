@@ -1,4 +1,4 @@
-# Little Alchemy with Children
+# Tiny Alchemists
 
 This code and data can be used to replicate the results from the project "Tiny Alchemists" by Franziska Brändle, Azzurra Ruggeri Silja Keßler, and Eric Schulz.
 
