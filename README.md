@@ -12,9 +12,11 @@ The data collected in the main study (exp1) can be found in 'resources/playerdat
 
 ## Additional Data
 
-The two regression data files can be found at xyz. Copy them into empowermentexploration/data/regression/
+Additional data can be found at https://osf.io/pruhq/files/osfstorage
 
-The files for the costumgametree can be found at xyz. Copy them into empowermentexploration/resources/customgametree/data/
+The two regression data files need to be copied into empowermentexploration/data/regression/
+
+The costumgametree files need to be copied into empowermentexploration/resources/customgametree/data/
 
 ## Usage
 
